@@ -1,0 +1,149 @@
+# Protein
+  # Genus - BV- count, BV+ count
+
+Pullulanase
+	Gardnerella - 0, 11
+	Gardnerella - 0, 20
+	Gardnerella - 0, 9
+SusC Polysaccharide Import Protein
+	Prevotella amnii - 0, 7
+	Prevotella bivia - 0, 63
+	Prevotella timonensis - 0, 54
+	Prevotella disiens - 0, 24
+	Prevotella - 0, 13
+	Porphyromonas uenonis - 0, 9
+SusD Starch-Binding Protein
+	Prevotella timonensis - 0, 137
+	Prevotella buccalis - 0, 15
+	Prevotella bivia - 0, 36
+	Prevotella disiens - 0, 14
+	Prevotella - 0, 11
+SusE Starch-Binding Protein
+	Prevotella timonensis - 0, 29
+	Prevotella buccalis - 0, 5
+Lactate Dehydrogenase
+	Lactobacillus - 12, 0
+	Lactobacillus iners - 145, 37
+	Lactobacillus - 7, 0
+	Gardnerella - 0, 32
+	Gardnerella - 0, 2
+	Gardnerella - 0, 15
+	Candidatus Lachnocurva - 0, 8
+	Lactobacillus iners - 4, 0
+	Total: Lactobacillus - 168, 37
+	Total: Gardnerella - 0, 49
+	Total Lachnocurva - 0, 8
+Pyruvate formate lyase
+	Amygdalobacter - 0, 63
+	Anaerococcus, Atopobium, Candidatus Lachnocurva, Fannyhessea, Megasphaera, Peptoniphilus, Porphyromonas, Prevotella, Sutterella, Veillonella - 0, 60
+	Arcanobacterium, Gardnerella - 0, 53
+	Bulleidia, Candidatus Lachnocurva, Gemella, Megasphaera - 0, 43
+	Gardnerella - 0, 33
+	Megasphaera - 0, 30
+	Megasphaera - 0, 20
+	Sneathia - 0, 12
+	Amygdalobacter, Anaerococcus, Atopobium, Fannyhessea, Megasphaera, Prevotella, Sutterella - 0, 7
+	Gardnerella - 0, 5
+	Gardnerella - 0, 3
+	Megasphaera, Sutterella - 0, 2
+	Megasphaera - 0, 2
+	Veillonellaceae - 0, 2
+	Prevotella - 0, 1
+	Gardnerella - 0, 1
+	Gardnerella - 0, 1
+	TOTAL: Amygdalobacter, Anaerococcus, Arcanobacterium, Atopobium, Bulleidia, Candidatus Lachnocurva, Fannyhessea, Gardnerella, Gemella, Megasphaera, Peptoniphilus, Porphyromonas, Prevotella, Sneathia, Sutterella, Veillonella - 0, 338
+Anaerobic ribonucleoside-triphosphate reductase
+	Gardnerella - 31, 119
+		G. vaginalis - 10, 29
+		G. piotii - 6, 18
+		G. leopoldii - 0, 4
+		G. swidsinskii - 0, 8
+	TOTAL: Terrabacteria group, Gardnerella - 31, 120
+Acetyl-CoA Hydrolase
+	Megasphaera lornae - 0, 3
+	Porphyromonas uenonis - 0, 4
+	Megasphaera - 0, 2
+	Megasphaera - 0, 5
+	TOTAL: Megasphaera, Porphyromonas - 0, 14
+Phosphate Acetyltransferase
+	Lachnocurva - 0, 5
+	Gardnerella - 0, 52
+Acetate Kinase
+	Gardnerella - 0, 14
+	Gardnerella - 0, 5
+	Gardnerella - 0, 7
+	Gardnerella - 0, 4
+	Gardnerella, Mobiluncus - 1, 41
+	Gardnerella - 0, 1
+	Gardnerella - 0, 1
+Phosphoenolpyruvate Carboxykinase
+	Prevotella/Porphyromonas - 0, 190
+	TOTAL: Prevotella, Porphyromonas - 0, 190
+Malate Dehydrogenase
+	Prevotella - 0, 41
+	TOTAL: Prevotella - 0, 41
+Fumarate Hydratase
+	Prevotella - 0, 4
+	TOTAL: Prevotella - 0, 4
+Succinate Dehydrogenase
+	Porphyromonas, Prevotella - 0, 2
+	Porphyromonas, Prevotella - 0, 7
+	Prevotella - 0, 3
+	Porphyromonas, Prevotella - 0, 2
+Acetaldehyde dehydrogenase
+	Gardnerella vaginalis - 0, 32
+Alcohol dehydrogenase
+	Gardnerella - 0, 23
+	Gardnerella, Sneathia - 3, 39
+	Gardnerella - 0, 28
+	Tissierellia - 0, 5
+	Gardnerella - 0, 5
+	Gardnerella - 0, 1
+	Gardnerella - 0, 1
+	Tissierellia, Sneathia, Candidatus Lachnocurva, Parvimonas - 0, 20
+	Gardnerella - 0, 8
+	Mageeibacillus - 0, 4
+	Gardnerella - 0, 6
+	Total: Candidatus Lachnocurva, Gardnerella, Mageeibacillus, Parvimonas, Sneathia, Tissierellia - 3, 68
+	Total: Gardnerella: 72
+Vaginolysin
+	G. vaginalis, G. swidsinkii - 0, 20
+	G. leopoldii, G. swidsinkii - 0, 20
+	G. swidsinskii - 0, 80
+	G. leopoldii - 0, 18
+	G. piotii - 0, 1
+	Gardnerella - 0, 87
+	G. vaginalis - 0, 75
+Glutamine synthetase
+	Gardnerela - 0, 31
+	Gardnerella - 0, 1
+Glutamate transporter
+	Gardnerella - 0, 33
+Glutamate dehydrogenase
+	Porphyromonas, Prevotella, Fannyhessea - 0, 59
+	Gemella, Megasphaera, Fannyhessea, Aerococcus, Peptoniphilus, Mobiluncus, Streptococcus, Arcanobacterium - 0, 17
+	Prevotella, Porphyromonas - 0, 23
+	Porphyromonas - 0, 16
+	Prevotella, Porphyromonas - 0, 30
+	Fannyhessea - 0, 1
+	Prevotella - 0, 18
+	Megasphaera - 0, 2
+	Prevotella - 0, 1
+	TOTAL: Aerococcus, Arcanobacterium, Fannyhessea, Gemella, Megasphaera, Mobiluncus Porphyromonas, Prevotella, Streptococcus - 0, 167
+Pyruvate:Ferredoxin Oxidoreductase
+	Peptoniphilus, Veillonella, Porphyromonas, Megasphaera, Murdochiella - 0, 66
+	Porphyromonas, Prevotella, Dialister, Megasphaera - 0, 11
+	Prevotella - 0, 1
+	Prevotella - 0, 1
+	Prevotella - 0, 1
+	TOTAL: Dialister, Megasphaera, Murdochiella, Peptoniphilus, Porphyromonas, Prevotella, Veillonella - 0, 80
+Arginine deiminase
+	Sneathia vaginalis - 0, 8
+	Fannyhessea vaginae - 0, 6
+Ornithine carbamoyltransferase
+	Tissierellia, Mageeibacillus, Sneathia, Fannyhessea vaginae, Parvimonas micra - 0, 4
+	Mageeibacillus, Tissierellia, Sneathia, Fannyhessea, Parvimonas - 0, 7
+	TOTAL: Fannyhessea, Mageeibacillus, Parvimonas, Sneathia, Tissierellia - 0, 11
+	Fannyhessea vaginae - 0, 1
+Ornithine decarboxylase
+	Dialister micraerophilus - 0, 9
