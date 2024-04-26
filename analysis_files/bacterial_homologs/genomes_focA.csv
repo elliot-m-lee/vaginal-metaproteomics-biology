@@ -1,0 +1,228 @@
+id,protein,taxa,e-value
+OWY46344.1, prenyl protease,Alternaria alternata,1.73E-26
+OAG22755.1, hypothetical protein CC77DRAFT_959173,Alternaria alternata,3.34E-26
+WP_004828103.1, formate/nitrite transporter family protein,Anaerococcus lactolyticus,2.34E-53
+WP_037326838.1, formate/nitrite transporter family protein,Anaerococcus lactolyticus,8.41E-53
+WP_131749704.1, formate/nitrite transporter family protein,Anaerococcus prevotii,9.59E-19
+WP_004838145.1, formate/nitrite transporter family protein,Anaerococcus vaginalis,2.15E-48
+WP_048707123.1, MULTISPECIES: formate transporter,Arcanobacterium haemolyticum,9.38E-77
+WP_113723124.1, formate/nitrite transporter,Arcanobacterium haemolyticum,2.38E-13
+WP_138975047.1, formate/nitrite transporter family protein,Arcanobacterium haemolyticum,2.92E-13
+WP_013169718.1, formate/nitrite transporter family protein,Arcanobacterium haemolyticum,3.89E-13
+KHC73320.1, formate/nitrite transporter,Candida albicans,1.84E-18
+KGT66045.1, formate/nitrite transporter,Candida albicans,1.84E-18
+KGU04768.1, formate/nitrite transporter,Candida albicans,1.85E-18
+RLP65836.1, hypothetical protein L150_04611,Candida albicans,1.89E-18
+KGU22618.1, formate/nitrite transporter,Candida albicans,1.94E-18
+KHC58296.1, formate/nitrite transporter,Candida albicans,1.94E-18
+KHC47686.1, formate/nitrite transporter,Candida albicans,1.96E-18
+KGU25719.1, formate/nitrite transporter,Candida albicans,1.98E-18
+KGQ84165.1, formate/nitrite transporter,Candida albicans,2.52E-18
+CAG61301.1, unnamed protein product,Candida glabrata,1.47E-12
+SCV14712.1, uncharacterized protein CGFF_02269,Candida glabrata,1.54E-12
+KTB12085.1, putative transporter,Candida glabrata,1.71E-12
+EER34047.1, hypothetical protein CTRG_02865,Candida tropicalis,7.73E-16
+KXB51880.1, putative formate transporter FocA,Eggerthella like,3.61E-53
+WP_000642546.1, MULTISPECIES: formate transporter FocA,Escherichia coli,0
+WP_038430862.1, formate transporter FocA,Escherichia coli,0
+WP_065227396.1, formate transporter FocA,Escherichia coli,3.90E-94
+NP_416987.1, putative formate transporter,Escherichia coli,2.07E-93
+YP_002413510.1, putative formate transporter,Escherichia coli,2.75E-93
+WP_001244723.1, MULTISPECIES: formate transporter,Escherichia coli,8.54E-93
+WP_001244720.1, formate transporter,Escherichia coli,1.02E-92
+WP_001244742.1, formate transporter,Escherichia coli,1.59E-92
+YP_002408578.1, putative formate transporter,Escherichia coli,1.45E-91
+YP_006778100.1, formate transporter,Escherichia coli,5.73E-71
+WP_000493579.1, nitrite transporter NirC,Escherichia coli,1.63E-14
+WP_000493556.1, MULTISPECIES: nitrite transporter NirC,Escherichia coli,4.12E-14
+WP_000493550.1, MULTISPECIES: nitrite transporter NirC,Escherichia coli,4.33E-14
+YP_006121682.1, nitrite transporter NirC,Escherichia coli,5.17E-14
+YP_002414482.1, nitrite transporter,Escherichia coli,5.17E-14
+WP_000493547.1, nitrite transporter NirC,Escherichia coli,5.99E-14
+WP_000886534.1, MULTISPECIES: formate transporter 1 domain protein,Escherichia coli,7.22E-12
+WP_022505323.1, formate/nitrite transporter,Eubacterium sp,6.58E-43
+WP_118517253.1, formate/nitrite transporter family protein,Eubacterium sp,2.02E-40
+WP_117999073.1, formate/nitrite transporter family protein,Eubacterium sp,4.11E-39
+WP_117913705.1, formate/nitrite transporter family protein,Eubacterium sp,1.54E-38
+WP_022166213.1, formate/nitrite transporter,Eubacterium sp,2.38E-38
+WP_073383434.1, MULTISPECIES: formate/nitrite transporter family protein,Eubacterium sp,2.21E-37
+WP_119212039.1, formate/nitrite transporter family protein,Eubacterium sp,6.35E-36
+WP_022259882.1, formate/nitrite transporter,Eubacterium sp,1.73E-35
+WP_022088291.1, hypothetical protein,Eubacterium sp,2.03E-35
+WP_117910360.1, MULTISPECIES: formate/nitrite transporter family protein,Eubacterium sp,7.00E-35
+WP_118436904.1, formate/nitrite transporter family protein,Eubacterium sp,7.13E-35
+WP_022089809.1, formate/nitrite transporter,Eubacterium sp,6.09E-33
+WP_021982969.1, formate/nitrite transporter,Eubacterium sp,3.82E-30
+WP_118588492.1, formate/nitrite transporter family protein,Eubacterium sp,1.11E-28
+WP_021953210.1," formate/nitrite transporter, partial",Eubacterium sp,1.74E-26
+WP_118518734.1, nitrite transporter NirC,Eubacterium sp,7.74E-23
+WP_013381127.1, MULTISPECIES: formate/nitrite transporter family protein,Eubacterium sp,9.74E-22
+WP_022431349.1, formate/nitrite transporter,Eubacterium sp,3.04E-18
+WP_022207473.1, formate/nitrite transporter,Eubacterium sp,1.19E-15
+WP_022502881.1, formate/nitrite transporter,Eubacterium sp,4.82E-15
+WP_022204690.1, formate/nitrite transporter,Eubacterium sp,1.33E-14
+WP_021866327.1, formate/nitrite transporter family protein,Eubacterium sp,3.55E-14
+WP_022235208.1, formate/nitrite transporter,Eubacterium sp,2.36E-07
+WP_117706747.1, formate/nitrite transporter family protein,Eubacterium sp,1.00E-06
+WP_027869602.1, formate/nitrite transporter family protein,Eubacterium sp,9.49E-05
+WP_075574547.1, formate/nitrite transporter family protein,Ezakiella massiliensis,8.60E-30
+WP_019213837.1, formate/nitrite transporter family protein,Fenollaria massiliensis,6.84E-34
+WP_058260099.1, formate/nitrite transporter family protein,Fenollaria timonensis,4.11E-32
+WP_094205250.1, formate/nitrite transporter family protein,Finegoldia magna,2.11E-07
+WP_002835617.1, MULTISPECIES: formate/nitrite transporter family protein,Finegoldia magna,2.23E-07
+WP_094204106.1, formate/nitrite transporter family protein,Finegoldia magna,2.60E-07
+WP_110058139.1, formate transporter,Finegoldia magna,3.09E-07
+WP_102164241.1, formate/nitrite transporter family protein,Finegoldia magna,3.24E-07
+WP_094208205.1, formate/nitrite transporter family protein,Finegoldia magna,3.24E-07
+WP_002841313.1, formate/nitrite transporter family protein,Finegoldia magna,4.15E-07
+WP_060790185.1, formate/nitrite transporter family protein,Finegoldia magna,5.80E-07
+WP_094224340.1, formate/nitrite transporter family protein,Finegoldia magna,9.50E-07
+WP_002839732.1, formate/nitrite transporter family protein,Finegoldia magna,9.59E-07
+WP_004166936.1, formate/nitrite transporter family protein,Finegoldia magna,1.39E-06
+WP_005902843.1, formate/nitrite transporter family protein,Fusobacterium nucleatum,3.74E-34
+NP_604038.1, formate transporter,Fusobacterium nucleatum,4.92E-34
+WP_023041445.1, formate/nitrite transporter family protein,Fusobacterium nucleatum,2.36E-33
+WP_005909024.1, formate/nitrite transporter family protein,Fusobacterium nucleatum,3.01E-33
+WP_008691942.1, formate/nitrite transporter family protein,Fusobacterium nucleatum,3.60E-33
+WP_158411699.1, formate/nitrite transporter family protein,Fusobacterium nucleatum,3.72E-33
+WP_060676377.1, formate/nitrite transporter family protein,Fusobacterium nucleatum,3.76E-33
+WP_005907052.1, MULTISPECIES: formate transporter,Fusobacterium nucleatum,3.84E-33
+WP_150150811.1, formate/nitrite transporter family protein,Fusobacterium nucleatum,4.13E-33
+WP_023040121.1, MULTISPECIES: formate/nitrite transporter family protein,Fusobacterium nucleatum,6.94E-33
+WP_008798192.1, formate/nitrite transporter family protein,Fusobacterium nucleatum,1.88E-32
+WP_009006390.1, formate/nitrite transporter family protein,Fusobacterium nucleatum,2.08E-32
+WP_023038927.1, formate/nitrite transporter family protein,Fusobacterium nucleatum,2.24E-32
+WP_008802768.1, formate/nitrite transporter family protein,Fusobacterium nucleatum,3.77E-32
+WP_029600376.1, formate/nitrite transporter family protein,Fusobacterium nucleatum,9.44E-32
+WP_099002290.1, MULTISPECIES: formate/nitrite transporter family protein,Fusobacterium nucleatum,1.29E-31
+WP_008797161.1, MULTISPECIES: formate/nitrite transporter family protein,Fusobacterium nucleatum,2.68E-31
+WP_032835786.1, MULTISPECIES: formate/nitrite transporter family protein,Fusobacterium nucleatum,4.45E-31
+WP_005896495.1, formate/nitrite transporter family protein,Fusobacterium nucleatum,7.61E-31
+WP_098702377.1, formate transporter,Fusobacterium nucleatum,1.26E-30
+WP_029759562.1, formate/nitrite transporter family protein,Fusobacterium nucleatum,1.49E-14
+WP_066129386.1, formate/nitrite transporter family protein,Gemella asaccharolytica,1.79E-20
+WP_003145839.1, formate/nitrite transporter family protein,Gemella haemolysans,1.35E-21
+WP_003145840.1, formate/nitrite transporter family protein,Gemella haemolysans,3.66E-19
+WP_060913871.1, formate/nitrite transporter family protein,Gemella haemolysans,6.07E-19
+WP_003144765.1, formate/nitrite transporter family protein,Gemella haemolysans,9.78E-19
+WP_126512587.1, formate/nitrite transporter family protein,Gemella haemolysans,7.63E-18
+WP_114891478.1, formate transporter FocA,Haemophilus haemolyticus,2.48E-102
+WP_046942302.1, formate transporter FocA,Haemophilus haemolyticus,7.81E-102
+WP_005635109.1, formate transporter FocA,Haemophilus haemolyticus,9.30E-102
+WP_065245670.1, formate transporter FocA,Haemophilus haemolyticus,1.16E-101
+WP_118858889.1, formate transporter FocA,Haemophilus haemolyticus,1.22E-101
+WP_118813489.1, formate transporter FocA,Haemophilus haemolyticus,1.30E-101
+WP_053465239.1, MULTISPECIES: formate transporter FocA,Haemophilus haemolyticus,1.75E-101
+WP_118788949.1, formate transporter FocA,Haemophilus haemolyticus,2.06E-101
+WP_046950591.1, formate transporter FocA,Haemophilus haemolyticus,2.20E-101
+WP_111695986.1, formate transporter FocA,Haemophilus haemolyticus,4.06E-101
+WP_005639778.1, MULTISPECIES: formate transporter FocA,Haemophilus haemolyticus,4.78E-101
+WP_118855532.1, formate transporter FocA,Haemophilus haemolyticus,4.94E-101
+WP_134079448.1, formate transporter FocA,Haemophilus haemolyticus,4.94E-101
+WP_118791584.1, formate transporter FocA,Haemophilus haemolyticus,5.45E-101
+WP_118841855.1, formate transporter FocA,Haemophilus haemolyticus,5.69E-101
+WP_118868268.1, formate transporter FocA,Haemophilus haemolyticus,9.61E-101
+WP_005647050.1, formate transporter FocA,Haemophilus haemolyticus,1.08E-100
+WP_046939114.1, formate transporter FocA,Haemophilus haemolyticus,1.18E-100
+WP_118775400.1, formate transporter FocA,Haemophilus haemolyticus,1.41E-100
+WP_048954196.1, formate transporter FocA,Haemophilus haemolyticus,1.61E-100
+WP_005632020.1, formate transporter FocA,Haemophilus haemolyticus,1.71E-100
+WP_118843431.1, formate transporter FocA,Haemophilus haemolyticus,1.79E-100
+WP_046952786.1, formate transporter FocA,Haemophilus haemolyticus,2.13E-100
+WP_106013457.1, formate transporter FocA,Haemophilus haemolyticus,2.93E-100
+WP_005627709.1, MULTISPECIES: formate transporter FocA,Haemophilus haemolyticus,3.72E-100
+WP_118809029.1, formate transporter FocA,Haemophilus haemolyticus,5.22E-100
+WP_005636450.1, formate transporter FocA,Haemophilus haemolyticus,5.82E-100
+WP_118800979.1, formate transporter FocA,Haemophilus haemolyticus,1.01E-99
+WP_053978905.1, formate/nitrite transporter family protein,Lawsonella clevelandensis,8.14E-05
+WP_118022230.1, formate/nitrite transporter family protein,Megasphaera lornae,4.57E-45
+WP_118021499.1, formate/nitrite transporter family protein,Megasphaera lornae,1.16E-19
+WP_059076044.1, MULTISPECIES: formate/nitrite transporter family protein,Megasphaera lornae,3.98E-19
+WP_083122536.1, formate/nitrite transporter family protein,Megasphaera lornae,7.00E-17
+WP_020310958.1, MULTISPECIES: formate/nitrite transporter family protein,Megasphaera lornae,3.18E-16
+WP_062412751.1, MULTISPECIES: formate/nitrite transporter family protein,Megasphaera lornae,2.46E-14
+WP_065360903.1, formate/nitrite transporter family protein,Megasphaera lornae,4.27E-14
+WP_082709394.1, MULTISPECIES: formate/nitrite transporter family protein,Megasphaera lornae,1.14E-13
+WP_113856462.1, MULTISPECIES: formate/nitrite transporter family protein,Megasphaera lornae,1.46E-11
+WP_059076423.1, formate/nitrite transporter family protein,Megasphaera lornae,1.87E-11
+WP_118022203.1, formate/nitrite transporter family protein,Megasphaera lornae,5.36E-11
+WP_006941199.1, formate/nitrite transporter family protein,Megasphaera micronuciformis,2.11E-42
+WP_040658954.1, formate/nitrite transporter family protein,Oscillibacter ruminantium,1.48E-28
+WP_150263309.1, formate/nitrite transporter family protein,Parvimonas micra,4.88E-37
+WP_041954681.1, formate/nitrite transporter family protein,Parvimonas micra,6.37E-37
+WP_029950222.1, formate/nitrite transporter family protein,Parvimonas micra,1.04E-36
+WP_004832703.1, formate/nitrite transporter family protein,Parvimonas micra,7.20E-36
+WP_075659477.1, formate/nitrite transporter family protein,Peptoniphilus grossensis,4.17E-23
+WP_019124920.1, formate/nitrite transporter family protein,Peptoniphilus grossensis,1.41E-22
+WP_060916770.1, formate/nitrite transporter family protein,Peptostreptococcus anaerobius,1.02E-17
+WP_004167201.1, formate/nitrite transporter family protein,Peptostreptococcus anaerobius,5.40E-17
+WP_061102063.1, formate/nitrite transporter family protein,Peptostreptococcus anaerobius,5.62E-17
+WP_002845904.1, formate/nitrite transporter family protein,Peptostreptococcus anaerobius,6.16E-17
+WP_154538107.1, nitrite transporter NirC,Peptostreptococcus anaerobius,5.69E-14
+WP_007790909.1, formate/nitrite transporter family protein,Peptostreptococcus stomatis,1.78E-14
+AWU77371.1, hypothetical protein C5L36_0D01100,Pichia kudriavzevii,1.04E-15
+OUT22354.1, hypothetical protein CAS74_002071,Pichia kudriavzevii,1.67E-15
+WP_044188795.1, formate/nitrite transporter family protein,Porphyromonas sp,3.52E-36
+WP_036863497.1, formate/nitrite transporter family protein,Porphyromonas sp,4.10E-36
+WP_044231772.1, formate/nitrite transporter family protein,Porphyromonas sp,8.07E-36
+WP_036846626.1, formate/nitrite transporter family protein,Porphyromonas sp,1.04E-35
+WP_039429719.1, MULTISPECIES: formate/nitrite transporter family protein,Porphyromonas sp,1.91E-35
+WP_018028172.1, hypothetical protein,Porphyromonas sp,7.25E-35
+WP_036881177.1, formate/nitrite transporter family protein,Porphyromonas sp,2.82E-34
+WP_070466178.1, formate/nitrite transporter family protein,Porphyromonas sp,1.12E-28
+AJU28607.1, hypothetical protein H758_YJM451H00044,Saccharomyces cerevisiae,1.59E-15
+AJU22335.1, hypothetical protein H826_YJM1463H00041,Saccharomyces cerevisiae,2.32E-15
+AJU16285.1, hypothetical protein H802_YJM1356H00043,Saccharomyces cerevisiae,2.65E-15
+AJU25824.1, hypothetical protein H747_YJM189H00043,Saccharomyces cerevisiae,2.72E-15
+AJU26075.1, hypothetical protein H748_YJM193H00042,Saccharomyces cerevisiae,2.82E-15
+AJV29991.1, hypothetical protein H791_YJM1273H00044,Saccharomyces cerevisiae,3.10E-15
+AJU28351.1, hypothetical protein H757_YJM450H00038,Saccharomyces cerevisiae,3.13E-15
+AJU19855.1, hypothetical protein H816_YJM1418H00044,Saccharomyces cerevisiae,3.34E-15
+AJU30116.1, hypothetical protein H764_YJM555H00038,Saccharomyces cerevisiae,3.70E-15
+AJU21567.1, hypothetical protein H823_YJM1447H00039,Saccharomyces cerevisiae,4.10E-15
+QHB08980.1, hypothetical protein SCEN_H00480,Saccharomyces cerevisiae,5.63E-15
+AJU26580.1, hypothetical protein H750_YJM244H00039,Saccharomyces cerevisiae,8.82E-15
+AJU19593.1, hypothetical protein H815_YJM1417H00039,Saccharomyces cerevisiae,9.07E-15
+AJU33894.1, hypothetical protein H776_YJM984H00039,Saccharomyces cerevisiae,9.24E-15
+AJU29121.1, hypothetical protein H760_YJM456H00042,Saccharomyces cerevisiae,1.30E-14
+AJU22080.1, hypothetical protein H825_YJM1460H00041,Saccharomyces cerevisiae,1.43E-14
+AJU30369.1, hypothetical protein H765_YJM627H00043,Saccharomyces cerevisiae,1.86E-14
+AJU16545.1, hypothetical protein H803_YJM1381H00042,Saccharomyces cerevisiae,3.40E-14
+WP_066729748.1, formate/nitrite transporter family protein,Sneathia sanguinegens,2.28E-16
+WP_046328264.1, formate/nitrite transporter family protein,Sneathia vaginalis,5.41E-21
+WP_000051851.1, MULTISPECIES: formate transporter,Streptococcus agalactiae,5.73E-10
+WP_001884238.1, formate/nitrate transporter,Streptococcus agalactiae,6.94E-10
+WP_000051852.1, MULTISPECIES: formate transporter,Streptococcus agalactiae,7.93E-10
+WP_000051853.1, formate/nitrate transporter,Streptococcus agalactiae,8.32E-10
+WP_000051848.1, MULTISPECIES: formate transporter,Streptococcus agalactiae,8.90E-10
+WP_102719841.1, formate transporter,Streptococcus agalactiae,3.32E-09
+WP_042751047.1, formate/nitrite transporter family protein,Streptococcus mitis,9.58E-05
+WP_154864899.1, formate/nitrite transporter family protein,Streptococcus salivarius,6.89E-07
+WP_045771791.1, formate transporter,Streptococcus salivarius,8.38E-07
+WP_037609453.1, MULTISPECIES: formate transporter,Streptococcus salivarius,9.82E-07
+WP_064520942.1, formate transporter,Streptococcus salivarius,1.27E-06
+WP_060973056.1, MULTISPECIES: formate/nitrite transporter family protein,Streptococcus salivarius,1.34E-06
+WP_014635096.1, MULTISPECIES: formate/nitrite transporter family protein,Streptococcus salivarius,1.44E-06
+WP_104021385.1, formate transporter,Streptococcus salivarius,1.48E-06
+WP_013991239.1, MULTISPECIES: formate transporter,Streptococcus salivarius,1.59E-06
+WP_073686910.1, formate transporter,Streptococcus salivarius,1.94E-06
+WP_084871050.1, formate transporter,Streptococcus salivarius,1.97E-06
+WP_070576667.1, MULTISPECIES: formate transporter,Streptococcus salivarius,2.07E-06
+WP_002885797.1, MULTISPECIES: formate transporter,Streptococcus salivarius,2.29E-06
+WP_021144672.1, MULTISPECIES: formate/nitrite transporter,Streptococcus salivarius,2.40E-06
+WP_064523466.1, MULTISPECIES: formate transporter,Streptococcus salivarius,2.58E-06
+WP_148512802.1, formate transporter,Streptococcus salivarius,6.07E-06
+WP_002886988.1, formate/nitrite transporter family protein,Streptococcus salivarius,1.59E-05
+WP_073687800.1, formate transporter,Streptococcus salivarius,2.23E-05
+WP_022443006.1, formate/nitrite transporter family protein,Sutterella sp,1.43E-44
+WP_118274552.1, formate/nitrite transporter family protein,Sutterella sp,7.98E-35
+WP_139687191.1, formate/nitrite transporter family protein,Sutterella sp,4.54E-32
+WP_022373746.1, formate transporter FocA,Sutterella sp,6.34E-28
+WP_005433104.1, MULTISPECIES: formate/nitrite transporter family protein,Sutterella sp;Sutterella wadsworthensis,3.85E-45
+WP_066780747.1, formate/nitrite transporter family protein,TM7 H1,1.77E-47
+EAY10930.1, Formate/nitrite transporter family protein,Trichomonas vaginalis,2.13E-10
+EAX93588.1, Formate/nitrite transporter family protein,Trichomonas vaginalis,5.31E-10
+EAY06086.1, Formate/nitrite transporter family protein,Trichomonas vaginalis,3.99E-08
+EAY02705.1, Formate/nitrite transporter family protein,Trichomonas vaginalis,2.75E-06
+WP_028256893.1, formate/nitrite transporter family protein,Veillonella montpellierensis,1.74E-05
+WP_038151367.1, formate/nitrite transporter family protein,Veillonella montpellierensis,6.28E-05

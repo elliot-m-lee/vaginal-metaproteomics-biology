@@ -1,0 +1,501 @@
+id,protein,taxa,e-value
+WP_009399930.1, amino acid ABC transporter ATP-binding protein,Actinomyces hongkongensis,1.47E-91
+WP_155525096.1, MULTISPECIES: ATP-binding cassette domain-containing protein,Actinomyces ihumii;Actinomyces radingae,1.57E-88
+WP_060936336.1, amino acid ABC transporter ATP-binding protein,Aerococcus christensenii,1.13E-97
+WP_060777173.1, amino acid ABC transporter ATP-binding protein,Aerococcus christensenii,3.67E-97
+WP_015777448.1, amino acid ABC transporter ATP-binding protein,Anaerococcus prevotii,1.13E-89
+WP_004833786.1, amino acid ABC transporter ATP-binding protein,Anaerococcus prevotii,1.70E-89
+WP_019116683.1, amino acid ABC transporter ATP-binding protein,Anaerococcus vaginalis,8.52E-92
+WP_019116500.1, amino acid ABC transporter ATP-binding protein,Anaerococcus vaginalis,2.90E-88
+WP_004808002.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Arcanobacterium haemolyticum,1.05E-120
+WP_013169385.1, amino acid ABC transporter ATP-binding protein,Arcanobacterium haemolyticum,3.32E-92
+WP_113722974.1, ectoine/hydroxyectoine ABC transporter ATP-binding protein EhuA,Arcanobacterium haemolyticum,1.06E-90
+WP_002563945.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Atopobium minutum,5.71E-135
+WP_003840758.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Bifidobacterium dentium,3.05E-165
+WP_065466859.1, amino acid ABC transporter ATP-binding protein,Bifidobacterium dentium,9.97E-165
+WP_003837000.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Bifidobacterium dentium,7.00E-90
+WP_003842505.1, amino acid ABC transporter ATP-binding protein,Bifidobacterium dentium,8.71E-90
+WP_005027783.1," MULTISPECIES: amino acid ABC transporter ATP-binding protein, partial",Bilophila wadsworthia,5.26E-108
+WP_005025934.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Bilophila wadsworthia,1.87E-101
+WP_009369024.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Bilophila wadsworthia,1.48E-95
+WP_016646655.1, amino acid ABC transporter ATP-binding protein,Campylobacter ureolyticus,2.97E-90
+WP_081755362.1, amino acid ABC transporter ATP-binding protein,Campylobacter ureolyticus,4.16E-90
+WP_018712784.1, amino acid ABC transporter ATP-binding protein,Campylobacter ureolyticus,6.44E-90
+WP_082162623.1, amino acid ABC transporter ATP-binding protein,Campylobacter ureolyticus,1.72E-89
+WP_101637001.1, amino acid ABC transporter ATP-binding protein,Campylobacter ureolyticus,3.28E-89
+WP_117819481.1, amino acid ABC transporter ATP-binding protein ,Clostridium leptum,1.83E-90
+WP_003532369.1, amino acid ABC transporter ATP-binding protein ,Clostridium leptum,1.51E-88
+WP_007554579.1, amino acid ABC transporter ATP-binding protein,Dialister micraerophilus,3.74E-94
+WP_007555416.1, amino acid ABC transporter ATP-binding protein,Dialister micraerophilus,1.58E-93
+WP_068721475.1, amino acid ABC transporter ATP-binding protein,Dialister sp,2.53E-97
+WP_068720179.1, amino acid ABC transporter ATP-binding protein,Dialister sp,4.07E-89
+KXB54243.1," glutamine ABC transporter, ATP-binding protein GlnQ",Eggerthella like,1.45E-89
+WP_000078330.1, amino acid ABC transporter ATP-binding protein,Escherichia coli,3.99E-103
+WP_000078339.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Escherichia coli,3.51E-102
+WP_000078338.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Escherichia coli,3.75E-102
+WP_065227764.1, amino acid ABC transporter ATP-binding protein,Escherichia coli,4.27E-102
+WP_000078340.1, amino acid ABC transporter ATP-binding protein,Escherichia coli,4.98E-102
+WP_000078321.1, amino acid ABC transporter ATP-binding protein,Escherichia coli,1.33E-101
+YP_006777252.1, phosphate ABC transporter ATP-binding protein,Escherichia coli,1.52E-101
+YP_006121590.1, amino acid ABC transporter ATP-binding protein,Escherichia coli,2.11E-101
+YP_002414405.1, amino acid ABC transporter ATP-binding protein,Escherichia coli,4.39E-101
+NP_417737.1, putative ABC transporter ATP-binding subunit YhdZ,Escherichia coli,5.28E-101
+YP_006118953.1, glutamate and aspartate transporter subunit; ATP-binding component of ABC superfamily protein,Escherichia coli,1.94E-92
+WP_000631384.1, MULTISPECIES: glutamate/aspartate ABC transporter ATP binding protein GltL,Escherichia coli,1.97E-92
+WP_000631389.1, MULTISPECIES: glutamate/aspartate transport ATP-binding protein GltL,Escherichia coli,3.87E-92
+YP_002406646.1, glutamate and aspartate ABC transporter ATP-binding protein,Escherichia coli,2.51E-91
+YP_006119088.1, glutamine ABC transporter ATP-binding protein,Escherichia coli,6.43E-89
+WP_022204048.1, polar amino acid transport system ATP-binding protein,Eubacterium sp,8.63E-96
+WP_033125974.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Eubacterium sp,1.81E-95
+WP_021953255.1, amino acid ABC transporter ATP-binding protein PAAT family (TC 3.A.1.3.-),Eubacterium sp,2.27E-95
+WP_058693553.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Eubacterium sp,1.04E-94
+WP_021906900.1, ABC transporter ATP-binding protein,Eubacterium sp,1.56E-94
+WP_022206655.1, polar amino acid transport system ATP-binding protein,Eubacterium sp,2.64E-94
+WP_013382081.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Eubacterium sp,4.54E-94
+WP_022506371.1, amino acid ABC transporter ATP-binding protein PAAT family (TC 3.A.1.3.-),Eubacterium sp,8.88E-94
+WP_087276428.1, amino acid ABC transporter ATP-binding protein,Eubacterium sp,6.40E-93
+WP_087313019.1, amino acid ABC transporter ATP-binding protein,Eubacterium sp,9.82E-93
+WP_117573269.1, amino acid ABC transporter ATP-binding protein,Eubacterium sp,1.77E-92
+WP_022501975.1, polar amino acid transport system ATP-binding protein,Eubacterium sp,4.19E-92
+WP_022259691.1, ABC transporter ATP-binding protein,Eubacterium sp,5.25E-92
+WP_118351201.1, ATP-binding cassette domain-containing protein ,Eubacterium sp,6.36E-92
+WP_021983107.1, hypothetical protein,Eubacterium sp,1.63E-91
+WP_022097974.1, amino acid ABC transporter ATP-binding protein ,Eubacterium sp,1.96E-91
+WP_033125605.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Eubacterium sp,2.97E-91
+WP_118116087.1, amino acid ABC transporter ATP-binding protein,Eubacterium sp,4.28E-91
+WP_117915482.1, amino acid ABC transporter ATP-binding protein,Eubacterium sp,4.30E-91
+WP_117995998.1, amino acid ABC transporter ATP-binding protein,Eubacterium sp,9.00E-91
+WP_022431967.1, polar amino acid transport system ATP-binding protein,Eubacterium sp,1.01E-90
+WP_021956283.1, ABC transporter related protein,Eubacterium sp,2.48E-90
+WP_118115835.1, amino acid ABC transporter ATP-binding protein,Eubacterium sp,4.21E-90
+WP_021867049.1, polar amino acid transport system ATP-binding protein,Eubacterium sp,5.54E-90
+WP_087275745.1, amino acid ABC transporter ATP-binding protein,Eubacterium sp,8.75E-90
+WP_117993902.1, amino acid ABC transporter ATP-binding protein,Eubacterium sp,3.00E-89
+WP_117925187.1, amino acid ABC transporter ATP-binding protein,Eubacterium sp,3.65E-89
+WP_148487267.1, MULTISPECIES: ATP-binding cassette domain-containing protein,Eubacterium sp,8.17E-89
+WP_117993804.1, amino acid ABC transporter ATP-binding protein,Eubacterium sp,8.19E-89
+WP_154253273.1, MULTISPECIES: ATP-binding cassette domain-containing protein,Eubacterium sp,9.84E-89
+WP_129878909.1, amino acid ABC transporter ATP-binding protein,Eubacterium sp,1.30E-88
+WP_118115164.1, amino acid ABC transporter ATP-binding protein,Eubacterium sp,2.24E-88
+WP_021911166.1, hypothetical protein,Eubacterium sp,2.69E-88
+WP_021907273.1, ABC transporter ATP-binding protein,Eubacterium sp,2.93E-88
+WP_117925229.1, amino acid ABC transporter ATP-binding protein,Eubacterium sp,3.66E-88
+WP_048596336.1, amino acid ABC transporter ATP-binding protein,Fannyhessea vaginae,2.98E-130
+WP_061103232.1, amino acid ABC transporter ATP-binding protein,Fannyhessea vaginae,3.75E-130
+WP_006302448.1, amino acid ABC transporter ATP-binding protein,Fannyhessea vaginae,1.22E-129
+WP_040327151.1, amino acid ABC transporter ATP-binding protein,Fannyhessea vaginae,3.63E-128
+WP_029597121.1, amino acid ABC transporter ATP-binding protein,Fusobacterium nucleatum,9.99E-97
+NP_603698.1, amino acid ABC transporter ATP-binding protein,Fusobacterium nucleatum,1.53E-96
+WP_005903445.1, amino acid ABC transporter ATP-binding protein,Fusobacterium nucleatum,1.69E-96
+WP_032888422.1, amino acid ABC transporter ATP-binding protein,Fusobacterium nucleatum,1.80E-96
+WP_088387715.1, amino acid ABC transporter ATP-binding protein,Fusobacterium nucleatum,5.32E-96
+WP_005912477.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Fusobacterium nucleatum,6.99E-96
+WP_029599958.1, amino acid ABC transporter ATP-binding protein,Fusobacterium nucleatum,7.79E-96
+WP_005900394.1, amino acid ABC transporter ATP-binding protein,Fusobacterium nucleatum,9.28E-96
+WP_005898002.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Fusobacterium nucleatum,2.38E-95
+WP_008797416.1, amino acid ABC transporter ATP-binding protein,Fusobacterium nucleatum,2.65E-95
+WP_008799318.1, amino acid ABC transporter ATP-binding protein,Fusobacterium nucleatum,1.10E-94
+WP_016339918.1, amino acid ABC transporter ATP-binding protein,Fusobacterium nucleatum,1.83E-94
+WP_008691602.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Fusobacterium nucleatum,1.92E-94
+WP_005908744.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Fusobacterium nucleatum,2.72E-94
+WP_029757645.1, amino acid ABC transporter ATP-binding protein,Fusobacterium nucleatum,5.59E-94
+WP_009007335.1, amino acid ABC transporter ATP-binding protein,Fusobacterium nucleatum,1.08E-93
+WP_098702452.1, amino acid ABC transporter ATP-binding protein,Fusobacterium nucleatum,1.51E-93
+WP_005906585.1," ABC superfamily ATP binding cassette transporter, ABC protein",Fusobacterium nucleatum,1.56E-93
+WP_008795423.1, amino acid ABC transporter ATP-binding protein,Fusobacterium nucleatum,2.55E-93
+WP_150408625.1, amino acid ABC transporter ATP-binding protein,Fusobacterium nucleatum,1.36E-92
+WP_005904796.1," glutamate ABC superfamily ATP binding cassette transporter, ABC protein",Fusobacterium nucleatum,2.73E-88
+tr|I4M349|I4M349_GARVA, ABC transporter related protein,Gardnerella genomosp10,3.17E-173
+tr|I4LY42|I4LY42_GARVA, ATP binding protein of ABC transporter,Gardnerella genomosp10;Gardnerella genomosp8,8.15E-92
+WP_060786702.1, amino acid ABC transporter ATP-binding protein,Gardnerella genomosp11,0
+WP_060786623.1, amino acid ABC transporter ATP-binding protein,Gardnerella genomosp11,1.35E-90
+WP_075523277.1, amino acid ABC transporter ATP-binding protein,Gardnerella genomosp12,4.85E-168
+WP_082266230.1, amino acid ABC transporter ATP-binding protein,Gardnerella genomosp12,1.29E-91
+WP_103084245.1, glutamate ABC transporter ATP-binding protein,Gardnerella genomosp13,3.97E-174
+WP_103084799.1, ectoine/hydroxyectoine ABC transporter ATP-binding protein EhuA,Gardnerella genomosp13,2.86E-89
+WP_004137994.1, amino acid ABC transporter ATP-binding protein,Gardnerella genomosp14;Gardnerella genomosp15;Gardnerella genomosp17;Gardnerella genomosp3;Gardnerella piotii;Gardnerella vaginalis,0
+WP_014554542.1, amino acid ABC transporter ATP-binding protein,Gardnerella genomosp14;Gardnerella vaginalis,3.97E-89
+WP_115761852.1, amino acid ABC transporter ATP-binding protein,Gardnerella genomosp15,3.30E-90
+WP_115793890.1, amino acid ABC transporter ATP-binding protein,Gardnerella genomosp15,1.77E-88
+WP_016810534.1, amino acid ABC transporter ATP-binding protein,Gardnerella genomosp16;Gardnerella genomosp2,0
+WP_004120849.1, amino acid ABC transporter ATP-binding protein,Gardnerella genomosp16;Gardnerella genomosp2,3.23E-88
+WP_115757725.1, amino acid ABC transporter ATP-binding protein,Gardnerella genomosp17,1.52E-88
+WP_102168169.1, amino acid ABC transporter ATP-binding protein,Gardnerella genomosp18,4.34E-96
+WP_102168557.1, amino acid ABC transporter ATP-binding protein,Gardnerella genomosp18,2.34E-88
+WP_003716979.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Gardnerella genomosp18;Lactobacillus vaginalis,7.41E-91
+tr|I4LSU0|I4LSU0_GARVA, ATP binding protein of ABC transporter,Gardnerella genomosp2,1.21E-88
+WP_019261252.1, amino acid ABC transporter ATP-binding protein,Gardnerella genomosp2,1.42E-88
+tr|I4LVT3|I4LVT3_GARVA, ABC transporter related protein,Gardnerella genomosp2;Gardnerella genomosp3;Gardnerella vaginalis,1.74E-179
+WP_032835928.1, amino acid ABC transporter ATP-binding protein,Gardnerella genomosp3,0
+tr|I4M441|I4M441_GARVA, ABC transporter related protein,Gardnerella genomosp3,9.82E-179
+tr|S4H6H4|S4H6H4_GARVA," Arginine/ornithine ABC transporter, ATP-binding protein AotP",Gardnerella genomosp3,4.68E-90
+WP_004132865.1, amino acid ABC transporter ATP-binding protein,Gardnerella genomosp3,8.07E-89
+WP_032814368.1, amino acid ABC transporter ATP-binding protein,Gardnerella genomosp7,2.19E-171
+WP_016637009.1, amino acid ABC transporter ATP-binding protein,Gardnerella genomosp7,8.62E-91
+WP_029600181.1, amino acid ABC transporter ATP-binding protein,Gardnerella genomosp8,7.99E-173
+tr|I4M7T4|I4M7T4_GARVA, ABC transporter related protein,Gardnerella genomosp8,1.29E-172
+WP_102695156.1, ectoine/hydroxyectoine ABC transporter ATP-binding protein EhuA,Gardnerella genomosp8,6.55E-92
+WP_102695167.1, glutamate ABC transporter ATP-binding protein,Gardnerella genomosp8;Gardnerella genomosp9,2.26E-173
+tr|I4MC06|I4MC06_GARVA, ATP binding protein of ABC transporter,Gardnerella genomosp8;Gardnerella genomosp9,7.39E-92
+tr|I4MCM5|I4MCM5_GARVA, ABC transporter related protein,Gardnerella genomosp9,5.36E-172
+WP_116794632.1, amino acid ABC transporter ATP-binding protein,Gardnerella genomosp9,8.70E-92
+WP_032835443.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Gardnerella leopoldii,6.01E-174
+tr|D6SXV8|D6SXV8_GARVA," ABC-type polar amino acid transport system, ATPase component",Gardnerella leopoldii,8.22E-174
+tr|D6SYH4|D6SYH4_GARVA," ABC-type polar amino acid transporter, ATPase component",Gardnerella leopoldii,1.10E-94
+WP_101886097.1, ectoine/hydroxyectoine ABC transporter ATP-binding protein EhuA,Gardnerella leopoldii,1.24E-94
+WP_004118860.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Gardnerella leopoldii,2.10E-94
+tr|S4HPT8|S4HPT8_GARVA," Glutamate ABC transporter, ATP-binding protein GluA",Gardnerella piotii,0
+tr|S4G7V7|S4G7V7_GARVA," Arginine/ornithine ABC transporter, ATP-binding protein AotP",Gardnerella piotii,3.89E-90
+tr|U6S881|U6S881_GARVA," Arginine/ornithine ABC transporter, ATP-binding protein AotP",Gardnerella piotii,2.30E-89
+WP_116438492.1, amino acid ABC transporter ATP-binding protein,Gardnerella piotii,2.41E-89
+tr|S4H8J1|S4H8J1_GARVA," Arginine/ornithine ABC transporter, ATP-binding protein AotP",Gardnerella piotii,2.77E-89
+WP_116285900.1, amino acid ABC transporter ATP-binding protein,Gardnerella piotii,6.49E-89
+tr|S4HHL9|S4HHL9_GARVA," Arginine/ornithine ABC transporter, ATP-binding protein AotP",Gardnerella piotii,1.36E-88
+WP_033888502.1, amino acid ABC transporter ATP-binding protein,Gardnerella swidsinskii,7.00E-175
+tr|D6SZA2|D6SZA2_GARVA," ABC-type polar amino acid transport system, ATPase component",Gardnerella swidsinskii,7.13E-139
+WP_116773689.1, amino acid ABC transporter ATP-binding protein,Gardnerella swidsinskii,3.66E-95
+WP_064621500.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Gardnerella swidsinskii,1.63E-94
+WP_102155697.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Gardnerella swidsinskii,2.73E-94
+tr|D6SZX7|D6SZX7_GARVA," ABC-type polar amino acid transporter, ATPase component",Gardnerella swidsinskii,7.87E-94
+WP_116431593.1, amino acid ABC transporter ATP-binding protein,Gardnerella swidsinskii,1.30E-93
+WP_012914377.1, amino acid ABC transporter ATP-binding protein,Gardnerella swidsinskii,7.22E-93
+WP_076002971.1, amino acid ABC transporter ATP-binding protein,Gardnerella swidsinskii,7.46E-93
+WP_065189464.1, amino acid ABC transporter ATP-binding protein,Gardnerella vaginalis,9.11E-90
+tr|S4GSF3|S4GSF3_GARVA," Arginine/ornithine ABC transporter, ATP-binding protein AotP",Gardnerella vaginalis,1.93E-89
+WP_004114933.1, amino acid ABC transporter ATP-binding protein,Gardnerella vaginalis,3.60E-89
+WP_101887952.1, ectoine/hydroxyectoine ABC transporter ATP-binding protein EhuA,Gardnerella vaginalis,5.00E-89
+tr|S4H2K2|S4H2K2_GARVA," ABC transporter, ATP-binding protein",Gardnerella vaginalis,5.51E-89
+WP_103013189.1, ectoine/hydroxyectoine ABC transporter ATP-binding protein EhuA,Gardnerella vaginalis,6.28E-89
+WP_004117711.1, amino acid ABC transporter ATP-binding protein,Gardnerella vaginalis,8.91E-89
+WP_048729885.1, amino acid ABC transporter ATP-binding protein,Gardnerella vaginalis,1.95E-88
+YP_003986030.1, ABC transporter ATP-binding protein,Gardnerella vaginalis,2.25E-88
+WP_004113503.1, amino acid ABC transporter ATP-binding protein,Gardnerella vaginalis,3.37E-88
+WP_066130647.1, amino acid ABC transporter ATP-binding protein,Gemella asaccharolytica,1.57E-89
+WP_060914364.1, amino acid ABC transporter ATP-binding protein,Gemella haemolysans,1.96E-88
+WP_003145803.1, amino acid ABC transporter ATP-binding protein,Gemella haemolysans,2.43E-88
+WP_001229598.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Haemophilus haemolyticus,4.72E-95
+WP_050250236.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Haemophilus haemolyticus,9.64E-95
+WP_001096313.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Haemophilus haemolyticus,1.77E-92
+WP_006915803.1, amino acid ABC transporter ATP-binding protein,Lactobacillus coleohominis,9.20E-93
+WP_006915898.1, amino acid ABC transporter ATP-binding protein,Lactobacillus coleohominis,1.96E-88
+EFD99817.1," ABC transporter, ATP-binding protein",Lactobacillus crispatus,9.66E-98
+CBL49573.1," Amino acid ABC transporter, ATP-binding protein",Lactobacillus crispatus,1.11E-97
+PKZ84734.1, glutamine ABC transporter ATP-binding protein,Lactobacillus crispatus,1.19E-97
+EEJ70034.1," ABC transporter, ATP-binding protein",Lactobacillus crispatus,1.71E-97
+KWU03135.1, glutamine ABC transporter ATP-binding protein,Lactobacillus crispatus,4.23E-97
+KAA8793749.1, amino acid ABC transporter ATP-binding protein,Lactobacillus crispatus,5.37E-97
+OXC15863.1, glutamine ABC transporter ATP-binding protein,Lactobacillus crispatus,1.27E-96
+EEU18551.1," arginine ABC transporter, ATP-binding protein ArtM",Lactobacillus crispatus,1.35E-96
+CBL50031.1," Glutamine ABC transporter, ATP-binding protein",Lactobacillus crispatus,1.39E-96
+ETW74351.1, arginine ABC transporter ATP-binding protein,Lactobacillus crispatus,1.87E-96
+OXC32283.1, amino acid ABC transporter ATP-binding protein,Lactobacillus crispatus,2.02E-96
+EEW51531.1," ABC transporter, ATP-binding protein",Lactobacillus iners,2.24E-102
+EFO70202.1," ABC transporter, ATP-binding protein",Lactobacillus iners,2.89E-102
+PMC46422.1, amino acid ABC transporter ATP-binding protein,Lactobacillus iners,5.70E-102
+EGG32867.1," ABC transporter, ATP-binding protein",Lactobacillus iners,1.17E-101
+EFQ50366.1," ABC transporter, ATP-binding protein",Lactobacillus iners,1.96E-101
+EFO69491.1," ABC transporter, ATP-binding protein",Lactobacillus iners,3.15E-97
+EFO71836.1," ABC transporter, ATP-binding protein",Lactobacillus iners,7.23E-97
+EFQ48269.1," ABC transporter, ATP-binding protein",Lactobacillus iners,1.89E-96
+EEW51410.1," ABC transporter, ATP-binding protein",Lactobacillus iners,3.09E-96
+EGG31502.1," ABC transporter, ATP-binding protein",Lactobacillus iners,2.06E-88
+WP_006587094.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Lactobacillus jensenii,2.33E-95
+WP_006587986.1, amino acid ABC transporter ATP-binding protein,Lactobacillus jensenii,4.75E-95
+WP_035168582.1, amino acid ABC transporter ATP-binding protein,Lactobacillus reuteri,4.98E-97
+WP_003668818.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Lactobacillus reuteri,5.04E-97
+WP_003664614.1, amino acid ABC transporter ATP-binding protein,Lactobacillus reuteri,5.26E-97
+WP_153706455.1, ATP-binding cassette domain-containing protein,Lactobacillus reuteri,5.68E-97
+WP_019253156.1, amino acid ABC transporter ATP-binding protein,Lactobacillus reuteri,1.05E-96
+WP_152742815.1, ATP-binding cassette domain-containing protein,Lactobacillus reuteri,1.18E-96
+WP_085678955.1, amino acid ABC transporter ATP-binding protein,Lactobacillus reuteri,2.18E-96
+WP_003674920.1, amino acid ABC transporter ATP-binding protein,Lactobacillus reuteri,2.51E-96
+WP_153709899.1, ATP-binding cassette domain-containing protein,Lactobacillus reuteri,2.68E-96
+WP_019252695.1, amino acid ABC transporter ATP-binding protein,Lactobacillus reuteri,3.41E-96
+WP_035157212.1, amino acid ABC transporter ATP-binding protein,Lactobacillus reuteri,4.15E-96
+WP_066035818.1, amino acid ABC transporter ATP-binding protein,Lactobacillus reuteri,6.79E-96
+WP_134989454.1, amino acid ABC transporter ATP-binding protein,Lactobacillus reuteri,1.01E-95
+WP_094511253.1, amino acid ABC transporter ATP-binding protein,Lactobacillus reuteri,1.07E-95
+WP_003674290.1, amino acid ABC transporter ATP-binding protein,Lactobacillus reuteri,5.53E-95
+WP_065532833.1, amino acid ABC transporter ATP-binding protein,Lactobacillus reuteri,5.72E-95
+WP_019251647.1, amino acid ABC transporter ATP-binding protein,Lactobacillus reuteri,6.24E-95
+WP_085650388.1, amino acid ABC transporter ATP-binding protein,Lactobacillus reuteri,7.03E-95
+WP_094504269.1, amino acid ABC transporter ATP-binding protein,Lactobacillus reuteri,8.02E-95
+WP_003665843.1, amino acid ABC transporter ATP-binding protein,Lactobacillus reuteri,8.20E-95
+WP_107690109.1, glutamine ABC transporter ATP-binding protein,Lactobacillus reuteri,9.55E-95
+WP_003671089.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Lactobacillus reuteri,9.87E-95
+WP_065867795.1, amino acid ABC transporter ATP-binding protein,Lactobacillus reuteri,1.04E-94
+WP_113896535.1, amino acid ABC transporter ATP-binding protein,Lactobacillus reuteri,1.07E-94
+WP_153706176.1, ATP-binding cassette domain-containing protein,Lactobacillus reuteri,1.26E-94
+WP_094508888.1, amino acid ABC transporter ATP-binding protein,Lactobacillus reuteri,1.86E-94
+WP_029507549.1, amino acid ABC transporter ATP-binding protein,Lactobacillus reuteri,2.91E-94
+WP_003668144.1, amino acid ABC transporter ATP-binding protein,Lactobacillus reuteri,3.55E-94
+WP_003673243.1," amino acid ABC transporter ATP-binding protein, partial",Lactobacillus reuteri,4.65E-94
+WP_035157801.1, amino acid ABC transporter ATP-binding protein,Lactobacillus reuteri,5.37E-94
+WP_134988869.1, amino acid ABC transporter ATP-binding protein,Lactobacillus reuteri,5.86E-94
+WP_132140080.1, amino acid ABC transporter ATP-binding protein,Lactobacillus reuteri,1.60E-93
+WP_153709742.1, ATP-binding cassette domain-containing protein,Lactobacillus reuteri,2.03E-93
+WP_013924004.1, amino acid ABC transporter ATP-binding protein,Lactobacillus reuteri,2.86E-92
+WP_153710827.1, ATP-binding cassette domain-containing protein,Lactobacillus reuteri,3.38E-91
+WP_003670318.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Lactobacillus reuteri,9.86E-90
+WP_003665372.1, amino acid ABC transporter ATP-binding protein,Lactobacillus reuteri,1.14E-89
+WP_094536819.1, amino acid ABC transporter ATP-binding protein,Lactobacillus reuteri,1.28E-89
+WP_085679905.1, amino acid ABC transporter ATP-binding protein,Lactobacillus reuteri,1.45E-89
+WP_087214664.1, amino acid ABC transporter ATP-binding protein,Lactobacillus reuteri,3.17E-89
+WP_078009416.1, amino acid ABC transporter ATP-binding protein,Lactobacillus reuteri,4.60E-89
+WP_134988282.1, amino acid ABC transporter ATP-binding protein,Lactobacillus reuteri,4.86E-89
+WP_003669654.1, amino acid ABC transporter ATP-binding protein,Lactobacillus reuteri,9.35E-89
+WP_003716624.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Lactobacillus vaginalis,3.58E-94
+WP_003716226.1, amino acid ABC transporter ATP-binding protein,Lactobacillus vaginalis,7.43E-89
+WP_124031909.1, amino acid ABC transporter ATP-binding protein,Lactobacillus vaginalis,8.38E-89
+WP_034573642.1, amino acid ABC transporter ATP-binding protein,Mageeibacillus indolicus,1.62E-91
+WP_012993276.1, amino acid ABC transporter ATP-binding protein,Mageeibacillus indolicus,4.72E-91
+WP_102892341.1, amino acid ABC transporter ATP-binding protein,Mageeibacillus indolicus,6.21E-90
+WP_062485848.1, amino acid ABC transporter ATP-binding protein,Megasphaera hutchinsoni,9.42E-94
+WP_023052779.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Megasphaera lornae,1.16E-94
+WP_007390521.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Megasphaera lornae,5.11E-94
+WP_059075282.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Megasphaera lornae,3.07E-92
+WP_118022878.1, amino acid ABC transporter ATP-binding protein,Megasphaera lornae,3.95E-92
+WP_095628892.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Megasphaera lornae,1.63E-91
+WP_087478690.1, amino acid ABC transporter ATP-binding protein,Megasphaera lornae,6.06E-91
+WP_020311101.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Megasphaera lornae,7.62E-91
+WP_062412042.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Megasphaera lornae,3.33E-90
+WP_044503953.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Megasphaera lornae,6.14E-90
+WP_006942761.1, amino acid ABC transporter ATP-binding protein,Megasphaera micronuciformis,4.93E-95
+WP_040659185.1, amino acid ABC transporter ATP-binding protein,Oscillibacter ruminantium,4.37E-97
+WP_091791769.1, amino acid ABC transporter ATP-binding protein,Peptococcus niger,1.71E-90
+WP_019124902.1, amino acid ABC transporter ATP-binding protein,Peptoniphilus grossensis,2.88E-96
+WP_075659460.1, amino acid ABC transporter ATP-binding protein,Peptoniphilus grossensis,5.86E-96
+WP_009345718.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Peptoniphilus lacrimalis,4.31E-96
+WP_004825014.1, amino acid ABC transporter ATP-binding protein,Peptoniphilus lacrimalis,5.67E-96
+WP_006148863.1, MULTISPECIES: peptide ABC transporter ATP-binding protein,Peptoniphilus lacrimalis,8.97E-93
+WP_036754651.1, peptide ABC transporter ATP-binding protein,Peptoniphilus lacrimalis,3.13E-90
+WP_004823835.1, amino acid ABC transporter ATP-binding protein,Peptoniphilus lacrimalis,2.57E-89
+WP_036759196.1, ABC transporter,Peptoniphilus lacrimalis,3.42E-89
+WP_002843255.1, amino acid ABC transporter ATP-binding protein,Peptostreptococcus anaerobius,5.17E-99
+WP_002845420.1, amino acid ABC transporter ATP-binding protein,Peptostreptococcus anaerobius,2.36E-98
+WP_154538112.1, ATP-binding cassette domain-containing protein,Peptostreptococcus anaerobius,1.33E-94
+WP_007790815.1, amino acid ABC transporter ATP-binding protein,Peptostreptococcus stomatis,2.38E-92
+WP_000053149.1, amino acid ABC transporter ATP-binding protein,Streptococcus agalactiae,1.97E-94
+WP_000053145.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus agalactiae,2.99E-94
+WP_000230128.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus agalactiae,3.39E-94
+WP_016480611.1, amino acid ABC transporter ATP-binding protein,Streptococcus agalactiae,5.94E-94
+WP_000230126.1, amino acid ABC transporter ATP-binding protein,Streptococcus agalactiae,5.98E-94
+WP_000053154.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus agalactiae,8.07E-94
+WP_000053150.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus agalactiae,1.29E-93
+WP_000053151.1, amino acid ABC transporter ATP-binding protein,Streptococcus agalactiae,1.31E-93
+WP_017647830.1, amino acid ABC transporter ATP-binding protein,Streptococcus agalactiae,1.43E-93
+WP_000230129.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus agalactiae,1.48E-93
+WP_115356925.1, amino acid ABC transporter ATP-binding protein,Streptococcus agalactiae,1.74E-93
+WP_000230131.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus agalactiae,1.97E-93
+WP_000053148.1, amino acid ABC transporter ATP-binding protein,Streptococcus agalactiae,2.41E-93
+WP_000053152.1, amino acid ABC transporter ATP-binding protein,Streptococcus agalactiae,3.16E-93
+WP_000230134.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus agalactiae,3.36E-93
+WP_000053146.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus agalactiae,4.79E-93
+WP_057486682.1, amino acid ABC transporter ATP-binding protein,Streptococcus agalactiae,6.12E-93
+WP_049512918.1, amino acid ABC transporter ATP-binding protein,Streptococcus anginosus,1.67E-94
+WP_101749637.1, amino acid ABC transporter ATP-binding protein,Streptococcus anginosus,2.39E-94
+WP_106387916.1, amino acid ABC transporter ATP-binding protein,Streptococcus anginosus,2.58E-94
+WP_022525918.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus anginosus,2.82E-94
+WP_003035612.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus anginosus,7.45E-94
+WP_003024883.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus anginosus,9.79E-94
+WP_003032251.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus anginosus,1.02E-93
+WP_070241651.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus anginosus,2.08E-93
+WP_106083663.1, peptide ABC transporter ATP-binding protein,Streptococcus anginosus,2.76E-93
+WP_106100490.1, amino acid ABC transporter ATP-binding protein,Streptococcus anginosus,3.63E-93
+WP_024052275.1, glutamine ABC transporter,Streptococcus anginosus,2.08E-92
+WP_042901381.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,2.43E-98
+WP_033688625.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,1.22E-95
+WP_045606216.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,2.84E-95
+WP_143952246.1, ATP-binding cassette domain-containing protein,Streptococcus mitis,3.30E-95
+WP_000169047.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,5.40E-95
+WP_000140963.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,5.64E-95
+WP_084929995.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,6.16E-95
+WP_004256549.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus mitis,1.11E-94
+WP_000140956.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,1.27E-94
+WP_061864015.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,1.68E-94
+WP_033681390.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus mitis,1.68E-94
+WP_033680060.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,2.36E-94
+WP_077804934.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,2.58E-94
+WP_042901163.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,2.84E-94
+WP_000140952.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,2.84E-94
+WP_045611777.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,3.21E-94
+WP_000132669.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,3.78E-94
+WP_042751465.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,3.86E-94
+WP_049521722.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,4.45E-94
+WP_061424247.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,4.89E-94
+WP_033683440.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,5.13E-94
+WP_049502139.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,6.11E-94
+WP_061087803.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,6.31E-94
+WP_141230799.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,6.67E-94
+WP_000140953.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,1.09E-93
+YP_003446690.1," ABC-type polar amino acid transport system, ATPase component, glutamine transport",Streptococcus mitis,1.68E-93
+WP_000140931.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,1.86E-93
+WP_000366624.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,2.11E-93
+WP_000140936.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,3.51E-93
+WP_084928862.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,4.39E-93
+WP_049546976.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,4.79E-93
+WP_042900754.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,4.98E-93
+WP_045612140.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,5.77E-93
+WP_142556750.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,5.99E-93
+WP_024057567.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus mitis,6.09E-93
+WP_084886695.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,6.29E-93
+WP_049500804.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,6.99E-93
+WP_033686512.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,7.41E-93
+WP_033683755.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,7.88E-93
+WP_001229568.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus mitis,9.03E-93
+WP_061439634.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,1.11E-92
+WP_060628196.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,1.12E-92
+YP_003446315.1, glutamine ABC transporter ATP-binding protein,Streptococcus mitis,1.16E-92
+WP_000177026.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus mitis,1.16E-92
+WP_049500193.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,1.23E-92
+WP_061088311.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,1.28E-92
+WP_000140929.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus mitis,1.30E-92
+WP_078238412.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,1.55E-92
+WP_023946889.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus mitis,2.02E-92
+WP_000140930.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,2.35E-92
+WP_061423792.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,3.60E-92
+WP_001229570.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,4.12E-92
+WP_084930123.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,5.33E-92
+WP_001096336.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus mitis,5.57E-92
+WP_001229576.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus mitis,5.84E-92
+WP_061589770.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,6.85E-92
+WP_001096328.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus mitis,7.64E-92
+WP_001096327.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus mitis,1.41E-91
+WP_001229574.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,1.45E-91
+WP_060805274.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus mitis,1.85E-91
+WP_001096323.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,2.49E-91
+WP_023944190.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus mitis,2.54E-91
+WP_001096320.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus mitis,3.57E-91
+WP_001096324.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,3.64E-91
+WP_050315938.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus mitis,4.20E-91
+WP_001096322.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus mitis,4.53E-91
+WP_142557509.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,9.02E-91
+WP_049522441.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,1.83E-90
+WP_001096319.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,2.46E-90
+WP_077805440.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis,6.98E-89
+WP_004259929.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus mitis;Streptococcus pseudopneumoniae,7.75E-95
+WP_000140957.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus mitis;Streptococcus pseudopneumoniae,8.18E-95
+WP_000140954.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus mitis;Streptococcus pseudopneumoniae,1.54E-94
+YP_003445984.1, amino acid ABC transporter ATP-binding protein,Streptococcus mitis;Streptococcus pseudopneumoniae,2.07E-94
+WP_001229571.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus mitis;Streptococcus pseudopneumoniae,2.28E-93
+WP_033681727.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus mitis;Streptococcus pseudopneumoniae,3.15E-93
+WP_001096337.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus mitis;Streptococcus pseudopneumoniae,5.26E-93
+WP_001229569.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus mitis;Streptococcus pseudopneumoniae,6.29E-93
+WP_001096316.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus mitis;Streptococcus pseudopneumoniae,1.81E-92
+WP_001096315.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus mitis;Streptococcus pseudopneumoniae,2.04E-92
+WP_049487244.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus mitis;Streptococcus pseudopneumoniae,1.08E-91
+WP_001229587.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus mitis;Streptococcus pseudopneumoniae,1.31E-91
+WP_001096321.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus mitis;Streptococcus pseudopneumoniae,2.43E-91
+WP_023936216.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus mitis;Streptococcus pseudopneumoniae,6.09E-91
+WP_049536966.1, amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,8.11E-97
+WP_049496325.1, amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,1.77E-95
+WP_049523359.1, amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,6.03E-95
+WP_049502721.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,7.75E-95
+WP_049540058.1, amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,8.18E-95
+WP_054392750.1, amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,8.45E-95
+WP_000140941.1, amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,8.64E-95
+WP_049549839.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,9.03E-95
+WP_049511733.1, amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,1.51E-94
+WP_049534495.1, amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,3.70E-94
+WP_000140934.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,3.74E-94
+WP_000140962.1, amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,4.65E-94
+WP_049537200.1, amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,6.45E-94
+WP_100104039.1, amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,7.77E-94
+WP_119919801.1, amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,9.66E-94
+WP_049494905.1, amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,1.22E-93
+WP_049540899.1, amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,1.24E-93
+WP_138703503.1, amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,1.24E-93
+WP_045762888.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,1.33E-93
+WP_138706272.1, amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,1.56E-93
+WP_000136055.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,1.69E-93
+WP_100104550.1, amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,1.91E-93
+WP_049552622.1, amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,1.92E-93
+WP_101514812.1, amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,1.93E-93
+WP_049509481.1, amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,2.57E-93
+WP_049492419.1, amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,2.74E-93
+WP_050261470.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,3.11E-93
+WP_049531439.1, amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,3.51E-93
+WP_049539780.1, amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,3.75E-93
+WP_049532812.1, amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,4.95E-93
+WP_119919918.1, amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,6.72E-93
+WP_023932805.1, amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,7.37E-93
+WP_049550873.1, amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,9.27E-93
+WP_007516801.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,9.49E-93
+WP_049513178.1, amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,1.72E-92
+WP_049544173.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,1.91E-92
+WP_049534099.1, amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,1.94E-92
+WP_049497274.1, amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,3.72E-92
+WP_023940199.1, amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,4.68E-92
+WP_049532681.1, amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,4.78E-92
+WP_049548457.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,1.03E-91
+WP_049548302.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,2.25E-91
+WP_001096325.1, amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,3.38E-91
+WP_001096329.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,5.70E-91
+WP_119943451.1, amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,7.91E-91
+WP_049530496.1, amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,8.92E-91
+WP_049503260.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,1.07E-90
+WP_001096308.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,1.79E-90
+WP_049494477.1, amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,1.87E-90
+WP_001096326.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,2.57E-90
+WP_050251490.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,4.03E-90
+WP_001096330.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,5.06E-90
+WP_119947837.1, amino acid ABC transporter ATP-binding protein,Streptococcus pseudopneumoniae,6.23E-90
+WP_013990918.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus salivarius,1.14E-95
+WP_002886191.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus salivarius,2.57E-95
+WP_002884797.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus salivarius,3.03E-95
+WP_002886797.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus salivarius,3.46E-95
+WP_037602114.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus salivarius,7.26E-95
+WP_073686440.1, amino acid ABC transporter ATP-binding protein,Streptococcus salivarius,8.09E-95
+WP_004182942.1, amino acid ABC transporter ATP-binding protein,Streptococcus salivarius,9.43E-95
+WP_002890387.1, amino acid ABC transporter ATP-binding protein,Streptococcus salivarius,1.78E-94
+WP_037601657.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus salivarius,2.24E-94
+WP_022496326.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus salivarius,2.24E-94
+WP_154863970.1, amino acid ABC transporter ATP-binding protein,Streptococcus salivarius,2.37E-94
+WP_073688820.1, amino acid ABC transporter ATP-binding protein,Streptococcus salivarius,4.61E-94
+WP_060971807.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus salivarius,4.81E-94
+WP_073686739.1, amino acid ABC transporter ATP-binding protein,Streptococcus salivarius,5.30E-94
+WP_002891489.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus salivarius,6.39E-94
+WP_002889049.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus salivarius,6.96E-94
+WP_064524165.1, amino acid ABC transporter ATP-binding protein,Streptococcus salivarius,1.13E-93
+WP_002889453.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus salivarius,1.65E-93
+WP_037604317.1, amino acid ABC transporter ATP-binding protein,Streptococcus salivarius,4.26E-93
+WP_073688456.1, amino acid ABC transporter ATP-binding protein,Streptococcus salivarius,5.03E-93
+WP_111686599.1, amino acid ABC transporter ATP-binding protein,Streptococcus salivarius,6.66E-93
+WP_104020925.1, ABC transporter,Streptococcus salivarius,9.55E-93
+WP_110981206.1, amino acid ABC transporter ATP-binding protein,Streptococcus salivarius,1.15E-92
+WP_014634411.1, amino acid ABC transporter ATP-binding protein,Streptococcus salivarius,1.60E-92
+WP_084871395.1, amino acid ABC transporter ATP-binding protein,Streptococcus salivarius,1.68E-92
+WP_037601338.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus salivarius,1.72E-92
+WP_060775856.1, amino acid ABC transporter ATP-binding protein,Streptococcus salivarius,1.72E-92
+WP_037611663.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus salivarius,2.01E-92
+WP_002885036.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus salivarius,2.88E-92
+WP_049545998.1, amino acid ABC transporter ATP-binding protein,Streptococcus salivarius,4.04E-92
+WP_002884172.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus salivarius,5.66E-92
+WP_021145491.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus salivarius,5.85E-92
+WP_104020927.1, ABC transporter,Streptococcus salivarius,5.91E-92
+WP_014633205.1, amino acid ABC transporter ATP-binding protein,Streptococcus salivarius,6.05E-92
+WP_154864737.1, amino acid ABC transporter ATP-binding protein,Streptococcus salivarius,6.55E-92
+WP_002889496.1, amino acid ABC transporter ATP-binding protein,Streptococcus salivarius,7.20E-92
+WP_037600494.1, amino acid ABC transporter ATP-binding protein,Streptococcus salivarius,8.39E-92
+WP_038675884.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus salivarius,9.46E-92
+WP_002889492.1, amino acid ABC transporter ATP-binding protein,Streptococcus salivarius,1.07E-91
+WP_154864544.1, amino acid ABC transporter ATP-binding protein,Streptococcus salivarius,1.34E-91
+WP_064520653.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Streptococcus salivarius,2.55E-91
+WP_156246672.1, ATP-binding cassette domain-containing protein,Streptococcus salivarius,3.36E-91
+WP_064526527.1, amino acid ABC transporter ATP-binding protein,Streptococcus salivarius,5.49E-90
+WP_022442991.1, glutamine ABC transporter ATP-binding protein,Sutterella sp,4.96E-101
+WP_022372802.1, glutamine ABC transporter ATP-binding protein GlnQ,Sutterella sp,1.05E-100
+WP_022443020.1, glutamine ABC transporter ATP-binding protein GlnQ,Sutterella sp,1.58E-96
+WP_118276189.1, amino acid ABC transporter ATP-binding protein,Sutterella sp,4.57E-96
+WP_147408870.1, ATP-binding cassette domain-containing protein,Sutterella sp,5.51E-95
+WP_022473178.1, glutamine ABC transporter ATP-binding protein GlnQ,Sutterella sp,3.33E-94
+WP_139688215.1, amino acid ABC transporter ATP-binding protein,Sutterella sp,2.24E-93
+WP_022472598.1, glutamine ABC transporter ATP-binding protein GlnQ,Sutterella sp,2.25E-92
+WP_038006417.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Sutterella sp;Sutterella wadsworthensis,1.16E-94
+WP_005429418.1, amino acid ABC transporter ATP-binding protein,Sutterella wadsworthensis,8.29E-94
+WP_005383807.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Veillonella atypica,1.18E-100
+WP_005379059.1, amino acid ABC transporter ATP-binding protein,Veillonella atypica,3.19E-100
+WP_005381311.1, MULTISPECIES: amino acid ABC transporter ATP-binding protein,Veillonella atypica,6.57E-100
+WP_156931174.1, ATP-binding cassette domain-containing protein,Veillonella atypica,2.03E-99
+WP_028257426.1, amino acid ABC transporter ATP-binding protein,Veillonella montpellierensis,3.70E-96
+WP_038152474.1, amino acid ABC transporter ATP-binding protein,Veillonella montpellierensis,3.51E-95

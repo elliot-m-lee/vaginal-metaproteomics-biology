@@ -1,0 +1,37 @@
+id,protein,taxa,e-value
+WP_000067822.1, MULTISPECIES: ring-hydroxylating oxygenase subunit alpha,Escherichia coli,0.0
+WP_000067806.1, ring-hydroxylating oxygenase subunit alpha,Escherichia coli,0.0
+WP_000067820.1, carnitine monooxygenase subunit YeaW,Escherichia coli,0.0
+YP_002412819.1, putative 2Fe-2S cluster-containing dioxygenase subunit,Escherichia coli,0.0
+YP_002407259.1, putative 2Fe-2S cluster-containing dioxygenase subunit,Escherichia coli,0.0
+WP_000067834.1, ring-hydroxylating oxygenase subunit alpha,Escherichia coli,0.0
+WP_000067805.1, carnitine monooxygenase subunit YeaW,Escherichia coli,0.0
+WP_032341932.1, dioxygenase,Escherichia coli,0.0
+OUT22132.1, hypothetical protein CAS74_003122,Pichia kudriavzevii,3.83e-41
+KGK40148.1, hypothetical protein JL09_g817,Pichia kudriavzevii,8.65e-41
+RLP64492.1, hypothetical protein L150_03240,Candida albicans,1.46e-38
+KHC51117.1, hypothetical protein MEW_03208,Candida albicans,3.84e-38
+KHC62951.1, hypothetical protein MGE_03266,Candida albicans,4.38e-38
+KGT68275.1, hypothetical protein MEK_03289,Candida albicans,5.27e-38
+KHC53023.1, hypothetical protein MGC_03281,Candida albicans,5.96e-38
+KGU07507.1, hypothetical protein MEQ_03255,Candida albicans,1.08e-37
+KHC35690.1, hypothetical protein MGQ_03263,Candida albicans,1.13e-37
+KHC69068.1, hypothetical protein MGI_03253,Candida albicans,1.24e-37
+KGR07976.1, hypothetical protein MG5_03296,Candida albicans,1.37e-37
+KHC77346.1, hypothetical protein MGS_03277,Candida albicans,4.09e-37
+KGU29825.1, hypothetical protein MGK_03283,Candida albicans,4.49e-37
+KGU25900.1, hypothetical protein MG7_03269,Candida albicans,3.76e-36
+EEQ45428.1, conserved hypothetical protein,Candida albicans,4.08e-35
+EER35272.1, conserved hypothetical protein,Candida tropicalis,6.91e-33
+OAG14031.1," naphthalene 1,2-dioxygenase subunit alpha",Alternaria alternata,7.23e-32
+RYN70229.1, hypothetical protein AA0117_g10707,Alternaria alternata,1.00e-31
+RYN79466.1, hypothetical protein AA0117_g3673,Alternaria alternata,4.53e-31
+OWY52961.1," naphthalene 1,2-dioxygenase subunit alpha",Alternaria alternata,4.63e-31
+OAG23429.1," naphthalene 1,2-dioxygenase subunit alpha, partial",Alternaria alternata,7.02e-31
+OAG14487.1," naphthalene 1,2-dioxygenase subunit alpha",Alternaria alternata,1.47e-30
+OWY45728.1," naphthalene 1,2-dioxygenase subunit alpha",Alternaria alternata,2.75e-30
+OWY48301.1," naphthalene 1,2-dioxygenase subunit alpha",Alternaria alternata,4.01e-22
+YP_002408677.1, 3-phenylpropionate dioxygenase large subunit alpha,Escherichia coli,3.96e-15
+WP_000211172.1, MULTISPECIES: 3-phenylpropionate/cinnamic acid dioxygenase subunit alpha,Escherichia coli,4.15e-15
+WP_000211178.1, aromatic ring-hydroxylating dioxygenase subunit alpha,Escherichia coli,4.26e-15
+WP_065227417.1, aromatic ring-hydroxylating dioxygenase subunit alpha,Escherichia coli,9.14e-15

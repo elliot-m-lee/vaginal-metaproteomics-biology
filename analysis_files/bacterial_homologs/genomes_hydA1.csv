@@ -1,0 +1,406 @@
+id,protein,taxa,e-value
+WP_118518214.1, ferredoxin,Eubacterium sp,0.0
+WP_013379183.1, MULTISPECIES: 2Fe-2S iron-sulfur cluster binding domain-containing protein,Eubacterium sp,0.0
+WP_022236410.1, 2Fe-2S iron-sulfur cluster binding domain-containing protein ,Clostridium leptum,0.0
+WP_129879800.1, 2Fe-2S iron-sulfur cluster binding domain-containing protein,Eubacterium sp,0.0
+WP_050639856.1, MULTISPECIES: 4Fe-4S dicluster domain-containing protein,Eubacterium sp,0.0
+WP_021972959.1, hypothetical protein,Eubacterium sp,0.0
+WP_033126446.1, 2Fe-2S iron-sulfur cluster binding domain-containing protein,Eubacterium sp,0.0
+WP_022417050.1, hypothetical protein,Eubacterium sp,0.0
+WP_050641850.1, MULTISPECIES: 2Fe-2S iron-sulfur cluster binding domain-containing protein,Eubacterium sp,0.0
+WP_095629722.1, MULTISPECIES: ferredoxin,Megasphaera lornae,0.0
+WP_087478125.1, ferredoxin,Megasphaera lornae,0.0
+WP_058260668.1, NADH:ubiquinone oxidoreductase,Fenollaria timonensis,0.0
+WP_026880659.1, NADH:ubiquinone oxidoreductase,Fenollaria massiliensis,0.0
+WP_075574046.1, NADH:ubiquinone oxidoreductase,Ezakiella massiliensis,0.0
+WP_015778015.1, NADH:ubiquinone oxidoreductase,Anaerococcus prevotii,0.0
+WP_019117057.1, 4Fe-4S dicluster domain-containing protein,Anaerococcus vaginalis,0.0
+WP_041954704.1, NADH:ubiquinone oxidoreductase,Parvimonas micra,0.0
+WP_016268012.1, [FeFe] hydrogenase group A,Bacteroides thetaiotaomicron,0.0
+WP_072067326.1, NADH:ubiquinone oxidoreductase,Bacteroides thetaiotaomicron,0.0
+WP_119200451.1, NADH:ubiquinone oxidoreductase,Bacteroides thetaiotaomicron,0.0
+WP_008766747.1, MULTISPECIES: NADH:ubiquinone oxidoreductase,Bacteroides thetaiotaomicron,0.0
+WP_055299610.1, NADH:ubiquinone oxidoreductase,Bacteroides thetaiotaomicron,0.0
+WP_022470149.1, NADH:ubiquinone oxidoreductase subunit,Bacteroides thetaiotaomicron,0.0
+WP_091792327.1, NADH:ubiquinone oxidoreductase,Peptococcus niger,0.0
+WP_110057777.1, NADH:ubiquinone oxidoreductase,Finegoldia magna,0.0
+WP_094210108.1, NADH:ubiquinone oxidoreductase,Finegoldia magna,0.0
+WP_094204033.1, NADH:ubiquinone oxidoreductase,Finegoldia magna,0.0
+WP_010537425.1, MULTISPECIES: NADH:ubiquinone oxidoreductase,Bacteroides faecis;Bacteroides thetaiotaomicron,0.0
+WP_094207492.1, MULTISPECIES: NADH:ubiquinone oxidoreductase,Finegoldia magna,0.0
+WP_129655157.1, NADH:ubiquinone oxidoreductase,Bacteroides thetaiotaomicron,0.0
+WP_143919849.1, NADH:ubiquinone oxidoreductase,Bacteroides thetaiotaomicron,0.0
+WP_074857127.1, NADH:ubiquinone oxidoreductase,Bacteroides thetaiotaomicron,0.0
+WP_118417900.1, NADH:ubiquinone oxidoreductase,Bacteroides thetaiotaomicron,0.0
+WP_072536581.1, NADH:ubiquinone oxidoreductase,Anaerococcus mediterraneensis,0.0
+WP_131748963.1, 4Fe-4S dicluster domain-containing protein,Anaerococcus prevotii,6.40e-176
+WP_021866272.1, NADH dehydrogenase I chain G,Eubacterium sp,4.44e-174
+WP_022502741.1, NADH dehydrogenase I chain G,Eubacterium sp,6.36e-171
+WP_119219991.1, hydrogenase,Eubacterium sp,5.76e-170
+WP_019125678.1, hypothetical protein,Peptoniphilus grossensis,6.27e-170
+WP_117914134.1, hydrogenase,Eubacterium sp,7.09e-170
+WP_119211850.1, hydrogenase,Eubacterium sp,1.71e-169
+WP_040659449.1, 4Fe-4S dicluster domain-containing protein,Oscillibacter ruminantium,5.31e-166
+WP_022432074.1, NADH dehydrogenase I chain G,Eubacterium sp,3.34e-165
+WP_002846126.1, 2Fe-2S iron-sulfur cluster binding domain-containing protein,Peptostreptococcus anaerobius,3.94e-164
+WP_002844596.1, 2Fe-2S iron-sulfur cluster binding domain-containing protein,Peptostreptococcus anaerobius,5.28e-164
+WP_022444415.1, periplasmic [Fe] hydrogenase large subunit,Sutterella sp,1.16e-159
+WP_040660257.1, 2Fe-2S iron-sulfur cluster binding domain-containing protein,Oscillibacter ruminantium,2.49e-159
+WP_027868492.1, 2Fe-2S iron-sulfur cluster binding domain-containing protein,Eubacterium sp,5.19e-159
+WP_087278474.1, ferredoxin,Eubacterium sp,1.30e-156
+WP_154538651.1, 2Fe-2S iron-sulfur cluster binding domain-containing protein,Peptostreptococcus anaerobius,9.66e-156
+WP_021908252.1, hydrogenase Fe-only,Eubacterium sp,1.47e-155
+WP_118275816.1, 2Fe-2S iron-sulfur cluster binding domain-containing protein,Sutterella sp,4.29e-155
+WP_033126985.1, 4Fe-4S dicluster domain-containing protein,Eubacterium sp,5.72e-154
+WP_087313796.1, 2Fe-2S iron-sulfur cluster binding domain-containing protein,Eubacterium sp,2.16e-153
+WP_129879292.1, 2Fe-2S iron-sulfur cluster binding domain-containing protein,Eubacterium sp,2.81e-152
+WP_050639864.1, MULTISPECIES: 2Fe-2S iron-sulfur cluster binding domain-containing protein,Eubacterium sp,2.20e-151
+WP_016214578.1, 4Fe-4S dicluster domain-containing protein,Eubacterium sp,4.73e-149
+WP_087315983.1, 2Fe-2S iron-sulfur cluster binding domain-containing protein,Eubacterium sp,9.66e-148
+WP_087278248.1, 4Fe-4S dicluster domain-containing protein,Eubacterium sp,2.53e-147
+EAX92779.1," 64kDa iron hydrogenase, putative",Trichomonas vaginalis,3.56e-147
+WP_022472717.1, [Fe] hydrogenase gamma,Sutterella sp,1.88e-145
+WP_022248738.1, hydrogenase Fe-only,Eubacterium sp,2.41e-143
+EAX97250.1," 64kDa iron hydrogenase, putative",Trichomonas vaginalis,1.71e-142
+WP_075712846.1, 2Fe-2S iron-sulfur cluster binding domain-containing protein,Eubacterium sp,5.08e-141
+WP_021957210.1, hydrogenase Fe-only,Eubacterium sp,1.87e-140
+WP_021911824.1, hydrogenase Fe-only,Eubacterium sp,3.90e-139
+WP_139687573.1, hydrogenase,Sutterella sp,2.83e-130
+WP_016474662.1, 2Fe-2S iron-sulfur cluster binding domain-containing protein,Sutterella wadsworthensis,2.94e-129
+WP_113854694.1, hydrogenase,Sutterella wadsworthensis,5.19e-129
+WP_005429864.1, 2Fe-2S iron-sulfur cluster binding domain-containing protein,Sutterella wadsworthensis,6.04e-129
+WP_062333158.1, 2Fe-2S iron-sulfur cluster binding domain-containing protein,Sutterella sp,2.97e-119
+WP_005434871.1, 2Fe-2S iron-sulfur cluster binding domain-containing protein,Sutterella wadsworthensis,1.46e-117
+WP_040773989.1, hydrogenase,Megasphaera micronuciformis,7.56e-114
+WP_059076939.1, MULTISPECIES: hydrogenase,Megasphaera lornae,1.86e-113
+WP_118023608.1, hydrogenase,Megasphaera lornae,1.76e-112
+WP_005381658.1, MULTISPECIES: 4Fe-4S dicluster domain-containing protein,Veillonella atypica,2.87e-110
+WP_022248012.1, hypothetical protein,Eubacterium sp,4.42e-110
+WP_038149082.1, 4Fe-4S dicluster domain-containing protein,Veillonella atypica,8.05e-110
+WP_156931862.1, 4Fe-4S dicluster domain-containing protein,Veillonella atypica,1.42e-109
+WP_016476277.1, MULTISPECIES: [FeFe] hydrogenase group A,Veillonella atypica,2.09e-109
+EAY19300.1," Iron only hydrogenase large subunit, C-terminal domain containing protein",Trichomonas vaginalis,2.35e-108
+WP_005378576.1, hydrogenase,Veillonella atypica,2.79e-108
+WP_065360491.1, hydrogenase,Megasphaera lornae,3.49e-108
+WP_005375825.1, hydrogenase,Veillonella atypica,4.11e-108
+WP_062412798.1, MULTISPECIES: hydrogenase,Megasphaera lornae,1.75e-107
+WP_055153265.1, iron hydrogenase,Eubacterium sp,4.22e-107
+WP_050642365.1, MULTISPECIES: iron hydrogenase,Eubacterium sp,7.41e-107
+WP_023052822.1, MULTISPECIES: [FeFe] hydrogenase group A,Megasphaera lornae,3.03e-106
+WP_060807496.1, hydrogenase,Veillonella atypica,5.24e-106
+WP_119982711.1, hydrogenase,Veillonella atypica,9.48e-106
+WP_016475896.1, MULTISPECIES: [FeFe] hydrogenase group A,Veillonella atypica,1.07e-105
+WP_005382858.1, hydrogenase Fe-only,Veillonella atypica,1.86e-105
+WP_005436344.1, iron hydrogenase,Sutterella wadsworthensis,1.91e-105
+WP_118353603.1, hydrogenase,Veillonella atypica,2.12e-105
+WP_005381864.1, hydrogenase,Veillonella atypica,2.83e-105
+WP_156931552.1, hydrogenase,Veillonella atypica,3.22e-105
+WP_062484990.1, hydrogenase,Megasphaera hutchinsoni,3.59e-105
+WP_020311202.1, MULTISPECIES: fe-only hydrogenase,Megasphaera lornae,3.94e-105
+WP_062332621.1, iron hydrogenase,Sutterella sp,1.22e-104
+WP_007392189.1, hydrogenase,Megasphaera lornae,1.31e-104
+WP_007391801.1, hydrogenase,Megasphaera lornae,4.68e-104
+WP_038151130.1, hydrogenase,Veillonella montpellierensis,7.41e-104
+WP_095629478.1, hydrogenase,Megasphaera lornae,7.52e-104
+WP_028256896.1, hydrogenase,Veillonella montpellierensis,2.65e-103
+WP_087478810.1, hydrogenase,Megasphaera lornae,2.97e-103
+WP_036201333.1, MULTISPECIES: hydrogenase,Megasphaera lornae,3.28e-103
+WP_022473608.1, hydrogenase,Sutterella sp,5.59e-103
+EAY17406.1, iron hydrogenase,Trichomonas vaginalis,4.92e-102
+EAY16758.1," Iron only hydrogenase large subunit, C-terminal domain containing protein",Trichomonas vaginalis,1.15e-101
+WP_020724173.1," fe-only hydrogenase, partial",Megasphaera lornae,1.33e-101
+WP_008689757.1, hydrogenase,Eubacterium sp,1.16e-98
+EAY23026.1," TvhydB protein, putative",Trichomonas vaginalis,1.36e-98
+WP_006627482.1, hydrogenase,Bulleidia extructa,1.25e-97
+EAY10459.1," Iron only hydrogenase large subunit, C-terminal domain containing protein",Trichomonas vaginalis,6.90e-94
+WP_005026529.1, 4Fe-4S dicluster domain-containing protein,Bilophila wadsworthia,7.42e-94
+WP_029434344.1, 4Fe-4S dicluster domain-containing protein,Bilophila wadsworthia,8.62e-94
+WP_154254356.1, MULTISPECIES: phosphate acetyltransferase,Megasphaera lornae,7.57e-91
+WP_072271976.1, phosphate acetyltransferase,Megasphaera lornae,8.95e-91
+WP_083122299.1, phosphate acetyltransferase,Megasphaera lornae,9.05e-84
+WP_022204493.1, NADH dehydrogenase I chain G,Eubacterium sp,3.44e-80
+WP_022207449.1, NADH dehydrogenase I chain G,Eubacterium sp,4.37e-79
+EAY19502.1," Iron only hydrogenase large subunit, C-terminal domain containing protein",Trichomonas vaginalis,1.13e-73
+EAY06718.1," TvhydB protein, putative",Trichomonas vaginalis,2.21e-71
+WP_050334026.1, iron hydrogenase,Campylobacter ureolyticus,1.59e-68
+WP_018712282.1, iron hydrogenase,Campylobacter ureolyticus,2.71e-68
+WP_022473470.1, ferredoxin hydrogenase,Sutterella sp,5.95e-65
+WP_022372326.1, ferredoxin hydrogenase,Sutterella sp,9.28e-62
+WP_118275751.1, 4Fe-4S dicluster domain-containing protein,Sutterella sp,9.57e-62
+WP_139688273.1, 4Fe-4S dicluster domain-containing protein,Sutterella sp,8.65e-58
+WP_005434075.1, MULTISPECIES: 4Fe-4S dicluster domain-containing protein,Sutterella sp;Sutterella wadsworthensis,1.00e-56
+WP_005429272.1, 4Fe-4S dicluster domain-containing protein,Sutterella wadsworthensis,1.48e-56
+WP_021994638.1, 4Fe-4S dicluster domain-containing protein,Sutterella wadsworthensis,1.55e-56
+WP_016475267.1, 4Fe-4S dicluster domain-containing protein,Sutterella wadsworthensis,1.65e-56
+WP_058695594.1, formate dehydrogenase subunit alpha,Eubacterium sp,1.09e-46
+WP_013379307.1, MULTISPECIES: formate dehydrogenase subunit alpha,Eubacterium sp,2.98e-46
+WP_081985393.1, formate dehydrogenase subunit alpha,Parvimonas micra,9.37e-44
+WP_081697337.1, formate dehydrogenase subunit alpha,Parvimonas micra,1.02e-43
+WP_035113033.1, NADH dehydrogenase,Finegoldia magna,8.82e-42
+WP_118059362.1, formate dehydrogenase subunit alpha,Parvimonas micra,8.90e-42
+WP_081446169.1, formate dehydrogenase subunit alpha,Parvimonas micra,8.90e-42
+WP_002837246.1, NADH dehydrogenase subunit G,Finegoldia magna,9.42e-42
+WP_110057838.1, Fe-S-binding domain-containing protein,Finegoldia magna,1.41e-41
+WP_154273763.1, 4Fe-4S dicluster domain-containing protein,Finegoldia magna,1.75e-41
+WP_002835061.1, NADH dehydrogenase subunit G,Finegoldia magna,2.16e-41
+WP_002839940.1, 4Fe-4S dicluster domain-containing protein,Finegoldia magna,2.45e-41
+WP_081091115.1, formate dehydrogenase subunit alpha,Finegoldia magna,4.08e-41
+WP_094225818.1, formate dehydrogenase subunit alpha,Finegoldia magna,4.12e-41
+WP_080565304.1, formate dehydrogenase subunit alpha,Finegoldia magna,4.16e-41
+WP_094230127.1, formate dehydrogenase subunit alpha,Finegoldia magna,4.20e-41
+WP_080503393.1, formate dehydrogenase subunit alpha,Finegoldia magna,4.40e-41
+WP_094203932.1, formate dehydrogenase subunit alpha,Finegoldia magna,4.44e-41
+WP_080551582.1, formate dehydrogenase subunit alpha,Finegoldia magna,4.74e-41
+WP_094203934.1, Fe-S-binding domain-containing protein,Finegoldia magna,4.81e-41
+WP_154273762.1, formate dehydrogenase subunit alpha,Finegoldia magna,4.83e-41
+WP_080545245.1, formate dehydrogenase subunit alpha,Finegoldia magna,4.87e-41
+WP_080552394.1, formate dehydrogenase subunit alpha,Finegoldia magna,5.01e-41
+WP_102163649.1, Fe-S-binding domain-containing protein,Finegoldia magna,5.06e-41
+WP_094210025.1, Fe-S-binding domain-containing protein,Finegoldia magna,6.01e-41
+WP_094230129.1, 4Fe-4S dicluster domain-containing protein,Finegoldia magna,6.93e-41
+WP_094207399.1, MULTISPECIES: Fe-S-binding domain-containing protein,Finegoldia magna,1.35e-40
+WP_094210023.1, formate dehydrogenase subunit alpha,Finegoldia magna,1.39e-40
+WP_094207397.1, formate dehydrogenase subunit alpha,Finegoldia magna,1.56e-40
+WP_094223647.1, formate dehydrogenase subunit alpha,Finegoldia magna,2.50e-40
+WP_094208885.1, formate dehydrogenase subunit alpha,Finegoldia magna,2.64e-40
+WP_110057840.1, formate dehydrogenase subunit alpha,Finegoldia magna,2.85e-40
+WP_094208886.1, 4Fe-4S dicluster domain-containing protein,Finegoldia magna,2.98e-40
+WP_004838148.1, 2Fe-2S iron-sulfur cluster binding domain-containing protein,Anaerococcus vaginalis,6.29e-39
+WP_016474531.1, formate dehydrogenase subunit alpha,Sutterella wadsworthensis,6.96e-38
+WP_005428799.1, formate dehydrogenase subunit alpha,Sutterella wadsworthensis,1.29e-37
+WP_021995532.1, formate dehydrogenase subunit alpha,Sutterella wadsworthensis,1.45e-37
+WP_033125556.1, MULTISPECIES: 4Fe-4S dicluster domain-containing protein,Eubacterium sp,1.57e-37
+WP_002837326.1, hyaluronate lyase,Finegoldia magna,2.66e-36
+WP_115714506.1, MULTISPECIES: 4Fe-4S dicluster domain-containing protein,Eubacterium sp,3.44e-36
+WP_035112905.1, hyaluronate lyase,Finegoldia magna,5.97e-36
+WP_012290936.1, hyaluronate lyase,Finegoldia magna,1.12e-35
+WP_022505005.1, hypothetical protein,Eubacterium sp,1.43e-35
+WP_050642393.1, MULTISPECIES: 4Fe-4S dicluster domain-containing protein,Eubacterium sp,6.62e-35
+WP_004838149.1, formate dehydrogenase subunit alpha,Anaerococcus vaginalis,4.63e-34
+WP_008687646.1, MULTISPECIES: 4Fe-4S dicluster domain-containing protein,Eubacterium sp,1.75e-33
+WP_002835196.1, hyaluronate lyase,Finegoldia magna,3.07e-33
+WP_002563322.1, MULTISPECIES: 4Fe-4S dicluster domain-containing protein,Atopobium minutum,1.14e-32
+WP_117926282.1, 4Fe-4S dicluster domain-containing protein,Eubacterium sp,1.20e-32
+WP_118114992.1, 4Fe-4S dicluster domain-containing protein,Eubacterium sp,1.28e-32
+WP_021908208.1, 4Fe-4S-binding domain protein,Eubacterium sp,1.33e-32
+WP_117571897.1, 4Fe-4S dicluster domain-containing protein,Eubacterium sp,1.69e-32
+WP_139687334.1, formate dehydrogenase subunit alpha,Sutterella sp,1.70e-32
+WP_087279585.1, 4Fe-4S dicluster domain-containing protein,Eubacterium sp,4.36e-32
+WP_087312836.1, 4Fe-4S dicluster domain-containing protein,Eubacterium sp,6.75e-32
+WP_117994114.1, 4Fe-4S dicluster domain-containing protein,Eubacterium sp,2.24e-31
+WP_118589542.1, 4Fe-4S dicluster domain-containing protein,Eubacterium sp,4.63e-31
+WP_021951917.1, 4Fe-4S-binding domain protein,Eubacterium sp,5.04e-31
+WP_013380841.1, MULTISPECIES: 4Fe-4S dicluster domain-containing protein,Eubacterium sp,1.06e-30
+WP_061102021.1, 4Fe-4S dicluster domain-containing protein,Peptostreptococcus anaerobius,5.26e-30
+WP_007788878.1, 4Fe-4S dicluster domain-containing protein,Peptostreptococcus stomatis,5.63e-30
+WP_040660489.1, 4Fe-4S dicluster domain-containing protein,Oscillibacter ruminantium,7.06e-30
+WP_002843191.1, 4Fe-4S dicluster domain-containing protein,Peptostreptococcus anaerobius,8.27e-30
+WP_154536862.1, 4Fe-4S dicluster domain-containing protein,Peptostreptococcus anaerobius,8.91e-30
+WP_016646389.1, NADH-quinone oxidoreductase subunit G,Campylobacter ureolyticus,1.45e-29
+EAY12287.1," Iron only hydrogenase large subunit, C-terminal domain containing protein",Trichomonas vaginalis,1.80e-29
+WP_002845087.1, 4Fe-4S dicluster domain-containing protein,Peptostreptococcus anaerobius,3.05e-29
+WP_050335870.1, NADH-quinone oxidoreductase subunit G,Campylobacter ureolyticus,4.61e-29
+WP_022088070.1, 4Fe-4S-binding domain protein,Eubacterium sp,7.54e-29
+WP_024962342.1, NADH-quinone oxidoreductase subunit G,Campylobacter ureolyticus,8.00e-29
+WP_101637639.1, NADH-quinone oxidoreductase subunit G,Campylobacter ureolyticus,3.77e-28
+WP_004833976.1, 4Fe-4S dicluster domain-containing protein,Anaerococcus prevotii,7.24e-28
+WP_117913651.1, 4Fe-4S dicluster domain-containing protein,Eubacterium sp,7.89e-28
+WP_018713401.1, NADH-quinone oxidoreductase subunit G,Campylobacter ureolyticus,1.04e-27
+WP_019125409.1, 4Fe-4S dicluster domain-containing protein,Peptoniphilus grossensis,1.43e-27
+WP_021972475.1, iron only hydrogenase large subunit,Eubacterium sp,1.68e-27
+WP_117706156.1, 4Fe-4S dicluster domain-containing protein,Eubacterium sp,2.51e-27
+WP_119220965.1, 4Fe-4S dicluster domain-containing protein,Eubacterium sp,3.30e-27
+WP_075712874.1, 4Fe-4S dicluster domain-containing protein,Eubacterium sp,7.38e-27
+WP_016216135.1, hypothetical protein,Eubacterium sp,1.02e-26
+WP_058694236.1, MULTISPECIES: 4Fe-4S dicluster domain-containing protein,Eubacterium sp,1.06e-26
+WP_117818693.1, 4Fe-4S dicluster domain-containing protein ,Clostridium leptum,1.23e-26
+WP_044928674.1, 4Fe-4S dicluster domain-containing protein ,Clostridium leptum,1.30e-26
+WP_119211161.1, 4Fe-4S dicluster domain-containing protein,Eubacterium sp,2.44e-26
+WP_022235573.1, hypothetical protein,Eubacterium sp,3.55e-26
+WP_033127054.1, 4Fe-4S dicluster domain-containing protein,Eubacterium sp,5.41e-26
+WP_022248101.1, hydrogenase large subunit domain protein,Eubacterium sp,1.25e-25
+WP_087314248.1, 4Fe-4S dicluster domain-containing protein,Eubacterium sp,1.80e-25
+WP_087283094.1, 4Fe-4S dicluster domain-containing protein,Eubacterium sp,2.49e-25
+WP_072537893.1, 4Fe-4S dicluster domain-containing protein,Anaerococcus mediterraneensis,3.32e-25
+WP_075659523.1, 4Fe-4S dicluster domain-containing protein,Peptoniphilus grossensis,4.17e-25
+EER30425.1," NADH-ubiquinone oxidoreductase 78 kDa subunit, mitochondrial precursor",Candida tropicalis,4.57e-25
+WP_022165222.1, 4Fe-4S-binding domain protein,Eubacterium sp,7.06e-25
+KGK35734.1," hypothetical protein JL09_g5116, partial",Pichia kudriavzevii,1.04e-24
+KGK37887.1, hypothetical protein JL09_g2996,Pichia kudriavzevii,1.44e-24
+WP_015778292.1, 4Fe-4S dicluster domain-containing protein,Anaerococcus prevotii,1.61e-24
+KGQ99833.1," NADH dehydrogenase (quinone), G subunit",Candida albicans,3.34e-24
+KGU17126.1," NADH dehydrogenase (quinone), G subunit",Candida albicans,3.37e-24
+OAG22140.1, LET1-like protein,Alternaria alternata,3.40e-24
+OWY48514.1, histone-lysine N-methyltransferas-like protein,Alternaria alternata,3.43e-24
+KGT62924.1," NADH dehydrogenase (quinone), G subunit",Candida albicans,3.69e-24
+KHC42788.1," NADH dehydrogenase (quinone), G subunit",Candida albicans,3.75e-24
+RYN77889.1, NADH-ubiquinone oxidoreductase subunit,Alternaria alternata,4.58e-24
+OAG17529.1, NADH-quinone oxidoreductase,Alternaria alternata,4.67e-24
+WP_025883033.1, 4Fe-4S dicluster domain-containing protein,Porphyromonas uenonis,6.16e-24
+WP_004826589.1, 4Fe-4S dicluster domain-containing protein,Anaerococcus lactolyticus,6.89e-24
+WP_037327924.1, 4Fe-4S dicluster domain-containing protein,Anaerococcus lactolyticus,8.05e-24
+OWY51188.1, na(+) h(+) antiporter 2,Alternaria alternata,9.47e-24
+EER32821.1, hypothetical protein CTRG_03246,Candida tropicalis,2.36e-23
+WP_022207201.1, ferredoxin hydrogenase,Eubacterium sp,2.47e-23
+WP_039865597.1, 4Fe-4S dicluster domain-containing protein,Porphyromonas uenonis,2.64e-23
+WP_022502579.1, ferredoxin hydrogenase,Eubacterium sp,4.27e-23
+WP_019035242.1, 4Fe-4S dicluster domain-containing protein,Peptoniphilus lacrimalis,4.54e-23
+WP_004825869.1, 4Fe-4S dicluster domain-containing protein,Peptoniphilus lacrimalis,5.65e-23
+WP_022433081.1, ferredoxin hydrogenase,Eubacterium sp,2.94e-22
+WP_022418095.1, iron only hydrogenase large subunit,Eubacterium sp,5.95e-22
+WP_058694860.1, MULTISPECIES: 4Fe-4S dicluster domain-containing protein,Eubacterium sp,7.04e-22
+WP_020311845.1, MULTISPECIES: (4Fe-4S)-binding protein,Megasphaera lornae,1.03e-21
+WP_053962456.1, NADH-quinone oxidoreductase subunit G,Lawsonella clevelandensis,1.49e-21
+WP_117440949.1, iron hydrogenase,Eubacterium sp,2.03e-21
+WP_091792306.1, 4Fe-4S dicluster domain-containing protein,Peptococcus niger,3.66e-21
+WP_022204742.1, ferredoxin hydrogenase,Eubacterium sp,4.10e-21
+WP_021982839.1, hypothetical protein,Eubacterium sp,4.14e-21
+WP_050641092.1, MULTISPECIES: iron hydrogenase,Eubacterium sp,4.41e-21
+WP_013380063.1, 4Fe-4S dicluster domain-containing protein,Eubacterium sp,4.98e-21
+WP_021867168.1, ferredoxin hydrogenase,Eubacterium sp,5.49e-21
+KHC40908.1, cytosolic Fe-S cluster assembly factor NAR1,Candida albicans,1.02e-20
+WP_021903467.1, ferredoxin hydrogenase,Porphyromonas sp,1.61e-20
+WP_013379176.1, MULTISPECIES: 4Fe-4S dicluster domain-containing protein,Eubacterium sp,1.84e-20
+WP_095628870.1, MULTISPECIES: iron hydrogenase,Megasphaera lornae,1.86e-20
+WP_027868834.1, molybdopterin-dependent oxidoreductase,Eubacterium sp,2.03e-20
+WP_027868834.1, molybdopterin-dependent oxidoreductase,Eubacterium sp,2.43e-16
+WP_070707627.1, 4Fe-4S dicluster domain-containing protein,Porphyromonas sp,5.86e-20
+WP_058695696.1, MULTISPECIES: 4Fe-4S dicluster domain-containing protein,Eubacterium sp,1.15e-19
+WP_087477422.1, iron hydrogenase,Megasphaera lornae,1.84e-19
+WP_036879703.1, 4Fe-4S dicluster domain-containing protein,Porphyromonas sp,2.08e-19
+WP_039920364.1, 4Fe-4S dicluster domain-containing protein,Anaerococcus vaginalis,2.22e-19
+KGQ97887.1, cytosolic Fe-S cluster assembly factor NAR1,Candida albicans,3.11e-19
+KHC83648.1, cytosolic Fe-S cluster assembly factor NAR1,Candida albicans,3.12e-19
+WP_033126320.1, MULTISPECIES: PAS domain-containing protein,Eubacterium sp,3.14e-19
+EEQ42321.1, conserved hypothetical protein,Candida albicans,3.28e-19
+KGR22535.1, cytosolic Fe-S cluster assembly factor NAR1,Candida albicans,3.31e-19
+KGU17752.1, cytosolic Fe-S cluster assembly factor NAR1,Candida albicans,3.36e-19
+KGR17006.1, cytosolic Fe-S cluster assembly factor NAR1,Candida albicans,3.36e-19
+KHC60204.1, cytosolic Fe-S cluster assembly factor NAR1,Candida albicans,3.44e-19
+KGU16474.1, cytosolic Fe-S cluster assembly factor NAR1,Candida albicans,3.45e-19
+AOW26536.1, Nar1p,Candida albicans,3.47e-19
+WP_059076306.1, iron hydrogenase,Megasphaera lornae,3.66e-19
+KHC42409.1, cytosolic Fe-S cluster assembly factor NAR1,Candida albicans,3.90e-19
+WP_022248099.1, signal transduction histidine kinase,Eubacterium sp,4.28e-19
+KGR14127.1, cytosolic Fe-S cluster assembly factor NAR1,Candida albicans,4.32e-19
+WP_062413042.1, MULTISPECIES: iron hydrogenase,Megasphaera lornae,4.35e-19
+WP_019116526.1, 4Fe-4S dicluster domain-containing protein,Anaerococcus vaginalis,4.72e-19
+WP_044187841.1, 4Fe-4S dicluster domain-containing protein,Porphyromonas sp,4.85e-19
+WP_044231095.1, 4Fe-4S dicluster domain-containing protein,Porphyromonas sp,5.07e-19
+WP_004807362.1, MULTISPECIES: NADH-quinone oxidoreductase subunit G,Arcanobacterium haemolyticum,5.55e-19
+WP_075712007.1, molybdopterin-dependent oxidoreductase,Eubacterium sp,5.77e-19
+WP_075712007.1, molybdopterin-dependent oxidoreductase,Eubacterium sp,3.25e-18
+KGT71357.1, cytosolic Fe-S cluster assembly factor NAR1,Candida albicans,5.80e-19
+WP_065360585.1, iron hydrogenase,Megasphaera lornae,1.35e-18
+AJT29859.1, Nar1p,Saccharomyces cerevisiae,2.09e-18
+KHC84301.1, cytosolic Fe-S cluster assembly factor NAR1,Candida albicans,2.35e-18
+KGU36689.1, cytosolic Fe-S cluster assembly factor NAR1,Candida albicans,2.36e-18
+KHC67514.1, cytosolic Fe-S cluster assembly factor NAR1,Candida albicans,2.45e-18
+KGR02631.1, cytosolic Fe-S cluster assembly factor NAR1,Candida albicans,2.87e-18
+AJT30216.1, Nar1p,Saccharomyces cerevisiae,2.98e-18
+AJT03773.1, Nar1p,Saccharomyces cerevisiae,2.98e-18
+KGU13146.1, cytosolic Fe-S cluster assembly factor NAR1,Candida albicans,3.00e-18
+KGQ90559.1, cytosolic Fe-S cluster assembly factor NAR1,Candida albicans,3.21e-18
+RLP62173.1, cytosolic Fe-S cluster assembly factor NAR1,Candida albicans,3.84e-18
+KGU32091.1, cytosolic Fe-S cluster assembly factor NAR1,Candida albicans,4.03e-18
+WP_071705264.1, 4Fe-4S dicluster domain-containing protein,Murdochiella vaginalis,4.14e-18
+WP_154557095.1, FAD-dependent oxidoreductase,Eubacterium sp,4.18e-18
+WP_154557095.1, FAD-dependent oxidoreductase,Eubacterium sp,1.54e-16
+WP_021973536.1, 4Fe-4S-binding domain protein,Eubacterium sp,4.43e-18
+AJT05276.1, Nar1p,Saccharomyces cerevisiae,4.67e-18
+AJT26543.1, Nar1p,Saccharomyces cerevisiae,5.89e-18
+WP_129879798.1, PAS domain-containing protein,Eubacterium sp,6.13e-18
+WP_022259724.1, hypothetical protein,Eubacterium sp,6.73e-18
+WP_022259724.1, hypothetical protein,Eubacterium sp,1.12e-16
+WP_033126600.1, 2Fe-2S iron-sulfur cluster binding domain-containing protein,Eubacterium sp,7.54e-18
+WP_147556779.1, PAS domain S-box protein ,Clostridium leptum,7.69e-18
+AJT08254.1, Nar1p,Saccharomyces cerevisiae,9.05e-18
+AJT06397.1, Nar1p,Saccharomyces cerevisiae,9.05e-18
+AJT01543.1, Nar1p,Saccharomyces cerevisiae,9.05e-18
+AJT22845.1, Nar1p,Saccharomyces cerevisiae,9.38e-18
+AJT18422.1, Nar1p,Saccharomyces cerevisiae,9.38e-18
+AJT07878.1, Nar1p,Saccharomyces cerevisiae,1.06e-17
+AJT30588.1, Nar1p,Saccharomyces cerevisiae,1.17e-17
+WP_003530565.1, PAS domain S-box protein ,Clostridium leptum,1.20e-17
+AJT27661.1, Nar1p,Saccharomyces cerevisiae,1.24e-17
+AJT05650.1, Nar1p,Saccharomyces cerevisiae,1.24e-17
+WP_054958747.1," 4Fe-4S dicluster domain-containing protein, partial",Bacteroides thetaiotaomicron,1.56e-17
+KHC55865.1, cytosolic Fe-S cluster assembly factor NAR1,Candida albicans,1.77e-17
+WP_050639857.1, MULTISPECIES: PAS domain-containing protein,Eubacterium sp,2.17e-17
+WP_118517585.1, 4Fe-4S dicluster domain-containing protein,Eubacterium sp,2.45e-17
+WP_118517585.1, 4Fe-4S dicluster domain-containing protein,Eubacterium sp,2.59e-16
+WP_152566457.1, MULTISPECIES: 4Fe-4S dicluster domain-containing protein,Porphyromonas sp,2.48e-17
+WP_152565477.1, MULTISPECIES: 4Fe-4S dicluster domain-containing protein,Porphyromonas sp,3.21e-17
+WP_022302495.1, MULTISPECIES: 4Fe-4S dicluster domain-containing protein,Bacteroides faecis;Bacteroides thetaiotaomicron,3.49e-17
+WP_044929048.1, iron hydrogenase ,Clostridium leptum,1.00e-16
+WP_022470310.1, 4Fe-4S dicluster domain-containing protein,Bacteroides thetaiotaomicron,1.09e-16
+WP_003532170.1, iron hydrogenase ,Clostridium leptum,1.36e-16
+WP_016215101.1, 4Fe-4S dicluster domain-containing protein,Eubacterium sp,1.62e-16
+WP_008767718.1, 4Fe-4S dicluster domain-containing protein,Bacteroides thetaiotaomicron,2.74e-16
+WP_004011608.1, NADH-quinone oxidoreductase subunit G,Mobiluncus mulieris,2.93e-16
+NP_810747.1, hydrogenase,Bacteroides thetaiotaomicron,3.01e-16
+WP_055221493.1, 4Fe-4S dicluster domain-containing protein,Bacteroides thetaiotaomicron,3.18e-16
+WP_008763223.1, MULTISPECIES: 4Fe-4S dicluster domain-containing protein,Bacteroides thetaiotaomicron,3.30e-16
+WP_004018173.1, NADH-quinone oxidoreductase subunit G,Mobiluncus mulieris,3.31e-16
+WP_004016221.1, NADH-quinone oxidoreductase subunit G,Mobiluncus mulieris,3.34e-16
+WP_039886156.1, NADH-quinone oxidoreductase subunit G,Mobiluncus mulieris,3.40e-16
+WP_114989626.1, NADH-quinone oxidoreductase subunit G,Mobiluncus mulieris,3.58e-16
+YP_006778324.1, NADH dehydrogenase subunit G,Escherichia coli,4.62e-16
+YP_006120662.1, NADH dehydrogenase subunit G,Escherichia coli,4.95e-16
+WP_001301902.1, NADH-quinone oxidoreductase subunit NuoG,Escherichia coli,5.17e-16
+WP_001298783.1, MULTISPECIES: NADH-quinone oxidoreductase subunit NuoG,Escherichia coli,5.31e-16
+WP_062946151.1, NADH-quinone oxidoreductase subunit NuoG,Escherichia coli,5.35e-16
+NP_416786.4, NADH:quinone oxidoreductase subunit G,Escherichia coli,5.35e-16
+WP_001299497.1, MULTISPECIES: NADH-quinone oxidoreductase subunit NuoG,Escherichia coli,5.40e-16
+WP_001296257.1, MULTISPECIES: NADH-quinone oxidoreductase subunit NuoG,Escherichia coli,5.45e-16
+WP_001389845.1, NADH-quinone oxidoreductase subunit NuoG,Escherichia coli,5.45e-16
+YP_002413332.4, NADH-quinone oxidoreductase subunit G,Escherichia coli,5.54e-16
+WP_001397273.1, NADH-quinone oxidoreductase subunit NuoG,Escherichia coli,5.74e-16
+WP_001366405.1, MULTISPECIES: NADH-quinone oxidoreductase subunit NuoG,Escherichia coli,6.10e-16
+WP_001345207.1, NADH-quinone oxidoreductase subunit NuoG,Escherichia coli,6.21e-16
+WP_021973705.1, molybdopterin oxidoreductase,Eubacterium sp,7.50e-16
+WP_021973705.1, molybdopterin oxidoreductase,Eubacterium sp,3.52e-13
+YP_002408386.1, NADH dehydrogenase subunit G,Escherichia coli,7.79e-16
+WP_016266912.1, 4Fe-4S dicluster domain-containing protein,Bacteroides thetaiotaomicron,8.63e-16
+WP_117819989.1, iron hydrogenase ,Clostridium leptum,8.98e-16
+WP_013169555.1, NADH-quinone oxidoreductase subunit G,Arcanobacterium haemolyticum,1.65e-15
+WP_023052696.1," iron only hydrogenase large subunit, C-terminal domain protein",Megasphaera lornae,1.89e-15
+WP_138974994.1, NADH-quinone oxidoreductase subunit G,Arcanobacterium haemolyticum,1.90e-15
+KGK40829.1, hypothetical protein JL09_g93,Pichia kudriavzevii,1.91e-15
+WP_113722580.1, NADH-quinone oxidoreductase subunit G,Arcanobacterium haemolyticum,1.92e-15
+WP_101913023.1, iron hydrogenase,Megasphaera lornae,3.65e-15
+WP_154543281.1, NADH-quinone oxidoreductase subunit G,Mobiluncus holmesii,3.68e-15
+WP_118023124.1, iron hydrogenase,Megasphaera lornae,1.03e-14
+WP_040773262.1, iron hydrogenase,Megasphaera micronuciformis,1.65e-14
+EAY03354.1, 4Fe-4S binding domain containing protein,Trichomonas vaginalis,3.25e-14
+EAY22303.1, 4Fe-4S binding domain containing protein,Trichomonas vaginalis,8.51e-14
+WP_013379523.1, MULTISPECIES: 4Fe-4S dicluster domain-containing protein,Eubacterium sp,1.37e-13
+WP_058237192.1, NADH-quinone oxidoreductase subunit G,Actinomyces ihumii,2.44e-13
+WP_070725369.1, MULTISPECIES: NADH-quinone oxidoreductase subunit G,Actinomyces radingae,2.46e-13
+WP_044929313.1, 4Fe-4S dicluster domain-containing protein ,Clostridium leptum,4.99e-13
+WP_096920390.1, 4Fe-4S dicluster domain-containing protein,Eubacterium sp,8.16e-13
+WP_004008939.1, NADH-quinone oxidoreductase subunit G,Mobiluncus curtisii,2.67e-12
+WP_004007441.1, NADH-quinone oxidoreductase subunit G,Mobiluncus curtisii,2.99e-12
+WP_004011194.1, NADH-quinone oxidoreductase subunit G,Mobiluncus holmesii,3.20e-12
+WP_147557992.1, 4Fe-4S dicluster domain-containing protein ,Clostridium leptum,4.20e-12
+WP_003534146.1, 4Fe-4S dicluster domain-containing protein ,Clostridium leptum,5.15e-12
+WP_117818394.1, 4Fe-4S dicluster domain-containing protein ,Clostridium leptum,7.03e-12
+WP_021910590.1, methyl-accepting chemotaxis protein,Eubacterium sp,8.81e-12
+WP_008688754.1, 4Fe-4S dicluster domain-containing protein,Eubacterium sp,2.09e-11
+WP_016213699.1, 4Fe-4S dicluster domain-containing protein,Eubacterium sp,5.54e-11
+WP_021956771.1, methyl-accepting chemotaxis protein,Eubacterium sp,1.23e-10
+WP_021972477.1, iron only hydrogenase large subunit,Eubacterium sp,1.32e-10
+WP_050639850.1, MULTISPECIES: 4Fe-4S dicluster domain-containing protein,Eubacterium sp,2.01e-10
+WP_022417044.1, 4Fe-4S-binding domain protein,Eubacterium sp,1.62e-09
+WP_022418093.1, signal transduction histidine kinase,Eubacterium sp,2.32e-09
+WP_021981745.1, methyl-accepting chemotaxis protein,Eubacterium sp,1.88e-08
+WP_025657126.1, 4Fe-4S dicluster domain-containing protein,Eubacterium sp,2.14e-08
+EAY08460.1, 4Fe-4S binding domain containing protein,Trichomonas vaginalis,4.92e-08
+KXB48909.1, molybdopterin oxidoreductase Fe4S4 domain protein,Eggerthella like,8.49e-07
+SCV12621.1, Cytosolic Fe-S cluster assembly factor NAR1,Candida glabrata,2.95e-06
+KTB20012.1, Cytosolic Fe-S cluster assembly factor NAR1,Candida glabrata,3.10e-06
+CAG60988.1, unnamed protein product,Candida glabrata,3.19e-06
+OXB42191.1, hypothetical protein B1J91_J07590g,Candida glabrata,3.85e-06
+KTB19679.1, Cytosolic Fe-S cluster assembly factor NAR1,Candida glabrata,1.83e-05
+WP_091792329.1, hypothetical protein,Peptococcus niger,3.65e-05
+WP_156425740.1, formate dehydrogenase subunit alpha,TM7 H1,6.54e-05

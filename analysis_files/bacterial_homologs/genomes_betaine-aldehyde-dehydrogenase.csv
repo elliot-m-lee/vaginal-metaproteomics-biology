@@ -1,0 +1,501 @@
+id,protein,taxa,e-value
+WP_022248557.1, hypothetical protein,Eubacterium sp,6.71e-170
+CAG60793.1, unnamed protein product,Candida glabrata,5.16e-145
+KTB22822.1," Aldehyde dehydrogenase 5, mitochondrial",Candida glabrata,6.00e-145
+OAG24269.1, aldehyde dehydrogenase,Alternaria alternata,2.49e-140
+AJU46387.1, Ald5p,Saccharomyces cerevisiae,1.55e-139
+AJV32887.1, Ald5p,Saccharomyces cerevisiae,1.58e-139
+AJU47400.1, Ald5p,Saccharomyces cerevisiae,1.96e-139
+AJU48941.1, Ald5p,Saccharomyces cerevisiae,1.98e-139
+AJV35394.1, Ald5p,Saccharomyces cerevisiae,2.57e-139
+RYN84170.1, putative aldehyde dehydrogenase-like protein,Alternaria alternata,2.56e-138
+OAG22256.1, aldehyde dehydrogenase,Alternaria alternata,1.09e-137
+KTB15387.1," Potassium-activated aldehyde dehydrogenase, mitochondrial",Candida glabrata,6.20e-137
+CAG58607.1, unnamed protein product,Candida glabrata,7.22e-137
+AJU08912.1, Ald4p,Saccharomyces cerevisiae,8.90e-137
+AJU05516.1, Ald4p,Saccharomyces cerevisiae,9.20e-137
+OWY44119.1, aldehyde dehydrogenase-like protein,Alternaria alternata,1.22e-136
+AJU09882.1, Ald4p,Saccharomyces cerevisiae,1.34e-136
+AJT71781.1, Ald4p,Saccharomyces cerevisiae,1.53e-136
+AJT71294.1, Ald4p,Saccharomyces cerevisiae,1.84e-136
+AJT94232.1, Ald4p,Saccharomyces cerevisiae,1.92e-136
+AJU10367.1, Ald4p,Saccharomyces cerevisiae,2.24e-136
+KTB14761.1," Potassium-activated aldehyde dehydrogenase, mitochondrial",Candida glabrata,4.46e-135
+KGK39478.1, hypothetical protein JL09_g1308,Pichia kudriavzevii,1.96e-134
+KGK40528.1, hypothetical protein JL09_g420,Pichia kudriavzevii,1.07e-130
+OUT23922.1, hypothetical protein CAS74_000297,Pichia kudriavzevii,1.48e-130
+KGU28384.1, aldehyde dehydrogenase (NAD+),Candida albicans,3.03e-130
+KGU12443.1, aldehyde dehydrogenase (NAD+),Candida albicans,4.52e-130
+KGQ88856.1, aldehyde dehydrogenase (NAD+),Candida albicans,1.91e-129
+OWY41505.1, aldehyde dehydrogenase-like protein,Alternaria alternata,2.32e-129
+OAG26328.1, aldehyde dehydrogenase-like protein,Alternaria alternata,8.78e-129
+WP_068719945.1, aldehyde dehydrogenase,Dialister sp,2.97e-128
+WP_006943165.1, aldehyde dehydrogenase family protein,Megasphaera micronuciformis,1.10e-126
+KGT70503.1, aldehyde dehydrogenase (NAD+),Candida albicans,1.80e-126
+WP_118022387.1, aldehyde dehydrogenase family protein,Megasphaera lornae,3.47e-126
+WP_023053309.1, MULTISPECIES: aldehyde dehydrogenase family protein,Megasphaera lornae,5.70e-126
+WP_118275518.1, aldehyde dehydrogenase family protein,Sutterella sp,2.69e-125
+WP_016646686.1, aldehyde dehydrogenase family protein,Campylobacter ureolyticus,3.21e-125
+OAG21310.1, aldehyde dehydrogenase,Alternaria alternata,5.45e-125
+WP_020310537.1, MULTISPECIES: aldehyde dehydrogenase family protein,Megasphaera lornae,5.92e-125
+OWY43460.1, aldehyde dehydrogenase-like protein,Alternaria alternata,7.96e-125
+WP_059076491.1, aldehyde dehydrogenase family protein,Megasphaera lornae,1.49e-124
+WP_150824835.1, aldehyde dehydrogenase family protein,Megasphaera lornae,2.27e-124
+YP_006118671.1, betaine aldehyde dehydrogenase,Escherichia coli,4.69e-124
+NP_414846.1, betaine aldehyde dehydrogenase,Escherichia coli,8.69e-124
+WP_061069269.1, betaine-aldehyde dehydrogenase,Escherichia coli,1.09e-123
+WP_000089080.1, betaine-aldehyde dehydrogenase,Escherichia coli,1.13e-123
+WP_016476553.1, MULTISPECIES: aldehyde dehydrogenase family protein,Veillonella atypica,1.24e-123
+WP_062946176.1, betaine-aldehyde dehydrogenase,Escherichia coli,1.65e-123
+WP_000089099.1, betaine-aldehyde dehydrogenase,Escherichia coli,1.83e-123
+WP_000089079.1, betaine-aldehyde dehydrogenase,Escherichia coli,2.23e-123
+CAG59952.1, unnamed protein product,Candida glabrata,2.33e-123
+OXB42889.1, hypothetical protein B1J91_H05137g,Candida glabrata,2.36e-123
+WP_006627163.1, aldehyde dehydrogenase family protein,Bulleidia extructa,2.78e-123
+YP_006780654.1, betaine aldehyde dehydrogenase,Escherichia coli,3.47e-123
+KTB26298.1," Magnesium-activated aldehyde dehydrogenase, cytosolic",Candida glabrata,5.20e-123
+WP_007553733.1, aldehyde dehydrogenase family protein,Dialister micraerophilus,1.19e-122
+WP_098701886.1, aldehyde dehydrogenase,Fusobacterium nucleatum,1.48e-122
+WP_035062614.1, aldehyde dehydrogenase family protein,Dialister micraerophilus,1.50e-122
+WP_005900815.1, MULTISPECIES: aldehyde dehydrogenase family protein,Fusobacterium nucleatum,1.51e-122
+WP_005898308.1, aldehyde dehydrogenase family protein,Fusobacterium nucleatum,1.76e-122
+WP_000089075.1, MULTISPECIES: betaine-aldehyde dehydrogenase,Escherichia coli,2.26e-122
+WP_022372605.1, aldehyde dehydrogenase,Sutterella sp,2.39e-122
+WP_099002443.1, MULTISPECIES: aldehyde dehydrogenase family protein,Fusobacterium nucleatum,2.57e-122
+WP_032887881.1, aldehyde dehydrogenase family protein,Fusobacterium nucleatum,2.68e-122
+WP_023036632.1, aldehyde dehydrogenase family protein,Fusobacterium nucleatum,3.19e-122
+YP_002406413.1, betaine aldehyde dehydrogenase,Escherichia coli,3.56e-122
+WP_088387285.1, aldehyde dehydrogenase family protein,Fusobacterium nucleatum,4.37e-122
+WP_000089070.1, betaine-aldehyde dehydrogenase,Escherichia coli,4.47e-122
+WP_075714767.1, aldehyde dehydrogenase,Eubacterium sp,4.74e-122
+WP_075659583.1, aldehyde dehydrogenase,Peptoniphilus grossensis,4.74e-122
+YP_002411115.1, betaine aldehyde dehydrogenase,Escherichia coli,4.82e-122
+EER34481.1," aldehyde dehydrogenase, mitochondrial precursor",Candida tropicalis,5.08e-122
+WP_008799164.1, aldehyde dehydrogenase family protein,Fusobacterium nucleatum,6.66e-122
+WP_005903237.1, aldehyde dehydrogenase family protein,Fusobacterium nucleatum,6.88e-122
+WP_029598569.1, aldehyde dehydrogenase family protein,Fusobacterium nucleatum,7.34e-122
+WP_060916928.1, aldehyde dehydrogenase family protein,Peptostreptococcus anaerobius,7.92e-122
+WP_023041006.1, aldehyde dehydrogenase family protein,Fusobacterium nucleatum,9.62e-122
+WP_002844253.1, aldehyde dehydrogenase family protein,Peptostreptococcus anaerobius,1.33e-121
+WP_118354151.1, aldehyde dehydrogenase family protein,Veillonella atypica,1.37e-121
+WP_000089074.1, betaine-aldehyde dehydrogenase,Escherichia coli,1.41e-121
+WP_019125464.1, aldehyde dehydrogenase,Peptoniphilus grossensis,1.87e-121
+WP_156931582.1, aldehyde dehydrogenase family protein,Veillonella atypica,2.28e-121
+WP_000089072.1, betaine-aldehyde dehydrogenase,Escherichia coli,3.31e-121
+WP_003145902.1, aldehyde dehydrogenase family protein,Gemella haemolysans,3.37e-121
+WP_021935255.1, aldehyde dehydrogenase family protein,Peptostreptococcus anaerobius,4.06e-121
+WP_008802454.1, aldehyde dehydrogenase family protein,Fusobacterium nucleatum,4.10e-121
+WP_065226218.1, betaine-aldehyde dehydrogenase,Escherichia coli,5.10e-121
+WP_029758571.1, aldehyde dehydrogenase family protein,Fusobacterium nucleatum,8.94e-121
+WP_150150685.1, aldehyde dehydrogenase family protein,Fusobacterium nucleatum,9.23e-121
+WP_029600162.1, aldehyde dehydrogenase family protein,Fusobacterium nucleatum,1.77e-120
+WP_101636963.1, aldehyde dehydrogenase family protein,Campylobacter ureolyticus,2.05e-120
+WP_091791286.1, aldehyde dehydrogenase,Peptococcus niger,2.41e-120
+WP_018712754.1, aldehyde dehydrogenase family protein,Campylobacter ureolyticus,2.68e-120
+RLP66978.1, hypothetical protein L150_05763,Candida albicans,3.48e-120
+KGT63725.1, aldehyde dehydrogenase (NAD(P)+),Candida albicans,4.51e-120
+WP_008797605.1, aldehyde dehydrogenase family protein,Fusobacterium nucleatum,4.63e-120
+WP_066128700.1, aldehyde dehydrogenase family protein,Gemella asaccharolytica,7.41e-120
+WP_015778167.1, aldehyde dehydrogenase family protein,Anaerococcus prevotii,8.40e-120
+WP_023040002.1, MULTISPECIES: aldehyde dehydrogenase family protein,Fusobacterium nucleatum,1.39e-119
+WP_005913676.1, MULTISPECIES: aldehyde dehydrogenase family protein,Fusobacterium nucleatum,1.44e-119
+WP_005907712.1, aldehyde dehydrogenase,Fusobacterium nucleatum,1.47e-119
+WP_131748213.1, aldehyde dehydrogenase family protein,Anaerococcus prevotii,1.76e-119
+WP_024962201.1, aldehyde dehydrogenase family protein,Campylobacter ureolyticus,1.90e-119
+OUT24437.1, hypothetical protein CAS74_000825,Pichia kudriavzevii,2.00e-119
+AWU76895.1, hypothetical protein C5L36_0C08090,Pichia kudriavzevii,2.11e-119
+KHC45247.1, aldehyde dehydrogenase (NAD(P)+),Candida albicans,2.19e-119
+YP_002412349.1, gamma-glutamyl-gamma-aminobutyraldehyde dehydrogenase,Escherichia coli,2.31e-119
+EER35793.1, aldehyde dehydrogenase,Candida tropicalis,2.44e-119
+WP_029598816.1, aldehyde dehydrogenase family protein,Fusobacterium nucleatum,2.56e-119
+WP_008795240.1, aldehyde dehydrogenase family protein,Fusobacterium nucleatum,2.85e-119
+WP_008693576.1, aldehyde dehydrogenase family protein,Fusobacterium nucleatum,4.63e-119
+WP_023041903.1, aldehyde dehydrogenase family protein,Fusobacterium nucleatum,5.11e-119
+WP_005379320.1, aldehyde dehydrogenase family protein,Veillonella atypica,5.14e-119
+WP_005378360.1, aldehyde dehydrogenase family protein,Veillonella atypica,5.25e-119
+WP_060807577.1, aldehyde dehydrogenase family protein,Veillonella atypica,6.66e-119
+YP_006779452.1, gamma-glutamyl-gamma-aminobutyraldehyde dehydrogenase,Escherichia coli,9.30e-119
+YP_002407651.1, gamma-glutamyl-gamma-aminobutyraldehyde dehydrogenase,Escherichia coli,1.01e-118
+WP_119983044.1, aldehyde dehydrogenase family protein,Veillonella atypica,1.13e-118
+WP_005382267.1, aldehyde dehydrogenase family protein,Veillonella atypica,1.19e-118
+WP_001009157.1, aldehyde dehydrogenase PuuC,Escherichia coli,1.30e-118
+WP_004835291.1, aldehyde dehydrogenase family protein,Anaerococcus prevotii,1.35e-118
+WP_001009127.1, aldehyde dehydrogenase PuuC,Escherichia coli,1.42e-118
+WP_001009087.1, aldehyde dehydrogenase PuuC,Escherichia coli,1.50e-118
+WP_005911086.1, aldehyde dehydrogenase family protein,Fusobacterium nucleatum,1.75e-118
+WP_009006597.1, aldehyde dehydrogenase family protein,Fusobacterium nucleatum,2.04e-118
+WP_065226709.1, aldehyde dehydrogenase PuuC,Escherichia coli,2.05e-118
+WP_001009147.1, MULTISPECIES: aldehyde dehydrogenase PuuC,Escherichia coli,2.99e-118
+WP_001009154.1, aldehyde dehydrogenase PuuC,Escherichia coli,3.96e-118
+NP_415816.1, gamma-glutamyl-gamma-aminobutyraldehyde dehydrogenase,Escherichia coli,7.41e-118
+WP_032277020.1, aldehyde dehydrogenase PuuC,Escherichia coli,7.74e-118
+WP_060798277.1, aldehyde dehydrogenase family protein,Fusobacterium nucleatum,8.31e-118
+AJV97033.1, Ald6p,Saccharomyces cerevisiae,9.73e-118
+WP_008799134.1, aldehyde dehydrogenase family protein,Fusobacterium nucleatum,1.10e-117
+WP_008701225.1, aldehyde dehydrogenase family protein,Fusobacterium nucleatum,1.28e-117
+AJV96181.1, Ald6p,Saccharomyces cerevisiae,1.88e-117
+AJW18203.1, Ald6p,Saccharomyces cerevisiae,2.31e-117
+WP_158411468.1, aldehyde dehydrogenase family protein,Fusobacterium nucleatum,3.01e-117
+AJV95740.1, Ald6p,Saccharomyces cerevisiae,3.97e-117
+AJW13417.1, Ald6p,Saccharomyces cerevisiae,7.50e-117
+LCVA_584, aldehyde dehydrogenase family protein,Lachnocurva vaginae,7.63e-117
+WP_050642435.1, MULTISPECIES: aldehyde dehydrogenase,Eubacterium sp,1.07e-116
+WP_055151227.1, aldehyde dehydrogenase,Eubacterium sp,1.26e-116
+KGK37215.1, hypothetical protein JL09_g3633,Pichia kudriavzevii,1.26e-116
+AWU76777.1, hypothetical protein C5L36_0C06970,Pichia kudriavzevii,1.92e-116
+WP_156469760.1, aldehyde dehydrogenase family protein,Sutterella sp,3.80e-116
+WP_001009152.1, aldehyde dehydrogenase PuuC,Escherichia coli,1.12e-115
+WP_062412990.1, MULTISPECIES: aldehyde dehydrogenase family protein,Megasphaera lornae,2.72e-115
+WP_065360740.1, aldehyde dehydrogenase family protein,Megasphaera lornae,6.67e-115
+WP_038006535.1, aldehyde dehydrogenase family protein,Sutterella wadsworthensis,8.66e-115
+YP_002414744.1, aldehyde dehydrogenase B,Escherichia coli,1.55e-114
+NP_418045.4, aldehyde dehydrogenase B,Escherichia coli,2.32e-114
+KXB49083.1, putative aldehyde dehydrogenase B,Eggerthella like,2.62e-114
+YP_006121912.1, lactaldehyde dehydrogenase,Escherichia coli,3.13e-114
+WP_001359414.1, MULTISPECIES: aldehyde dehydrogenase,Escherichia coli,3.57e-114
+WP_000183978.1, MULTISPECIES: aldehyde dehydrogenase,Escherichia coli,4.10e-114
+WP_114493732.1, aldehyde dehydrogenase,Escherichia coli,4.93e-114
+WP_001301920.1, aldehyde dehydrogenase,Escherichia coli,5.32e-114
+WP_036731962.1, aldehyde dehydrogenase family protein,Peptoniphilus grossensis,1.05e-113
+YP_002409986.1, aldehyde dehydrogenase B,Escherichia coli,1.19e-113
+WP_001303062.1, aldehyde dehydrogenase,Escherichia coli,2.26e-113
+WP_139687428.1, aldehyde dehydrogenase family protein,Sutterella sp,3.03e-113
+WP_000757512.1, MULTISPECIES: 5-carboxymethyl-2-hydroxymuconate semialdehyde dehydrogenase,Escherichia coli,6.20e-113
+YP_002415551.1, 5-carboxymethyl-2-hydroxymuconate semialdehyde dehydrogenase,Escherichia coli,6.27e-113
+WP_006304677.1, aldehyde dehydrogenase family protein,Fannyhessea vaginae,8.48e-113
+OUT24573.1, hypothetical protein CAS74_000961,Pichia kudriavzevii,9.80e-113
+WP_066780883.1, aldehyde dehydrogenase family protein,TM7 H1,1.39e-112
+WP_016474160.1, aldehyde dehydrogenase family protein,Sutterella wadsworthensis,1.70e-112
+WP_065228151.1, 5-carboxymethyl-2-hydroxymuconate semialdehyde dehydrogenase,Escherichia coli,3.97e-112
+KGK40219.1, hypothetical protein JL09_g600,Pichia kudriavzevii,4.44e-112
+AWU77031.1, hypothetical protein C5L36_0C09380,Pichia kudriavzevii,5.50e-112
+WP_021994978.1, aldehyde dehydrogenase family protein,Sutterella wadsworthensis,5.95e-112
+WP_048596272.1, aldehyde dehydrogenase family protein,Fannyhessea vaginae,1.33e-111
+WP_006303423.1, aldehyde dehydrogenase family protein,Fannyhessea vaginae,1.56e-111
+WP_005430218.1, aldehyde dehydrogenase family protein,Sutterella wadsworthensis,3.17e-111
+AJS75579.2, Ald2p,Saccharomyces cerevisiae,2.26e-110
+WP_001163918.1, gamma-aminobutyraldehyde dehydrogenase,Escherichia coli,3.72e-110
+WP_065226742.1, NAD-dependent phenylacetaldehyde dehydrogenase,Escherichia coli,4.62e-110
+AJS86476.1, Ald3p,Saccharomyces cerevisiae,7.39e-110
+AJS79510.1, Ald3p,Saccharomyces cerevisiae,8.50e-110
+WP_000138615.1, MULTISPECIES: NAD-dependent phenylacetaldehyde dehydrogenase,Escherichia coli,9.52e-110
+WP_001163875.1, MULTISPECIES: gamma-aminobutyraldehyde dehydrogenase,Escherichia coli,1.33e-109
+WP_001163892.1, MULTISPECIES: aminobutyraldehyde dehydrogenase,Escherichia coli,1.37e-109
+YP_006119786.1, gamma-aminobutyraldehyde dehydrogenase,Escherichia coli,1.40e-109
+AJS63342.1, Ald3p,Saccharomyces cerevisiae,1.69e-109
+AJS86477.1, Ald2p,Saccharomyces cerevisiae,1.75e-109
+AJS69462.1, Ald3p,Saccharomyces cerevisiae,1.79e-109
+WP_001163861.1, gamma-aminobutyraldehyde dehydrogenase,Escherichia coli,1.80e-109
+WP_065226782.1, aminobutyraldehyde dehydrogenase,Escherichia coli,1.84e-109
+YP_006779343.1, gamma-aminobutyraldehyde dehydrogenase,Escherichia coli,2.14e-109
+AJS63343.1, Ald2p,Saccharomyces cerevisiae,2.32e-109
+KTB10783.1, Aldehyde dehydrogenase [NAD(P)+] 1,Candida glabrata,2.51e-109
+AJS79511.1, Ald2p,Saccharomyces cerevisiae,2.52e-109
+WP_001164457.1, aminobutyraldehyde dehydrogenase,Escherichia coli,2.71e-109
+NP_415961.1, gamma-aminobutyraldehyde dehydrogenase,Escherichia coli,2.92e-109
+CAG59230.1, unnamed protein product,Candida glabrata,4.03e-109
+YP_002412431.1, medium chain aldehyde dehydrogenase,Escherichia coli,4.26e-109
+YP_006779395.1, phenylacetaldehyde dehydrogenase,Escherichia coli,4.45e-109
+AJS69463.1, Ald2p,Saccharomyces cerevisiae,5.03e-109
+AJS93903.1, Ald3p,Saccharomyces cerevisiae,6.66e-109
+AJS66833.1, Ald3p,Saccharomyces cerevisiae,8.09e-109
+WP_001163885.1, aminobutyraldehyde dehydrogenase,Escherichia coli,1.18e-108
+WP_069358387.1, aminobutyraldehyde dehydrogenase,Escherichia coli,1.35e-108
+WP_001163888.1, aminobutyraldehyde dehydrogenase,Escherichia coli,1.61e-108
+AJS73399.2, Ald2p,Saccharomyces cerevisiae,1.74e-108
+AJS79949.1, Ald3p,Saccharomyces cerevisiae,1.78e-108
+AJS88651.1, Ald3p,Saccharomyces cerevisiae,2.04e-108
+AJS76023.2, Ald2p,Saccharomyces cerevisiae,2.38e-108
+AJS79950.1, Ald2p,Saccharomyces cerevisiae,2.85e-108
+AJS96928.1, Ald3p,Saccharomyces cerevisiae,5.57e-108
+AJS84298.1, Ald3p,Saccharomyces cerevisiae,8.03e-108
+AJS97364.1, Ald3p,Saccharomyces cerevisiae,8.29e-108
+AJS96929.1, Ald2p,Saccharomyces cerevisiae,8.75e-108
+AJS84877.1," Ald2p, partial",Saccharomyces cerevisiae,9.34e-108
+QHB10900.1, Ald3,Saccharomyces cerevisiae,1.25e-107
+AJS84299.1, Ald2p,Saccharomyces cerevisiae,1.76e-107
+AJS91273.1, Ald2p,Saccharomyces cerevisiae,2.12e-107
+AJS97365.1, Ald2p,Saccharomyces cerevisiae,2.21e-107
+AJS64651.1, Ald3p,Saccharomyces cerevisiae,2.33e-107
+AJS62032.1, Ald3p,Saccharomyces cerevisiae,2.60e-107
+AJS96494.1, Ald3p,Saccharomyces cerevisiae,2.74e-107
+AJS95772.2, Ald2p,Saccharomyces cerevisiae,2.83e-107
+AJS96057.1, Ald3p,Saccharomyces cerevisiae,3.51e-107
+AJS62033.1, Ald2p,Saccharomyces cerevisiae,4.36e-107
+AJS62469.1, Ald3p,Saccharomyces cerevisiae,4.45e-107
+AJS73398.1, Ald3p,Saccharomyces cerevisiae,5.77e-107
+AJS83860.1, Ald3p,Saccharomyces cerevisiae,5.96e-107
+AJS82554.1, Ald2p,Saccharomyces cerevisiae,6.29e-107
+QHB10899.1, Ald2,Saccharomyces cerevisiae,6.63e-107
+OAG16163.1, betaine aldehyde dehydrogenase,Alternaria alternata,7.21e-107
+AJS66834.1, Ald2p,Saccharomyces cerevisiae,1.49e-106
+AJS96495.1, Ald2p,Saccharomyces cerevisiae,1.68e-106
+AJS69898.1, Ald3p,Saccharomyces cerevisiae,2.06e-106
+AJS69899.1, Ald2p,Saccharomyces cerevisiae,2.29e-106
+WP_002846718.1, aldehyde dehydrogenase family protein,Peptostreptococcus anaerobius,3.62e-106
+WP_005027565.1, aldehyde dehydrogenase,Bilophila wadsworthia,9.07e-106
+WP_029435655.1, aldehyde dehydrogenase,Bilophila wadsworthia,1.37e-105
+WP_000772870.1, NADP-dependent succinate-semialdehyde dehydrogenase,Escherichia coli,2.06e-105
+AJS67710.1, Ald2p,Saccharomyces cerevisiae,2.06e-105
+AJS67709.1, Ald3p,Saccharomyces cerevisiae,2.08e-105
+AJS81685.1, Ald3p,Saccharomyces cerevisiae,2.97e-105
+AJS73833.2, Ald3p,Saccharomyces cerevisiae,7.10e-105
+WP_000772867.1, NADP-dependent succinate-semialdehyde dehydrogenase I,Escherichia coli,1.53e-104
+AJS76022.2, Ald3p,Saccharomyces cerevisiae,2.00e-104
+YP_002408781.1, succinate-semialdehyde dehydrogenase I,Escherichia coli,2.00e-104
+AJS95623.1, Ald3p,Saccharomyces cerevisiae,2.08e-104
+WP_000772858.1, NADP-dependent succinate-semialdehyde dehydrogenase,Escherichia coli,2.64e-104
+WP_023154704.1, NADP-dependent succinate-semialdehyde dehydrogenase I,Escherichia coli,2.94e-104
+WP_000772856.1, NADP-dependent succinate-semialdehyde dehydrogenase I,Escherichia coli,3.58e-104
+YP_006777961.1, succinate-semialdehyde dehydrogenase I,Escherichia coli,4.20e-104
+YP_002413678.1, succinate-semialdehyde dehydrogenase I,Escherichia coli,4.68e-104
+WP_000772884.1, NADP-dependent succinate-semialdehyde dehydrogenase I,Escherichia coli,6.68e-104
+NP_417147.1, NADP(+)-dependent succinate-semialdehyde dehydrogenase,Escherichia coli,1.21e-103
+WP_000115939.1, aldehyde dehydrogenase,Escherichia coli,5.44e-103
+YP_006119762.1, aldehyde dehydrogenase A,Escherichia coli,2.11e-102
+WP_000115973.1, MULTISPECIES: aldehyde dehydrogenase,Escherichia coli,2.43e-102
+WP_000115947.1, MULTISPECIES: aldehyde dehydrogenase,Escherichia coli,3.66e-102
+YP_002412404.1, aldehyde dehydrogenase A,Escherichia coli,4.16e-102
+WP_065226765.1, aldehyde dehydrogenase,Escherichia coli,4.69e-102
+NP_415933.1, aldehyde dehydrogenase A,Escherichia coli,4.74e-102
+YP_006779370.1, aldehyde dehydrogenase A,Escherichia coli,9.33e-102
+WP_000115940.1, aldehyde dehydrogenase,Escherichia coli,1.10e-101
+YP_006120955.1, succinate-semialdehyde dehydrogenase I,Escherichia coli,1.20e-101
+ONH76372.1, Aldehyde dehydrogenase,Pichia kudriavzevii,1.35e-101
+WP_000115913.1, aldehyde dehydrogenase,Escherichia coli,1.63e-101
+WP_139687749.1, aldehyde dehydrogenase family protein,Sutterella sp,4.37e-101
+WP_065227472.1, succinate-semialdehyde dehydrogenase I,Escherichia coli,4.27e-100
+WP_068721043.1, aldehyde dehydrogenase family protein,Dialister sp,6.86e-100
+WP_007391874.1, aldehyde dehydrogenase family protein,Megasphaera lornae,1.09e-99
+WP_062486605.1, aldehyde dehydrogenase family protein,Megasphaera hutchinsoni,1.64e-99
+WP_004263059.1, aldehyde dehydrogenase,Gemella haemolysans,1.69e-99
+RYN75281.1, NAD/NADP-dependent betaine aldehyde dehydrogenase,Alternaria alternata,5.43e-99
+WP_118274109.1, aldehyde dehydrogenase family protein,Sutterella sp,1.42e-98
+WP_022472462.1, hypothetical protein,Sutterella sp,4.22e-98
+OAG20247.1, aldehyde dehydrogenase-like protein,Alternaria alternata,1.24e-97
+RYN71917.1, Aldehyde dehydrogenase,Alternaria alternata,2.03e-97
+OAG26300.1, succinic semialdehyde dehydrogenase,Alternaria alternata,4.58e-97
+RYN76623.1, Retinal dehydrogenase 2,Alternaria alternata,4.91e-97
+OWY41530.1, succinic semialdehyde dehydrogenase,Alternaria alternata,5.38e-97
+OAG17222.1, aldehyde dehydrogenase X mitochondrial precursor,Alternaria alternata,5.41e-97
+WP_060913584.1, aldehyde dehydrogenase,Gemella haemolysans,1.19e-96
+WP_094537492.1, aldehyde dehydrogenase,Lactobacillus reuteri,1.47e-96
+OAG13650.1, aldehyde dehydrogenase,Alternaria alternata,1.80e-96
+WP_003147902.1, aldehyde dehydrogenase,Gemella haemolysans,7.74e-95
+WP_021994704.1, aldehyde dehydrogenase family protein,Sutterella wadsworthensis,1.55e-94
+WP_016474789.1, aldehyde dehydrogenase family protein,Sutterella wadsworthensis,4.73e-94
+RYN64456.1, Aldehyde dehydrogenase,Alternaria alternata,5.50e-94
+WP_153709427.1, aldehyde dehydrogenase,Lactobacillus reuteri,6.28e-94
+WP_005435331.1, aldehyde dehydrogenase family protein,Sutterella wadsworthensis,3.00e-93
+EER31804.1, succinate-semialdehyde dehydrogenase,Candida tropicalis,1.49e-92
+OWY54264.1, aldehyde dehydrogenase-like protein,Alternaria alternata,2.15e-92
+WP_062334575.1, aldehyde dehydrogenase family protein,Sutterella sp,2.28e-92
+WP_005429639.1, aldehyde dehydrogenase family protein,Sutterella wadsworthensis,2.40e-92
+WP_065359558.1, aldehyde dehydrogenase family protein,Megasphaera lornae,2.07e-91
+WP_022372593.1, hypothetical protein,Sutterella sp,1.23e-90
+WP_020723828.1, aldehyde dehydrogenase family protein,Megasphaera lornae,1.77e-90
+WP_087477157.1, aldehyde dehydrogenase family protein,Megasphaera lornae,6.86e-90
+WP_095629347.1, aldehyde dehydrogenase family protein,Megasphaera lornae,1.47e-89
+OAG17622.1, aldehyde dehydrogenase-like protein,Alternaria alternata,1.69e-89
+AJP85832.1, Uga2p,Saccharomyces cerevisiae,1.71e-89
+AJQ11092.1, Uga2p,Saccharomyces cerevisiae,2.46e-89
+AJP99240.1, Uga2p,Saccharomyces cerevisiae,2.46e-89
+AJQ01555.1, Uga2p,Saccharomyces cerevisiae,3.01e-89
+AJQ10357.1, Uga2p,Saccharomyces cerevisiae,3.69e-89
+AJQ06132.1, Uga2p,Saccharomyces cerevisiae,6.17e-89
+OWY51270.1, aldehyde dehydrogenase-like protein,Alternaria alternata,7.38e-89
+WP_062412763.1, MULTISPECIES: aldehyde dehydrogenase family protein,Megasphaera lornae,1.03e-88
+WP_007390807.1, aldehyde dehydrogenase family protein,Megasphaera lornae,1.48e-88
+AJS66547.1," Ald3p, partial",Saccharomyces cerevisiae,1.17e-87
+KGT72371.1, succinate-semialdehyde dehydrogenase,Candida albicans,1.44e-87
+EER34469.1, aldehyde dehydrogenase 9,Candida tropicalis,1.61e-87
+RLP61489.1, hypothetical protein L150_00170,Candida albicans,2.26e-87
+RYN74470.1, hypothetical protein AA0117_g7033,Alternaria alternata,3.14e-87
+EER33514.1, succinate-semialdehyde dehydrogenase,Candida tropicalis,3.32e-87
+KGQ99305.1, succinate-semialdehyde dehydrogenase,Candida albicans,3.43e-87
+OAG21432.1, betaine aldehyde dehydrogenase 1,Alternaria alternata,3.50e-87
+KHC57146.1, succinate-semialdehyde dehydrogenase,Candida albicans,3.89e-87
+OUT20304.1, hypothetical protein CAS74_004551,Pichia kudriavzevii,5.91e-87
+KGR15318.1, succinate-semialdehyde dehydrogenase,Candida albicans,7.88e-87
+WP_091791049.1, hypothetical protein,Peptococcus niger,8.43e-87
+KGK38995.1, hypothetical protein JL09_g1826,Pichia kudriavzevii,1.58e-86
+ONH71862.1, Succinate-semialdehyde dehydrogenase [NADP(+)],Pichia kudriavzevii,1.84e-86
+KHC43020.1, succinate-semialdehyde dehydrogenase,Candida albicans,1.82e-85
+CAG58264.1, unnamed protein product,Candida glabrata,4.72e-85
+KHC64739.1, succinate-semialdehyde dehydrogenase,Candida albicans,1.47e-84
+KHC52168.1, succinate-semialdehyde dehydrogenase,Candida albicans,2.66e-84
+KGT69783.1, succinate-semialdehyde dehydrogenase,Candida albicans,2.90e-84
+WP_061102969.1," aldehyde dehydrogenase family protein, partial",Fannyhessea vaginae,2.92e-84
+KGR10840.1, succinate-semialdehyde dehydrogenase,Candida albicans,5.22e-84
+WP_005432075.1, aldehyde dehydrogenase family protein,Sutterella wadsworthensis,6.03e-84
+WP_016474873.1, aldehyde dehydrogenase family protein,Sutterella wadsworthensis,6.22e-84
+WP_113854650.1, aldehyde dehydrogenase family protein,Sutterella wadsworthensis,1.01e-83
+KGK37454.1, hypothetical protein JL09_g3405,Pichia kudriavzevii,1.46e-83
+OAG18298.1, aldehyde dehydrogenase,Alternaria alternata,2.06e-83
+KGU10184.1, succinate-semialdehyde dehydrogenase,Candida albicans,3.56e-83
+WP_022442731.1, hypothetical protein,Sutterella sp,4.41e-83
+RLP64036.1, hypothetical protein L150_02774,Candida albicans,6.14e-83
+WP_004835363.1, aldehyde dehydrogenase family protein,Anaerococcus prevotii,1.28e-81
+OWY53069.1, aldehyde dehydrogenase-like protein,Alternaria alternata,3.17e-80
+WP_015778080.1, aldehyde dehydrogenase family protein,Anaerococcus prevotii,1.06e-79
+WP_013189424.1, NAD-dependent succinate-semialdehyde dehydrogenase,Mobiluncus curtisii,2.88e-79
+OAG13991.1, aldehyde dehydrogenase-like protein,Alternaria alternata,4.54e-79
+RYN79483.1, hypothetical protein AA0117_g3545,Alternaria alternata,4.03e-78
+WP_154545610.1, aldehyde dehydrogenase family protein,Mobiluncus holmesii,7.05e-78
+EEQ43582.1, hypothetical protein CAWG_01820,Candida albicans,6.46e-77
+WP_004009395.1, NAD-dependent succinate-semialdehyde dehydrogenase,Mobiluncus curtisii,7.94e-77
+WP_004010855.1, NAD-dependent succinate-semialdehyde dehydrogenase,Mobiluncus holmesii,1.69e-76
+WP_004807662.1, MULTISPECIES: NAD-dependent succinate-semialdehyde dehydrogenase,Arcanobacterium haemolyticum,6.87e-75
+WP_148417591.1, aldehyde dehydrogenase family protein,Lawsonella clevelandensis,8.11e-75
+WP_107720909.1, NAD-dependent succinate-semialdehyde dehydrogenase,Lactobacillus reuteri,2.25e-74
+ONH77241.1, Succinate-semialdehyde dehydrogenase [NADP(+)],Pichia kudriavzevii,3.21e-74
+WP_004320159.1, MULTISPECIES: aldehyde dehydrogenase family protein,Bacteroides thetaiotaomicron,3.58e-74
+AJS94060.1," Ald2p, partial",Saccharomyces cerevisiae,4.13e-74
+OUT20385.1, hypothetical protein CAS74_004633,Pichia kudriavzevii,4.23e-74
+WP_003665288.1, NAD-dependent succinate-semialdehyde dehydrogenase,Lactobacillus reuteri,5.15e-74
+KGK39303.1, hypothetical protein JL09_g1554,Pichia kudriavzevii,5.17e-74
+WP_053978890.1, succinate-semialdehyde dehydrogenase (NADP(+)),Lawsonella clevelandensis,5.34e-74
+WP_053961979.1, succinate-semialdehyde dehydrogenase (NADP(+)),Lawsonella clevelandensis,5.93e-74
+WP_094512126.1, NAD-dependent succinate-semialdehyde dehydrogenase,Lactobacillus reuteri,8.95e-74
+WP_118517789.1, NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,Eubacterium sp,9.73e-74
+WP_065533499.1, NAD-dependent succinate-semialdehyde dehydrogenase,Lactobacillus reuteri,1.37e-73
+WP_035151965.1, NAD-dependent succinate-semialdehyde dehydrogenase,Lactobacillus reuteri,1.38e-73
+WP_013379835.1, MULTISPECIES: NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,Eubacterium sp,1.78e-73
+WP_072537251.1, aldehyde dehydrogenase family protein,Anaerococcus mediterraneensis,1.88e-73
+WP_003669532.1, NAD-dependent succinate-semialdehyde dehydrogenase,Lactobacillus reuteri,2.91e-73
+WP_042746402.1, NAD-dependent succinate-semialdehyde dehydrogenase,Lactobacillus reuteri,2.97e-73
+WP_085679831.1, NAD-dependent succinate-semialdehyde dehydrogenase,Lactobacillus reuteri,3.41e-73
+WP_122481429.1, NAD-dependent succinate-semialdehyde dehydrogenase,Lactobacillus reuteri,3.68e-73
+WP_078009476.1, NAD-dependent succinate-semialdehyde dehydrogenase,Lactobacillus reuteri,3.92e-73
+WP_063164304.1, NAD-dependent succinate-semialdehyde dehydrogenase,Lactobacillus reuteri,3.92e-73
+WP_085650201.1, MULTISPECIES: NAD-dependent succinate-semialdehyde dehydrogenase,Lactobacillus reuteri,4.22e-73
+WP_123072618.1, NAD-dependent succinate-semialdehyde dehydrogenase,Lactobacillus reuteri,4.36e-73
+WP_019251833.1, NAD-dependent succinate-semialdehyde dehydrogenase,Lactobacillus reuteri,4.60e-73
+AWU75893.1, hypothetical protein C5L36_0B11280,Pichia kudriavzevii,4.62e-73
+WP_153704795.1, aldehyde dehydrogenase family protein,Lactobacillus reuteri,5.33e-73
+WP_003675525.1, NAD-dependent succinate-semialdehyde dehydrogenase,Lactobacillus reuteri,5.33e-73
+WP_153705872.1, aldehyde dehydrogenase family protein,Lactobacillus reuteri,5.39e-73
+WP_124031645.1, NAD-dependent succinate-semialdehyde dehydrogenase,Lactobacillus vaginalis,5.48e-73
+WP_124216276.1, NAD-dependent succinate-semialdehyde dehydrogenase,Lactobacillus reuteri,5.81e-73
+WP_035156672.1, NAD-dependent succinate-semialdehyde dehydrogenase,Lactobacillus reuteri,7.41e-73
+WP_094501665.1, NAD-dependent succinate-semialdehyde dehydrogenase,Lactobacillus reuteri,9.17e-73
+WP_035168957.1, NAD-dependent succinate-semialdehyde dehydrogenase,Lactobacillus reuteri,1.03e-72
+WP_113897052.1, NAD-dependent succinate-semialdehyde dehydrogenase,Lactobacillus reuteri,1.26e-72
+WP_066035739.1, NAD-dependent succinate-semialdehyde dehydrogenase,Lactobacillus reuteri,1.68e-72
+WP_135951218.1, NAD-dependent succinate-semialdehyde dehydrogenase,Lactobacillus reuteri,2.62e-72
+WP_153709443.1, aldehyde dehydrogenase family protein,Lactobacillus reuteri,3.42e-72
+AJS84875.1," Ald3p, partial",Saccharomyces cerevisiae,4.63e-72
+WP_006917505.1, NAD-dependent succinate-semialdehyde dehydrogenase,Lactobacillus coleohominis,5.12e-72
+WP_019253748.1, NAD-dependent succinate-semialdehyde dehydrogenase,Lactobacillus reuteri,5.57e-72
+WP_060805492.1, NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,Streptococcus mitis,9.71e-72
+WP_153703095.1, aldehyde dehydrogenase family protein,Lactobacillus reuteri,1.15e-71
+WP_049547098.1, NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,Streptococcus mitis,2.49e-71
+WP_075712765.1, aldehyde dehydrogenase,Eubacterium sp,4.50e-71
+WP_072575224.1, NAD-dependent succinate-semialdehyde dehydrogenase,Lactobacillus reuteri,5.01e-71
+WP_000199367.1, MULTISPECIES: NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,Streptococcus mitis,5.40e-71
+WP_045611744.1, NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,Streptococcus mitis,8.08e-71
+WP_077805127.1, NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,Streptococcus mitis,8.70e-71
+WP_000199217.1, NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,Streptococcus mitis,1.33e-70
+WP_000199363.1, NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,Streptococcus mitis,1.70e-70
+WP_049512072.1, NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,Streptococcus pseudopneumoniae,2.33e-70
+WP_049500770.1, NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,Streptococcus mitis,2.33e-70
+WP_033685143.1, NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,Streptococcus mitis,2.35e-70
+WP_000199366.1, NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,Streptococcus mitis,3.20e-70
+WP_033677211.1, NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,Streptococcus mitis,3.30e-70
+WP_029434820.1, bifunctional proline dehydrogenase/L-glutamate gamma-semialdehyde dehydrogenase,Bilophila wadsworthia,4.71e-70
+WP_049515309.1, NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,Streptococcus mitis,5.26e-70
+WP_049523724.1, NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,Streptococcus pseudopneumoniae,5.73e-70
+WP_061439412.1, NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,Streptococcus mitis,6.78e-70
+WP_005024598.1, aldehyde dehydrogenase family protein,Bilophila wadsworthia,8.93e-70
+WP_071705970.1, CoA-acylating methylmalonate-semialdehyde dehydrogenase,Murdochiella vaginalis,1.78e-69
+WP_049521538.1," NADP-dependent glyceraldehyde-3-phosphate dehydrogenase, partial",Streptococcus mitis,1.81e-69
+WP_153703854.1, aldehyde dehydrogenase family protein,Lactobacillus reuteri,2.44e-69
+WP_061424673.1, NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,Streptococcus mitis,2.86e-69
+WP_088197855.1, NAD-dependent succinate-semialdehyde dehydrogenase,Streptococcus agalactiae,3.60e-69
+WP_017647729.1, NAD-dependent succinate-semialdehyde dehydrogenase,Streptococcus agalactiae,3.87e-69
+WP_004805472.1, MULTISPECIES: NAD-dependent succinate-semialdehyde dehydrogenase,Arcanobacterium haemolyticum,4.22e-69
+WP_091792276.1, hypothetical protein,Peptococcus niger,4.25e-69
+WP_000323651.1, MULTISPECIES: NAD-dependent succinate-semialdehyde dehydrogenase,Streptococcus agalactiae,5.49e-69
+WP_103758966.1, succinate-semialdehyde dehydrogenase (NADP(+)),Mobiluncus mulieris,6.16e-69
+WP_004012673.1, succinate-semialdehyde dehydrogenase (NADP(+)),Mobiluncus mulieris,6.56e-69
+WP_000323650.1, MULTISPECIES: NAD-dependent succinate-semialdehyde dehydrogenase,Streptococcus agalactiae,7.00e-69
+WP_114990265.1, succinate-semialdehyde dehydrogenase (NADP(+)),Mobiluncus mulieris,7.77e-69
+WP_000323654.1, NAD-dependent succinate-semialdehyde dehydrogenase,Streptococcus agalactiae,9.12e-69
+WP_004016983.1, succinate-semialdehyde dehydrogenase (NADP(+)),Mobiluncus mulieris,1.05e-68
+WP_000199374.1, MULTISPECIES: NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,Haemophilus haemolyticus,1.23e-68
+WP_088203050.1, NAD-dependent succinate-semialdehyde dehydrogenase,Streptococcus agalactiae,1.24e-68
+WP_115325431.1, succinate-semialdehyde dehydrogenase (NADP(+)),Mobiluncus mulieris,1.94e-68
+WP_050881980.1, NAD-dependent succinate-semialdehyde dehydrogenase,Streptococcus agalactiae,2.27e-68
+WP_004017585.1, succinate-semialdehyde dehydrogenase (NADP(+)),Mobiluncus mulieris,5.15e-68
+AJS84876.1," Ald2p, partial",Saccharomyces cerevisiae,8.30e-68
+WP_000323653.1, MULTISPECIES: NAD-dependent succinate-semialdehyde dehydrogenase,Streptococcus agalactiae,8.59e-68
+WP_000135233.1, MULTISPECIES: NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,Streptococcus mitis,9.25e-68
+WP_016480816.1, NAD-dependent succinate-semialdehyde dehydrogenase,Streptococcus agalactiae,1.14e-67
+WP_060933975.1, NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,Streptococcus salivarius,1.22e-67
+WP_048790745.1, NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,Streptococcus salivarius,2.89e-67
+WP_049536433.1, NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,Streptococcus pseudopneumoniae,3.32e-67
+WP_070574978.1, MULTISPECIES: NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,Streptococcus salivarius,3.39e-67
+WP_021144358.1, MULTISPECIES: NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,Streptococcus salivarius,3.76e-67
+WP_084914700.1, NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,Streptococcus salivarius,3.84e-67
+WP_084869694.1, NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,Streptococcus salivarius,4.01e-67
+WP_002884060.1, MULTISPECIES: NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,Streptococcus salivarius,4.10e-67
+WP_002890682.1, MULTISPECIES: NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,Streptococcus salivarius,4.10e-67
+WP_045772117.1, MULTISPECIES: NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,Streptococcus salivarius,5.99e-67
+WP_045768877.1, MULTISPECIES: NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,Streptococcus salivarius,8.30e-67
+WP_000186351.1, NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,Streptococcus mitis,8.76e-67
+WP_148512628.1, aldehyde dehydrogenase family protein,Streptococcus salivarius,1.16e-66
+WP_002888882.1, MULTISPECIES: NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,Streptococcus salivarius,1.35e-66
+WP_048788220.1, MULTISPECIES: NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,Streptococcus salivarius,2.38e-66
+WP_004008051.1, succinate-semialdehyde dehydrogenase (NADP(+)),Mobiluncus curtisii,1.11e-65
+WP_000135235.1, NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,Streptococcus mitis,1.17e-65
+WP_049549917.1, MULTISPECIES: NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,Streptococcus pseudopneumoniae,1.36e-65
+WP_004010521.1, succinate-semialdehyde dehydrogenase (NADP(+)),Mobiluncus holmesii,1.85e-65
+WP_004009785.1, succinate-semialdehyde dehydrogenase (NADP(+)),Mobiluncus curtisii,2.36e-65
+WP_001401047.1, succinate-semialdehyde dehydrogenase,Escherichia coli,2.78e-65
+WP_001358867.1, succinate-semialdehyde dehydrogenase,Escherichia coli,3.98e-65
+NP_416042.2, NAD(+)-dependent succinate semialdehyde dehydrogenase,Escherichia coli,4.97e-65
+WP_001397142.1, succinate-semialdehyde dehydrogenase,Escherichia coli,5.13e-65
+WP_065226932.1, succinate-semialdehyde dehydrogenase,Escherichia coli,7.42e-65
+YP_006119864.1, putative succinate-semialdehyde dehydrogenase,Escherichia coli,7.58e-65
+EER32279.1, hypothetical protein CTRG_03950,Candida tropicalis,9.37e-65
+WP_001296740.1, MULTISPECIES: succinate-semialdehyde dehydrogenase,Escherichia coli,1.16e-64
+YP_002412528.1, putative aldehyde dehydrogenase,Escherichia coli,1.40e-64
+KHC34187.1, methylmalonate-semialdehyde dehydrogenase (acylating),Candida albicans,1.43e-64
+KGT67708.1, methylmalonate-semialdehyde dehydrogenase (acylating),Candida albicans,1.57e-64
+RLP64941.1, methylmalonate-semialdehyde dehydrogenase (acylating),Candida albicans,1.61e-64
+WP_000156623.1, MULTISPECIES: succinate-semialdehyde dehydrogenase,Escherichia coli,2.11e-64
+WP_001345372.1, succinate-semialdehyde dehydrogenase,Escherichia coli,2.63e-64
+KGU29496.1, methylmalonate-semialdehyde dehydrogenase (acylating),Candida albicans,2.71e-64
+YP_002407775.1, putative succinate semialdehyde dehydrogenase,Escherichia coli,3.31e-64
+NP_310159.2, succinate semialdehyde dehydrogenase,Escherichia coli,4.45e-64
+WP_024257885.1, succinate-semialdehyde dehydrogenase,Escherichia coli,5.97e-64
+KGU24791.1, methylmalonate-semialdehyde dehydrogenase (acylating),Candida albicans,6.59e-64
+WP_000159916.1, NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,Streptococcus agalactiae,9.99e-64
+WP_016480669.1, NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,Streptococcus agalactiae,1.19e-63
+WP_000323642.1, NAD-dependent succinate-semialdehyde dehydrogenase,Streptococcus agalactiae,1.64e-63
+WP_000159911.1, MULTISPECIES: NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,Streptococcus agalactiae,1.74e-63
+WP_000159914.1, NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,Streptococcus agalactiae,2.60e-63
+WP_075713672.1, aldehyde dehydrogenase family protein,Eubacterium sp,2.63e-63
+WP_000159913.1, MULTISPECIES: NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,Streptococcus agalactiae,3.24e-63
+WP_000159917.1, MULTISPECIES: NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,Streptococcus agalactiae,4.00e-63
+OXC14379.1, succinate-semialdehyde dehydrogenase,Lactobacillus crispatus,7.19e-63
+WP_000159910.1, NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,Streptococcus agalactiae,9.34e-63
+CBL51108.1, Aldehyde dehydrogenase,Lactobacillus crispatus,1.65e-62
+WP_129880012.1, NAD-dependent succinate-semialdehyde dehydrogenase,Bifidobacterium dentium,2.28e-62
+WP_154545450.1, aldehyde dehydrogenase family protein,Mobiluncus holmesii,2.42e-62
+WP_003838316.1, NAD-dependent succinate-semialdehyde dehydrogenase,Bifidobacterium dentium,2.97e-62
+OWY54346.1, aldehyde dehydrogenase,Alternaria alternata,3.60e-62
+OAG20153.1, aldehyde dehydrogenase,Alternaria alternata,4.44e-62
+WP_000159915.1, MULTISPECIES: NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,Streptococcus agalactiae,5.13e-62
+RYN73878.1, Vanillin dehydrogenase,Alternaria alternata,7.77e-62
+OAG17875.1, aldehyde dehydrogenase,Alternaria alternata,1.02e-61
+KAA8793325.1, NAD-dependent succinate-semialdehyde dehydrogenase,Lactobacillus crispatus,1.06e-61
+WP_046328909.1, NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,Sneathia vaginalis,1.29e-61
+OXC42747.1, succinate-semialdehyde dehydrogenase,Lactobacillus crispatus,1.93e-61
+OXC23685.1, succinate-semialdehyde dehydrogenase,Lactobacillus crispatus,2.19e-61
+KWU03526.1, succinate-semialdehyde dehydrogenase,Lactobacillus crispatus,2.38e-61
+OXC45766.1, succinate-semialdehyde dehydrogenase,Lactobacillus crispatus,3.26e-61
+KRK29855.1, aldehyde dehydrogenase,Lactobacillus crispatus,3.26e-61
+OCX09175.1, succinate-semialdehyde dehydrogenase,Lactobacillus crispatus,3.33e-61
+OXC20999.1, succinate-semialdehyde dehydrogenase,Lactobacillus crispatus,3.47e-61
+RYN82970.1, Methylmalonate-semialdehyde dehydrogenase [acylating],Alternaria alternata,3.56e-61

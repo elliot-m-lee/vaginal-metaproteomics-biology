@@ -1,0 +1,299 @@
+id,protein,taxa,e-value
+NP_415220.1," ornithine decarboxylase, degradative",Escherichia coli,0.0
+YP_002406677.1, ornithine decarboxylase,Escherichia coli,0.0
+WP_000040183.1, ornithine decarboxylase SpeF,Escherichia coli,0.0
+WP_001443479.1, ornithine decarboxylase SpeF,Escherichia coli,0.0
+WP_001342032.1, MULTISPECIES: ornithine decarboxylase SpeF,Escherichia coli,0.0
+YP_006118989.1, ornithine decarboxylase,Escherichia coli,0.0
+YP_006780311.1, ornithine decarboxylase,Escherichia coli,0.0
+WP_065228192.1, ornithine decarboxylase SpeF,Escherichia coli,0.0
+WP_001292415.1, ornithine decarboxylase SpeF,Escherichia coli,0.0
+WP_088592005.1, ornithine decarboxylase SpeF,Escherichia coli,0.0
+WP_038431160.1, ornithine decarboxylase SpeF,Escherichia coli,0.0
+WP_022472693.1, ornithine decarboxylase,Sutterella sp,0.0
+WP_005432060.1, ornithine decarboxylase SpeF,Sutterella wadsworthensis,0.0
+WP_016474890.1, ornithine decarboxylase SpeF,Sutterella wadsworthensis,0.0
+WP_062332330.1, ornithine decarboxylase SpeF,Sutterella sp,0.0
+WP_005435887.1, ornithine decarboxylase SpeF,Sutterella wadsworthensis,0.0
+WP_005640819.1, MULTISPECIES: ornithine decarboxylase SpeF,Haemophilus haemolyticus,0.0
+WP_000839810.1, ornithine decarboxylase,Escherichia coli,0.0
+YP_006121258.1, ornithine decarboxylase,Escherichia coli,0.0
+WP_000839809.1, ornithine decarboxylase,Escherichia coli,0.0
+WP_000839797.1, ornithine decarboxylase,Escherichia coli,0.0
+WP_065227617.1, ornithine decarboxylase,Escherichia coli,0.0
+YP_002409308.1, ornithine decarboxylase,Escherichia coli,0.0
+WP_000839815.1, ornithine decarboxylase,Escherichia coli,0.0
+YP_002414002.1, ornithine decarboxylase,Escherichia coli,0.0
+WP_000839773.1, ornithine decarboxylase,Escherichia coli,0.0
+WP_000839764.1, MULTISPECIES: ornithine decarboxylase,Escherichia coli,0.0
+WP_000839800.1, ornithine decarboxylase,Escherichia coli,0.0
+NP_417440.4," ornithine decarboxylase, biosynthetic",Escherichia coli,0.0
+WP_000839772.1, ornithine decarboxylase,Escherichia coli,0.0
+YP_006777644.1, ornithine decarboxylase,Escherichia coli,0.0
+WP_139689045.1, ornithine decarboxylase,Sutterella sp,0.0
+WP_016474625.1, ornithine decarboxylase,Sutterella wadsworthensis,0.0
+WP_005429922.1, ornithine decarboxylase,Sutterella wadsworthensis,0.0
+WP_113854621.1, ornithine decarboxylase,Sutterella wadsworthensis,0.0
+WP_022444793.1, ornithine decarboxylase,Sutterella sp,0.0
+WP_048706779.1, MULTISPECIES: ornithine decarboxylase,Arcanobacterium haemolyticum,0.0
+WP_156931049.1, ornithine decarboxylase SpeF,Veillonella atypica,0.0
+WP_005376589.1, ornithine decarboxylase SpeF,Veillonella atypica,0.0
+WP_118354300.1, ornithine decarboxylase SpeF,Veillonella atypica,0.0
+WP_005383094.1, ornithine decarboxylase SpeF,Veillonella atypica,0.0
+WP_119982169.1, ornithine decarboxylase SpeF,Veillonella atypica,0.0
+WP_005379824.1, ornithine decarboxylase SpeF,Veillonella atypica,0.0
+WP_009661457.1, MULTISPECIES: ornithine decarboxylase SpeF,Veillonella atypica,0.0
+WP_095629742.1, ornithine decarboxylase,Megasphaera lornae,0.0
+WP_035062708.1, ornithine decarboxylase SpeF,Dialister micraerophilus,0.0
+WP_020724080.1, ornithine decarboxylase,Megasphaera lornae,0.0
+WP_087477631.1, ornithine decarboxylase,Megasphaera lornae,0.0
+WP_118023177.1, ornithine decarboxylase,Megasphaera lornae,0.0
+WP_059075669.1, MULTISPECIES: ornithine decarboxylase,Megasphaera lornae,0.0
+WP_023054251.1, ornithine decarboxylase,Megasphaera lornae,0.0
+WP_007556206.1, ornithine decarboxylase SpeF,Dialister micraerophilus,0.0
+WP_101912915.1, ornithine decarboxylase,Megasphaera lornae,0.0
+WP_007555043.1, ornithine decarboxylase,Dialister micraerophilus,0.0
+WP_062411251.1, MULTISPECIES: ornithine decarboxylase,Megasphaera lornae,0.0
+WP_065360560.1, ornithine decarboxylase,Megasphaera lornae,0.0
+WP_007556306.1, ornithine decarboxylase,Dialister micraerophilus,0.0
+WP_028258140.1, ornithine decarboxylase,Veillonella montpellierensis,0.0
+WP_038152673.1, ornithine decarboxylase,Veillonella montpellierensis,0.0
+WP_007556202.1, ornithine decarboxylase,Dialister micraerophilus,0.0
+WP_007555172.1, ornithine decarboxylase,Dialister micraerophilus,0.0
+WP_007554475.1," ornithine decarboxylase, partial",Dialister micraerophilus,0.0
+WP_007553763.1, ornithine decarboxylase,Dialister micraerophilus,0.0
+EST03659.1, ornithine decarboxylase,Lactobacillus crispatus,0.0
+PLA29650.1, ornithine decarboxylase,Lactobacillus crispatus,0.0
+OXC12323.1, ornithine decarboxylase,Lactobacillus crispatus,0.0
+TVS31360.1, putative ornithine decarboxylase,Lactobacillus crispatus,0.0
+WP_006585673.1, putative ornithine decarboxylase,Lactobacillus jensenii,0.0
+KWU04039.1, ornithine decarboxylase,Lactobacillus crispatus,0.0
+KRK32906.1, ornithine decarboxylase,Lactobacillus crispatus,0.0
+KAA8811967.1," putative ornithine decarboxylase, partial",Lactobacillus crispatus,0.0
+ORE80788.1, ornithine decarboxylase,Lactobacillus crispatus,0.0
+PJZ17117.1, ornithine decarboxylase,Lactobacillus crispatus,0.0
+WP_144853849.1, putative ornithine decarboxylase,Lactobacillus jensenii,0.0
+EEU20180.1," Orn/Lys/Arg decarboxylase, major domain protein",Lactobacillus crispatus,0.0
+KWU03430.1, ornithine decarboxylase,Lactobacillus crispatus,0.0
+EEJ68900.1," Orn/Lys/Arg decarboxylase, major domain protein",Lactobacillus crispatus,0.0
+EEU27852.1, hypothetical protein HMPREF0507_01598,Lactobacillus crispatus,0.0
+EFD99278.1," Orn/Lys/Arg decarboxylase, major domain protein",Lactobacillus crispatus,0.0
+KAA8810088.1, putative ornithine decarboxylase,Lactobacillus crispatus,0.0
+KFL93551.1," ornithine decarboxylase, inducible (ODC)",Lactobacillus crispatus,0.0
+KAA8795350.1, putative ornithine decarboxylase,Lactobacillus crispatus,0.0
+KAA8792913.1, putative ornithine decarboxylase,Lactobacillus crispatus,0.0
+KXI16632.1," Orn/Lys/Arg decarboxylase, major domain protein",Lactobacillus crispatus,0.0
+EFQ44896.1," Orn/Lys/Arg decarboxylase, major domain protein",Lactobacillus crispatus,0.0
+KRK32388.1, ornithine decarboxylase,Lactobacillus crispatus,0.0
+CBL50520.1, Ornithine decarboxylase,Lactobacillus crispatus,0.0
+PLT12460.1, ornithine decarboxylase,Lactobacillus crispatus,0.0
+OXC12988.1, ornithine decarboxylase,Lactobacillus crispatus,0.0
+OXC24986.1, ornithine decarboxylase,Lactobacillus crispatus,0.0
+EST02842.1, ornithine decarboxylase,Lactobacillus crispatus,0.0
+OXC47768.1, ornithine decarboxylase,Lactobacillus crispatus,0.0
+PLT10984.1, ornithine decarboxylase,Lactobacillus crispatus,0.0
+WP_151143301.1, putative ornithine decarboxylase,Lactobacillus jensenii,0.0
+WP_006586333.1, MULTISPECIES: putative ornithine decarboxylase,Lactobacillus jensenii,0.0
+WP_048588237.1, putative ornithine decarboxylase,Lactobacillus jensenii,0.0
+PLA29400.1, ornithine decarboxylase,Lactobacillus crispatus,0.0
+WP_068720649.1, hypothetical protein,Dialister sp,2.15e-157
+KAA8796088.1," ornithine decarboxylase, partial",Lactobacillus crispatus,4.17e-143
+KAA8814121.1," ornithine decarboxylase, partial",Lactobacillus crispatus,3.28e-124
+ETW73897.1, ornithine decarboxylase,Lactobacillus crispatus,1.28e-120
+WP_118276370.1, arginine/lysine/ornithine decarboxylase,Sutterella sp,1.03e-115
+WP_022373214.1, orn/Lys/Arg decarboxylase,Sutterella sp,2.50e-106
+WP_001307519.1, MULTISPECIES: arginine decarboxylase,Escherichia coli,3.90e-104
+YP_006781307.1, arginine decarboxylase,Escherichia coli,4.58e-104
+WP_077883476.1, arginine decarboxylase,Escherichia coli,4.76e-104
+YP_002415251.6, arginine decarboxylase,Escherichia coli,5.29e-104
+WP_001302401.1, arginine decarboxylase,Escherichia coli,6.33e-104
+NP_418541.2," arginine decarboxylase, degradative",Escherichia coli,6.67e-104
+NP_313126.1, arginine decarboxylase,Escherichia coli,6.83e-104
+WP_114493769.1, arginine decarboxylase,Escherichia coli,7.03e-104
+YP_002410410.1, biodegradative arginine decarboxylase,Escherichia coli,1.47e-103
+WP_121831894.1, arginine decarboxylase,Escherichia coli,1.61e-103
+YP_006122472.1, biodegradative arginine decarboxylase,Escherichia coli,1.83e-103
+WP_077633849.1, arginine decarboxylase,Escherichia coli,2.07e-103
+WP_139687769.1, lysine decarboxylase LdcC,Sutterella sp,2.48e-97
+WP_005432065.1, lysine decarboxylase LdcC,Sutterella wadsworthensis,2.85e-96
+WP_064234993.1, lysine decarboxylase CadA,Escherichia coli,2.61e-94
+WP_001295383.1, MULTISPECIES: lysine decarboxylase CadA,Escherichia coli,6.48e-94
+WP_001358741.1, lysine decarboxylase CadA,Escherichia coli,9.64e-94
+YP_002410425.1, lysine decarboxylase 1,Escherichia coli,1.71e-93
+YP_002406235.1, lysine decarboxylase 2,Escherichia coli,4.25e-91
+YP_006118555.1," lysine decarboxylase, constitutive",Escherichia coli,6.52e-91
+WP_065226118.1, lysine decarboxylase,Escherichia coli,8.19e-91
+YP_002410959.1, lysine decarboxylase 2,Escherichia coli,8.45e-91
+WP_001020973.1, MULTISPECIES: lysine decarboxylase LdcC,Escherichia coli,1.50e-90
+WP_001020974.1, lysine decarboxylase LdcC,Escherichia coli,1.68e-90
+WP_001020971.1, lysine decarboxylase LdcC,Escherichia coli,1.81e-90
+WP_001021032.1, lysine decarboxylase LdcC,Escherichia coli,1.95e-90
+WP_001020954.1, lysine decarboxylase LdcC,Escherichia coli,2.11e-90
+WP_121831815.1, lysine decarboxylase LdcC,Escherichia coli,9.87e-90
+WP_001020970.1, lysine decarboxylase LdcC,Escherichia coli,5.67e-89
+KAA8808561.1," ornithine decarboxylase, partial",Lactobacillus crispatus,1.90e-61
+ETW73896.1, hypothetical protein N580_00003835,Lactobacillus crispatus,1.20e-54
+KAA8791284.1," ornithine decarboxylase, partial",Lactobacillus crispatus,9.96e-40
+WP_023039535.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Fusobacterium nucleatum,1.73e-19
+WP_088387315.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Fusobacterium nucleatum,2.45e-19
+WP_029598864.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Fusobacterium nucleatum,2.54e-19
+WP_060676018.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Fusobacterium nucleatum,2.79e-19
+WP_020310973.1, MULTISPECIES: aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Megasphaera lornae,2.95e-19
+WP_008795268.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Fusobacterium nucleatum,2.99e-19
+WP_005898385.1, MULTISPECIES: aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Fusobacterium nucleatum,3.12e-19
+WP_008701157.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Fusobacterium nucleatum,3.29e-19
+WP_070675473.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Fusobacterium nucleatum,3.56e-19
+WP_008691387.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Fusobacterium nucleatum,3.62e-19
+WP_060495712.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Fusobacterium nucleatum,3.68e-19
+WP_022070157.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Fusobacterium nucleatum,3.71e-19
+WP_005911146.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Fusobacterium nucleatum,3.81e-19
+WP_005905847.1, lysine decarboxylase,Fusobacterium nucleatum,3.88e-19
+WP_008798408.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Fusobacterium nucleatum,4.12e-19
+WP_098703898.1, aminotransferase class V-fold PLP-dependent enzyme,Fusobacterium nucleatum,4.69e-19
+WP_062411380.1, MULTISPECIES: aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Megasphaera lornae,4.83e-19
+WP_099002428.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Fusobacterium nucleatum,6.30e-19
+WP_150150725.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Fusobacterium nucleatum,1.02e-18
+WP_023036603.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Fusobacterium nucleatum,1.06e-18
+WP_008799184.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Fusobacterium nucleatum,2.54e-18
+WP_005889192.1, MULTISPECIES: aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Fusobacterium nucleatum,2.75e-18
+WP_029758410.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Fusobacterium nucleatum,3.32e-18
+WP_029600138.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Fusobacterium nucleatum,3.53e-18
+WP_065359603.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Megasphaera lornae,4.19e-18
+WP_005913097.1, MULTISPECIES: aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Fusobacterium nucleatum,4.66e-18
+WP_005903647.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Fusobacterium nucleatum,1.22e-17
+WP_029598527.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Fusobacterium nucleatum,1.37e-17
+WP_007392435.1, aminotransferase class V-fold PLP-dependent enzyme,Megasphaera lornae,2.02e-17
+WP_102892670.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Mageeibacillus indolicus,3.50e-17
+WP_081864291.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Mageeibacillus indolicus,5.38e-17
+WP_062485276.1, aminotransferase class V-fold PLP-dependent enzyme,Megasphaera hutchinsoni,5.52e-17
+WP_059077114.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Megasphaera lornae,1.09e-16
+WP_081470295.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Mageeibacillus indolicus,2.04e-16
+WP_095629057.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Megasphaera lornae,3.08e-16
+WP_118021277.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Megasphaera lornae,1.18e-15
+WP_019214055.1, aminotransferase class V-fold PLP-dependent enzyme,Fenollaria massiliensis,1.78e-15
+WP_101912897.1," aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme, partial",Megasphaera lornae,2.06e-15
+WP_023053887.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Megasphaera lornae,2.58e-15
+WP_087478567.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Megasphaera lornae,2.70e-15
+WP_150824479.1," aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme, partial",Megasphaera lornae,3.26e-15
+WP_006941270.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Megasphaera micronuciformis,3.10e-14
+WP_007391587.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Megasphaera lornae,3.34e-14
+WP_021955969.1, arginine decarboxylase,Eubacterium sp,1.07e-13
+WP_058259982.1, aminotransferase class V-fold PLP-dependent enzyme,Fenollaria timonensis,1.94e-13
+WP_033686980.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus mitis,9.30e-13
+WP_022207554.1, hypothetical protein,Eubacterium sp,2.08e-12
+WP_119919453.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus pseudopneumoniae,3.89e-12
+WP_138705230.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus pseudopneumoniae,4.48e-12
+WP_119943090.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus pseudopneumoniae,9.03e-12
+WP_000732154.1, MULTISPECIES: aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus mitis,1.17e-11
+WP_028257600.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Veillonella montpellierensis,1.34e-11
+WP_005380983.1, MULTISPECIES: aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Veillonella atypica,1.53e-11
+WP_000732150.1, MULTISPECIES: aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus pseudopneumoniae,1.62e-11
+WP_005378516.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Veillonella atypica,1.75e-11
+WP_045606806.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus mitis,2.77e-11
+WP_118589634.1, aminotransferase class V-fold PLP-dependent enzyme,Eubacterium sp,3.56e-11
+WP_042751180.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus mitis,3.70e-11
+WP_021952422.1, orn/Lys/Arg decarboxylase major domain protein,Eubacterium sp,4.44e-11
+WP_081818496.1, aminotransferase class V-fold PLP-dependent enzyme,Eubacterium sp,4.67e-11
+WP_019124848.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Peptoniphilus grossensis,4.71e-11
+WP_061439471.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus mitis,5.02e-11
+WP_033680210.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus mitis,5.06e-11
+WP_101514711.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus pseudopneumoniae,5.24e-11
+WP_033683607.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus mitis,5.58e-11
+WP_000661017.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus mitis,5.67e-11
+WP_138705067.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus pseudopneumoniae,6.36e-11
+WP_049547178.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus mitis,8.41e-11
+WP_042900971.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus mitis,8.41e-11
+WP_040013951.1," hypothetical protein, partial",Dialister micraerophilus,8.73e-11
+WP_021865880.1, lysine decarboxylase,Eubacterium sp,8.81e-11
+WP_060628327.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus mitis,9.34e-11
+WP_061589718.1, MULTISPECIES: aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus mitis,1.02e-10
+WP_000661016.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus mitis,1.08e-10
+WP_138702417.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus pseudopneumoniae,1.15e-10
+WP_119947097.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus pseudopneumoniae,1.88e-10
+WP_045611673.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus mitis,2.18e-10
+WP_049510695.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus pseudopneumoniae,2.57e-10
+WP_075713944.1, hypothetical protein,Eubacterium sp,3.55e-10
+WP_081936470.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Veillonella montpellierensis,3.67e-10
+WP_040014010.1," hypothetical protein, partial",Dialister micraerophilus,5.81e-10
+WP_118353376.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Veillonella atypica,7.59e-10
+WP_005382483.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Veillonella atypica,9.28e-10
+WP_156931070.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Veillonella atypica,9.30e-10
+WP_119983014.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Veillonella atypica,1.01e-09
+WP_049549884.1, MULTISPECIES: aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus pseudopneumoniae,1.71e-09
+WP_036754142.1, arginine decarboxylase,Peptoniphilus lacrimalis,3.10e-09
+WP_142557256.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus mitis,3.36e-09
+WP_033681798.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus mitis,3.40e-09
+WP_077805109.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus mitis,3.84e-09
+WP_000661019.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus mitis,6.48e-09
+WP_000661020.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus mitis,7.78e-09
+WP_049495032.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus pseudopneumoniae,9.72e-09
+WP_000661003.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus mitis,1.11e-08
+WP_053039567.1, MULTISPECIES: aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Haemophilus haemolyticus,1.13e-08
+WP_033688796.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus mitis,1.37e-08
+WP_000661023.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus mitis,1.49e-08
+WP_138707881.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus pseudopneumoniae,1.89e-08
+WP_049539353.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus pseudopneumoniae,1.99e-08
+WP_049502558.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus mitis,2.03e-08
+WP_061087979.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus mitis,2.12e-08
+WP_049493736.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus pseudopneumoniae,2.15e-08
+WP_078238447.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus mitis,2.27e-08
+WP_023937530.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus pseudopneumoniae,2.41e-08
+WP_049511310.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus pseudopneumoniae,2.43e-08
+WP_075659418.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Peptoniphilus grossensis,2.44e-08
+WP_138703123.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus pseudopneumoniae,2.92e-08
+WP_078352147.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus mitis,2.97e-08
+WP_049487171.1, MULTISPECIES: aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus mitis;Streptococcus pseudopneumoniae,3.21e-08
+WP_049552012.1, MULTISPECIES: aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus mitis;Streptococcus pseudopneumoniae,3.89e-08
+WP_022248201.1, arginine/lysine/ornithine decarboxylase,Eubacterium sp,3.93e-08
+WP_000660992.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus mitis,4.03e-08
+WP_021982204.1, hypothetical protein,Eubacterium sp,4.51e-08
+WP_061424812.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus mitis,4.63e-08
+WP_021983049.1, orn/Lys/Arg decarboxylase major domain protein,Eubacterium sp,4.77e-08
+WP_084924424.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus mitis,4.92e-08
+WP_049535268.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus pseudopneumoniae,5.80e-08
+WP_022234284.1, orn/Lys/Arg decarboxylase major region,Eubacterium sp,6.79e-08
+WP_023941338.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus pseudopneumoniae,7.34e-08
+WP_049537545.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus pseudopneumoniae,8.00e-08
+WP_021866819.1, lysine decarboxylase,Eubacterium sp,1.09e-07
+WP_049495832.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus pseudopneumoniae,1.70e-07
+WP_023934025.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus pseudopneumoniae,1.83e-07
+WP_000732155.1, MULTISPECIES: aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus pseudopneumoniae,1.84e-07
+WP_049527183.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus pseudopneumoniae,1.98e-07
+WP_118565865.1, aminotransferase class V-fold PLP-dependent enzyme,Eubacterium sp,2.02e-07
+WP_022205163.1, hypothetical protein,Eubacterium sp,2.02e-07
+WP_022089130.1, orn/Lys/Arg decarboxylase major domain protein,Eubacterium sp,2.03e-07
+WP_117910681.1, aminotransferase class V-fold PLP-dependent enzyme,Eubacterium sp,2.05e-07
+WP_117819171.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme ,Clostridium leptum,2.23e-07
+WP_049508318.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus pseudopneumoniae,2.30e-07
+WP_150824213.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Megasphaera lornae,2.41e-07
+WP_003529729.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme ,Clostridium leptum,2.41e-07
+WP_054393135.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus pseudopneumoniae,2.49e-07
+WP_117755997.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme ,Clostridium leptum,2.72e-07
+WP_022236626.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme ,Clostridium leptum,2.72e-07
+WP_087315728.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Eubacterium sp,2.88e-07
+WP_022432439.1, hypothetical protein,Eubacterium sp,3.64e-07
+WP_049529617.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus pseudopneumoniae,3.81e-07
+WP_117704516.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Eubacterium sp,4.10e-07
+WP_031201741.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Eubacterium sp,5.76e-07
+WP_152333738.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Megasphaera lornae,9.65e-07
+WP_022432110.1, lysine decarboxylase,Eubacterium sp,1.02e-06
+WP_012739654.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme ,Eubacterium sp,1.32e-06
+WP_119220889.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Eubacterium sp,1.35e-06
+WP_022502613.1, hypothetical protein,Eubacterium sp,1.56e-06
+WP_019034209.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Peptoniphilus lacrimalis,2.11e-06
+WP_033126143.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Eubacterium sp,2.78e-06
+WP_004824216.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Peptoniphilus lacrimalis,3.52e-06
+WP_036754401.1, ornithine decarboxylase,Peptoniphilus lacrimalis,4.65e-06
+WP_091792393.1, hypothetical protein,Peptococcus niger,5.53e-06
+WP_022205905.1, lysine decarboxylase,Eubacterium sp,6.50e-06
+WP_131749711.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Anaerococcus prevotii,1.02e-05
+WP_049544627.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus pseudopneumoniae,1.67e-05
+WP_000660993.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus pseudopneumoniae,1.78e-05
+WP_049521999.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus mitis,2.60e-05
+WP_049499951.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus mitis,2.76e-05
+WP_049515253.1, MULTISPECIES: aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Streptococcus mitis;Streptococcus pseudopneumoniae,2.99e-05
+WP_040658548.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Oscillibacter ruminantium,4.86e-05
+WP_025657851.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Eubacterium sp,8.94e-05
+WP_022204089.1, lysine decarboxylase,Eubacterium sp,9.14e-05
+WP_119219775.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Eubacterium sp,9.84e-05
+WP_050642668.1, MULTISPECIES: aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Eubacterium sp,9.91e-05

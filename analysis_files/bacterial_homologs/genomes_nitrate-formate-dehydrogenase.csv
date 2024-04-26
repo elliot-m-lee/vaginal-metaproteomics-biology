@@ -1,0 +1,35 @@
+id,protein,taxa,e-value
+WP_000045648.1, MULTISPECIES: formate dehydrogenase-N subunit gamma,Escherichia coli,4.46e-160
+YP_002412467.1, formate dehydrogenase-N cytochrome B556 subunit gamma,Escherichia coli,2.21e-159
+WP_000045653.1, formate dehydrogenase-N subunit gamma,Escherichia coli,2.73e-159
+YP_006119821.1, formate dehydrogenase-N subunit gamma,Escherichia coli,5.81e-159
+WP_000045939.1, MULTISPECIES: formate dehydrogenase cytochrome b556 subunit,Escherichia coli,2.18e-131
+WP_118878286.1, formate dehydrogenase subunit gamma,Haemophilus haemolyticus,2.61e-82
+WP_046940037.1, formate dehydrogenase subunit gamma,Haemophilus haemolyticus,3.63e-82
+WP_118803287.1, formate dehydrogenase subunit gamma,Haemophilus haemolyticus,4.71e-82
+WP_005628717.1, MULTISPECIES: formate dehydrogenase subunit gamma,Haemophilus haemolyticus,6.19e-82
+WP_118777339.1, formate dehydrogenase subunit gamma,Haemophilus haemolyticus,7.88e-82
+WP_005635031.1, formate dehydrogenase subunit gamma,Haemophilus haemolyticus,8.05e-82
+WP_118790238.1, formate dehydrogenase subunit gamma,Haemophilus haemolyticus,1.14e-81
+WP_005643537.1, MULTISPECIES: formate dehydrogenase subunit gamma,Haemophilus haemolyticus,1.19e-81
+WP_050949328.1, formate dehydrogenase,Haemophilus haemolyticus,1.32e-81
+WP_118867825.1, formate dehydrogenase subunit gamma,Haemophilus haemolyticus,1.53e-81
+WP_133498202.1, formate dehydrogenase subunit gamma,Haemophilus haemolyticus,1.62e-81
+WP_005637629.1, formate dehydrogenase,Haemophilus haemolyticus,2.30e-81
+WP_005630324.1, MULTISPECIES: formate dehydrogenase subunit gamma,Haemophilus haemolyticus,2.48e-81
+WP_048953726.1, MULTISPECIES: formate dehydrogenase subunit gamma,Haemophilus haemolyticus,4.94e-80
+WP_000829031.1, MULTISPECIES: formate dehydrogenase cytochrome b556 subunit,Escherichia coli,2.75e-73
+WP_025404487.1, formate dehydrogenase cytochrome b556 subunit,Escherichia coli,3.57e-73
+WP_000829013.1, MULTISPECIES: formate dehydrogenase cytochrome b556 subunit,Escherichia coli,3.61e-73
+WP_000829008.1, formate dehydrogenase cytochrome b556 subunit,Escherichia coli,9.86e-73
+WP_000829018.1, formate dehydrogenase cytochrome b556 subunit,Escherichia coli,5.24e-72
+WP_118275970.1, formate dehydrogenase subunit gamma,Sutterella sp,4.61e-18
+WP_022373488.1, formate dehydrogenase gamma subunit,Sutterella sp,1.89e-17
+WP_016645868.1, formate dehydrogenase subunit gamma,Campylobacter ureolyticus,2.21e-11
+WP_050334074.1, formate dehydrogenase subunit gamma,Campylobacter ureolyticus,2.41e-11
+WP_114675164.1, formate dehydrogenase subunit gamma,Campylobacter ureolyticus,2.51e-11
+WP_024961518.1, formate dehydrogenase subunit gamma,Campylobacter ureolyticus,2.53e-11
+WP_101636909.1, formate dehydrogenase subunit gamma,Campylobacter ureolyticus,3.62e-11
+WP_018712262.1, formate dehydrogenase subunit gamma,Campylobacter ureolyticus,3.88e-11
+WP_018712280.1, hypothetical protein,Campylobacter ureolyticus,1.28e-06
+WP_050334029.1, formate dehydrogenase,Campylobacter ureolyticus,1.85e-06

@@ -1,0 +1,504 @@
+id,protein,taxa,e-value
+WP_001292822.1, MULTISPECIES: formate C-acetyltransferase,Escherichia coli,0.0
+YP_002411849.1, pyruvate formate lyase I,Escherichia coli,0.0
+WP_001292812.1, MULTISPECIES: formate C-acetyltransferase,Escherichia coli,0.0
+WP_118811524.1, formate C-acetyltransferase,Haemophilus haemolyticus,0.0
+WP_080950414.1, formate C-acetyltransferase,Haemophilus haemolyticus,0.0
+WP_118795519.1, formate C-acetyltransferase,Haemophilus haemolyticus,0.0
+WP_118855531.1, formate C-acetyltransferase,Haemophilus haemolyticus,0.0
+WP_114908647.1, formate C-acetyltransferase,Haemophilus haemolyticus,0.0
+WP_118843432.1, formate C-acetyltransferase,Haemophilus haemolyticus,0.0
+WP_111407149.1, formate C-acetyltransferase,Haemophilus haemolyticus,0.0
+WP_118868270.1, formate C-acetyltransferase,Haemophilus haemolyticus,0.0
+WP_005639776.1, MULTISPECIES: formate C-acetyltransferase,Haemophilus haemolyticus,0.0
+WP_005636453.1, keto-acid formate acetyltransferase,Haemophilus haemolyticus,0.0
+WP_075564425.1, formate C-acetyltransferase,Haemophilus haemolyticus,0.0
+WP_083817218.1, formate C-acetyltransferase,Haemophilus haemolyticus,0.0
+WP_081277690.1, formate C-acetyltransferase,Haemophilus haemolyticus,0.0
+WP_080950797.1, formate C-acetyltransferase,Haemophilus haemolyticus,0.0
+WP_118845958.1, formate C-acetyltransferase,Haemophilus haemolyticus,0.0
+WP_118782020.1, formate C-acetyltransferase,Haemophilus haemolyticus,0.0
+WP_118777223.1, formate C-acetyltransferase,Haemophilus haemolyticus,0.0
+WP_118800978.1, formate C-acetyltransferase,Haemophilus haemolyticus,0.0
+WP_118791585.1, formate C-acetyltransferase,Haemophilus haemolyticus,0.0
+WP_080563609.1, formate C-acetyltransferase,Haemophilus haemolyticus,0.0
+WP_118813490.1, formate C-acetyltransferase,Haemophilus haemolyticus,0.0
+WP_118858888.1, formate C-acetyltransferase,Haemophilus haemolyticus,0.0
+WP_118809030.1, formate C-acetyltransferase,Haemophilus haemolyticus,0.0
+WP_080565569.1, formate C-acetyltransferase,Haemophilus haemolyticus,0.0
+WP_114892506.1, formate C-acetyltransferase,Haemophilus haemolyticus,0.0
+WP_118785351.1, formate C-acetyltransferase,Haemophilus haemolyticus,0.0
+WP_118789940.1, formate C-acetyltransferase,Haemophilus haemolyticus,0.0
+WP_118817205.1, formate C-acetyltransferase,Haemophilus haemolyticus,0.0
+WP_080948081.1, formate C-acetyltransferase,Haemophilus haemolyticus,0.0
+WP_080950153.1, formate C-acetyltransferase,Haemophilus haemolyticus,0.0
+WP_114891477.1, formate C-acetyltransferase,Haemophilus haemolyticus,0.0
+WP_111695985.1, formate C-acetyltransferase,Haemophilus haemolyticus,0.0
+WP_118788950.1, formate C-acetyltransferase,Haemophilus haemolyticus,0.0
+WP_118775401.1, formate C-acetyltransferase,Haemophilus haemolyticus,0.0
+WP_081278249.1, formate C-acetyltransferase,Haemophilus haemolyticus,0.0
+WP_118803116.1, formate C-acetyltransferase,Haemophilus haemolyticus,0.0
+WP_134079445.1, formate C-acetyltransferase,Haemophilus haemolyticus,0.0
+WP_000861747.1, formate C-acetyltransferase,Escherichia coli,0.0
+WP_096848033.1, formate C-acetyltransferase,Escherichia coli,0.0
+WP_000861734.1, MULTISPECIES: 2-ketobutyrate formate-lyase/pyruvate formate-lyase,Escherichia coli,0.0
+WP_065227721.1, formate C-acetyltransferase,Escherichia coli,0.0
+WP_000861753.1, MULTISPECIES: 2-ketobutyrate formate-lyase/pyruvate formate-lyase,Escherichia coli,0.0
+YP_002414257.1, pyruvate formate-lyase 4/2-ketobutyrate formate-lyase,Escherichia coli,0.0
+WP_000861740.1, 2-ketobutyrate formate-lyase/pyruvate formate-lyase,Escherichia coli,0.0
+YP_006121441.1, pyruvate formate-lyase 4/2-ketobutyrate formate-lyase,Escherichia coli,0.0
+WP_000861750.1, MULTISPECIES: 2-ketobutyrate formate-lyase/pyruvate formate-lyase,Escherichia coli,0.0
+WP_000861738.1, 2-ketobutyrate formate-lyase/pyruvate formate-lyase,Escherichia coli,0.0
+WP_000861730.1, 2-ketobutyrate formate-lyase/pyruvate formate-lyase,Escherichia coli,0.0
+WP_032323879.1, formate C-acetyltransferase,Escherichia coli,0.0
+YP_002409518.1, pyruvate formate-lyase 4/2-ketobutyrate formate-lyase,Escherichia coli,0.0
+WP_000861739.1, 2-ketobutyrate formate-lyase/pyruvate formate-lyase,Escherichia coli,0.0
+WP_154537758.1, formate C-acetyltransferase,Peptostreptococcus anaerobius,0.0
+WP_061101638.1, formate C-acetyltransferase,Peptostreptococcus anaerobius,0.0
+WP_002843988.1, formate C-acetyltransferase,Peptostreptococcus anaerobius,0.0
+WP_019595655.1, formate C-acetyltransferase,Peptostreptococcus anaerobius,0.0
+WP_023037997.1, formate C-acetyltransferase,Fusobacterium nucleatum,0.0
+WP_005899485.1, MULTISPECIES: formate C-acetyltransferase,Fusobacterium nucleatum,0.0
+WP_060496354.1, formate C-acetyltransferase,Fusobacterium nucleatum,0.0
+WP_098703149.1, formate C-acetyltransferase,Fusobacterium nucleatum,0.0
+WP_005903513.1, formate C-acetyltransferase,Fusobacterium nucleatum,0.0
+WP_005895805.1, formate C-acetyltransferase,Fusobacterium nucleatum,0.0
+WP_088388641.1, formate C-acetyltransferase,Fusobacterium nucleatum,0.0
+WP_023039978.1, formate C-acetyltransferase,Fusobacterium nucleatum,0.0
+WP_005910934.1, formate C-acetyltransferase,Fusobacterium nucleatum,0.0
+WP_016361194.1, formate C-acetyltransferase,Fusobacterium nucleatum,0.0
+WP_158411432.1, formate C-acetyltransferase,Fusobacterium nucleatum,0.0
+WP_008795211.1, MULTISPECIES: formate C-acetyltransferase,Fusobacterium nucleatum,0.0
+WP_008693851.1, formate C-acetyltransferase,Fusobacterium nucleatum,0.0
+WP_029759125.1, formate C-acetyltransferase,Fusobacterium nucleatum,0.0
+WP_005891555.1, MULTISPECIES: formate C-acetyltransferase,Fusobacterium nucleatum,0.0
+WP_150153098.1, formate C-acetyltransferase,Fusobacterium nucleatum,0.0
+WP_008796912.1, formate C-acetyltransferase,Fusobacterium nucleatum,0.0
+WP_066730053.1, formate C-acetyltransferase,Sneathia sanguinegens,0.0
+WP_003532401.1, formate C-acetyltransferase ,Clostridium leptum,0.0
+WP_147557047.1, formate C-acetyltransferase ,Clostridium leptum,0.0
+WP_117819492.1, formate C-acetyltransferase ,Clostridium leptum,0.0
+WP_022237362.1, formate C-acetyltransferase ,Clostridium leptum,0.0
+WP_005904780.1, formate acetyltransferase,Fusobacterium nucleatum,0.0
+WP_046328484.1, formate C-acetyltransferase,Sneathia vaginalis,0.0
+WP_053961563.1, formate C-acetyltransferase,Lawsonella clevelandensis,0.0
+WP_041953311.1, formate C-acetyltransferase,Parvimonas micra,0.0
+WP_029950159.1, formate C-acetyltransferase,Parvimonas micra,0.0
+WP_004831937.1, formate C-acetyltransferase,Parvimonas micra,0.0
+WP_022259342.1, formate C-acetyltransferase,Eubacterium sp,0.0
+WP_118058359.1, formate C-acetyltransferase,Parvimonas micra,0.0
+WP_150263828.1, formate C-acetyltransferase,Parvimonas micra,0.0
+WP_022205117.1, hypothetical protein,Eubacterium sp,0.0
+WP_021956164.1, formate acetyltransferase,Eubacterium sp,0.0
+WP_022235314.1, formate acetyltransferase 1,Eubacterium sp,0.0
+WP_022432487.1, hypothetical protein,Eubacterium sp,0.0
+WP_315572781.1,formate C-acetyltransferase,Amygdalobacter nucleatus,0.0
+WP_094223912.1, formate C-acetyltransferase,Finegoldia magna,0.0
+WP_094206355.1, formate C-acetyltransferase,Finegoldia magna,0.0
+WP_117705512.1, formate C-acetyltransferase,Eubacterium sp,0.0
+WP_094207708.1, formate C-acetyltransferase,Finegoldia magna,0.0
+WP_094203014.1, formate C-acetyltransferase,Finegoldia magna,0.0
+WP_094225163.1, formate C-acetyltransferase,Finegoldia magna,0.0
+WP_094226031.1, formate C-acetyltransferase,Finegoldia magna,0.0
+WP_094230450.1, formate C-acetyltransferase,Finegoldia magna,0.0
+WP_012291136.1, formate C-acetyltransferase,Finegoldia magna,0.0
+WP_102164117.1, formate C-acetyltransferase,Finegoldia magna,0.0
+WP_002838039.1, formate C-acetyltransferase,Finegoldia magna,0.0
+WP_094210463.1, formate C-acetyltransferase,Finegoldia magna,0.0
+WP_118116187.1, formate C-acetyltransferase,Eubacterium sp,0.0
+WP_315570477.1,formate C-acetyltransferase,Amygdalobacter indicium,0.0
+WP_154273882.1, formate C-acetyltransferase,Finegoldia magna,0.0
+WP_002840025.1, formate C-acetyltransferase,Finegoldia magna,0.0
+WP_035111425.1, formate C-acetyltransferase,Finegoldia magna,0.0
+WP_002835760.1, formate C-acetyltransferase,Finegoldia magna,0.0
+WP_060790471.1, formate C-acetyltransferase,Finegoldia magna,0.0
+WP_002841100.1, formate C-acetyltransferase,Finegoldia magna,0.0
+WP_094204411.1, formate C-acetyltransferase,Finegoldia magna,0.0
+WP_110058533.1, formate C-acetyltransferase,Finegoldia magna,0.0
+WP_117996140.1, formate C-acetyltransferase,Eubacterium sp,0.0
+WP_003146953.1, formate C-acetyltransferase,Gemella haemolysans,0.0
+WP_117926409.1, formate C-acetyltransferase,Eubacterium sp,0.0
+WP_117571081.1, formate C-acetyltransferase,Eubacterium sp,0.0
+WP_066129749.1, formate C-acetyltransferase,Gemella asaccharolytica,0.0
+WP_003144656.1, formate C-acetyltransferase,Gemella haemolysans,0.0
+WP_117913854.1, MULTISPECIES: formate C-acetyltransferase,Eubacterium sp,0.0
+WP_021911817.1, formate acetyltransferase,Eubacterium sp,0.0
+WP_022098343.1, formate C-acetyltransferase ,Eubacterium sp,0.0
+WP_039891948.1, formate C-acetyltransferase,Megasphaera lornae,0.0
+WP_007393075.1, formate C-acetyltransferase,Megasphaera hutchinsoni,0.0
+WP_008689521.1, formate C-acetyltransferase,Eubacterium sp,0.0
+WP_004828295.1, formate C-acetyltransferase,Anaerococcus lactolyticus,0.0
+WP_118276933.1, formate C-acetyltransferase,Eubacterium sp,0.0
+WP_115715467.1, formate C-acetyltransferase,Eubacterium sp,0.0
+LCVA_215, formate acetyltransferase,Lachnocurva vaginae,0.0
+WP_060914120.1, formate C-acetyltransferase,Gemella haemolysans,0.0
+WP_033126229.1, MULTISPECIES: formate C-acetyltransferase,Eubacterium sp,0.0
+WP_039891927.1, formate C-acetyltransferase,Megasphaera lornae,0.0
+WP_022472526.1, formate C-acetyltransferase,Sutterella sp,0.0
+WP_012993408.1, formate C-acetyltransferase,Mageeibacillus indolicus,0.0
+WP_028257675.1, formate C-acetyltransferase,Veillonella montpellierensis,0.0
+WP_061103024.1, formate C-acetyltransferase,Fannyhessea vaginae,0.0
+WP_006626667.1, formate C-acetyltransferase,Bulleidia extructa,0.0
+WP_072536331.1, formate C-acetyltransferase,Anaerococcus mediterraneensis,0.0
+WP_048597044.1, formate C-acetyltransferase,Fannyhessea vaginae,0.0
+WP_139688836.1, formate C-acetyltransferase,Sutterella sp,0.0
+WP_006302127.1, formate C-acetyltransferase,Fannyhessea vaginae,0.0
+WP_148487244.1, MULTISPECIES: formate C-acetyltransferase,Eubacterium sp,0.0
+WP_022505830.1, formate acetyltransferase,Eubacterium sp,0.0
+WP_129878738.1, formate C-acetyltransferase,Eubacterium sp,0.0
+WP_002562876.1, MULTISPECIES: formate C-acetyltransferase,Atopobium minutum,0.0
+WP_061868870.1, formate C-acetyltransferase,Prevotella intermedia,0.0
+WP_005381464.1, MULTISPECIES: formate C-acetyltransferase,Veillonella atypica,0.0
+WP_016476106.1, MULTISPECIES: formate C-acetyltransferase,Veillonella atypica,0.0
+WP_156930896.1, formate C-acetyltransferase,Veillonella atypica,0.0
+WP_100190277.1, formate C-acetyltransferase,Prevotella intermedia,0.0
+WP_100021803.1, formate C-acetyltransferase,Prevotella intermedia,0.0
+WP_096407961.1, formate C-acetyltransferase,Prevotella intermedia,0.0
+WP_118353410.1, formate C-acetyltransferase,Veillonella atypica,0.0
+WP_100020228.1, formate C-acetyltransferase,Prevotella intermedia,0.0
+WP_100328467.1, formate C-acetyltransferase,Prevotella intermedia,0.0
+WP_097549595.1, formate C-acetyltransferase,Prevotella intermedia,0.0
+WP_005384415.1, MULTISPECIES: formate C-acetyltransferase,Veillonella atypica,0.0
+WP_124139574.1, formate C-acetyltransferase,Prevotella intermedia,0.0
+WP_100022631.1, formate C-acetyltransferase,Prevotella intermedia,0.0
+WP_100356215.1, formate C-acetyltransferase,Prevotella intermedia,0.0
+WP_099836854.1, formate C-acetyltransferase,Prevotella intermedia,0.0
+WP_099892711.1, formate C-acetyltransferase,Prevotella intermedia,0.0
+WP_006304175.1, MULTISPECIES: formate C-acetyltransferase,Fannyhessea vaginae,0.0
+WP_021973108.1, formate acetyltransferase 1,Eubacterium sp,0.0
+WP_099984528.1, formate C-acetyltransferase,Prevotella intermedia,0.0
+WP_014708607.1, formate C-acetyltransferase,Prevotella intermedia,0.0
+WP_113854781.1, formate C-acetyltransferase,Sutterella wadsworthensis,0.0
+WP_099977338.1, formate C-acetyltransferase,Prevotella intermedia,0.0
+WP_100014742.1, formate C-acetyltransferase,Prevotella intermedia,0.0
+WP_088439687.1, formate C-acetyltransferase,Prevotella intermedia,0.0
+WP_045168267.1, formate C-acetyltransferase,Prevotella intermedia,0.0
+WP_060807690.1, formate C-acetyltransferase,Veillonella atypica,0.0
+WP_005376664.1, formate C-acetyltransferase,Veillonella atypica,0.0
+WP_100371268.1, formate C-acetyltransferase,Prevotella intermedia,0.0
+WP_097648559.1, formate C-acetyltransferase,Prevotella intermedia,0.0
+WP_097656902.1, formate C-acetyltransferase,Prevotella intermedia,0.0
+WP_028905732.1, formate C-acetyltransferase,Prevotella intermedia,0.0
+WP_016474769.1, formate C-acetyltransferase,Sutterella wadsworthensis,0.0
+WP_005429676.1, formate C-acetyltransferase,Sutterella wadsworthensis,0.0
+WP_004357640.1, formate C-acetyltransferase,Prevotella disiens,0.0
+WP_050638898.1, MULTISPECIES: formate C-acetyltransferase,Eubacterium sp,0.0
+WP_087314205.1, formate C-acetyltransferase,Eubacterium sp,0.0
+WP_055154960.1, formate C-acetyltransferase,Eubacterium sp,0.0
+WP_022166282.1, formate C-acetyltransferase,Eubacterium sp,0.0
+WP_022249272.1, formate acetyltransferase,Eubacterium sp,0.0
+WP_117999406.1, formate C-acetyltransferase,Eubacterium sp,0.0
+WP_022088682.1, formate C-acetyltransferase,Eubacterium sp,0.0
+WP_087282125.1, formate C-acetyltransferase,Eubacterium sp,0.0
+WP_118589255.1, formate C-acetyltransferase,Eubacterium sp,0.0
+WP_021952198.1, formate C-acetyltransferase,Eubacterium sp,0.0
+WP_036882639.1, formate C-acetyltransferase,Prevotella disiens,0.0
+WP_021668700.1, formate C-acetyltransferase,Prevotella disiens,0.0
+WP_117653193.1, formate C-acetyltransferase,Prevotella disiens,0.0
+WP_075712749.1, formate C-acetyltransferase,Eubacterium sp,0.0
+WP_113748636.1, formate C-acetyltransferase,Bacteroides thetaiotaomicron,0.0
+WP_016268114.1, MULTISPECIES: formate C-acetyltransferase,Bacteroides thetaiotaomicron,0.0
+WP_010537421.1, formate C-acetyltransferase,Bacteroides faecis,0.0
+WP_129655161.1, formate C-acetyltransferase,Bacteroides thetaiotaomicron,0.0
+WP_055269936.1, MULTISPECIES: formate C-acetyltransferase,Bacteroides faecis;Bacteroides thetaiotaomicron,0.0
+WP_070752169.1, MULTISPECIES: formate C-acetyltransferase,Bacteroides faecis,0.0
+WP_008766750.1, formate C-acetyltransferase,Bacteroides thetaiotaomicron,0.0
+WP_021666646.1, formate C-acetyltransferase,Porphyromonas sp,0.0
+WP_117615519.1, formate C-acetyltransferase,Bacteroides faecis,0.0
+WP_044114454.1, formate C-acetyltransferase,Porphyromonas sp,0.0
+WP_009432876.1, formate C-acetyltransferase,Porphyromonas sp,0.0
+WP_044189353.1, MULTISPECIES: formate C-acetyltransferase,Porphyromonas sp,0.0
+WP_004294843.1, MULTISPECIES: formate C-acetyltransferase,Bacteroides stercoris,0.0
+WP_022219639.1, MULTISPECIES: formate C-acetyltransferase,Bacteroides stercoris,0.0
+WP_118323230.1, MULTISPECIES: formate C-acetyltransferase,Bacteroides stercoris,0.0
+WP_036847465.1, MULTISPECIES: formate C-acetyltransferase,Porphyromonas sp,0.0
+WP_060385083.1, formate C-acetyltransferase,Bacteroides stercoris,0.0
+WP_151878144.1, formate C-acetyltransferase,Bacteroides stercoris,0.0
+WP_005651768.1, formate C-acetyltransferase,Bacteroides stercoris,0.0
+WP_003839712.1, MULTISPECIES: formate C-acetyltransferase,Bifidobacterium dentium,0.0
+WP_117955407.1, formate C-acetyltransferase,Bacteroides stercoris,0.0
+WP_092648687.1, formate C-acetyltransferase,Actinomyces radingae,0.0
+WP_058236996.1, MULTISPECIES: formate C-acetyltransferase,Actinomyces ihumii,0.0
+WP_039427486.1, formate C-acetyltransferase,Porphyromonas sp,0.0
+WP_119675574.1," formate C-acetyltransferase, partial",Gardnerella vaginalis,0.0
+WP_004112605.1, formate C-acetyltransferase,Gardnerella genomosp14;Gardnerella vaginalis,0.0
+WP_116437181.1, formate C-acetyltransferase,Gardnerella vaginalis,0.0
+tr|S4GG47|S4GG47_GARVA, Formate C-acetyltransferase,Gardnerella piotii,0.0
+WP_102720658.1, formate acetyltransferase,Gardnerella vaginalis,0.0
+tr|S4GYB1|S4GYB1_GARVA, Formate C-acetyltransferase,Gardnerella piotii,0.0
+WP_116438349.1, formate C-acetyltransferase,Gardnerella piotii,0.0
+tr|I4LT64|I4LT64_GARVA, Formate acetyltransferase,Gardnerella genomosp2,0.0
+tr|S4GRM9|S4GRM9_GARVA, Formate C-acetyltransferase,Gardnerella genomosp2,0.0
+WP_115757636.1, formate C-acetyltransferase,Gardnerella genomosp17,0.0
+WP_019261531.1, formate C-acetyltransferase,Gardnerella genomosp16;Gardnerella genomosp2,0.0
+WP_075523368.1, formate C-acetyltransferase,Gardnerella genomosp12,0.0
+WP_103084159.1, formate acetyltransferase,Gardnerella genomosp13,0.0
+WP_060786406.1, formate C-acetyltransferase,Gardnerella genomosp11,0.0
+tr|S4HSZ9|S4HSZ9_GARVA, Formate C-acetyltransferase,Gardnerella piotii,0.0
+tr|S4HQ26|S4HQ26_GARVA, Formate C-acetyltransferase,Gardnerella piotii,0.0
+WP_016637029.1, formate C-acetyltransferase,Gardnerella genomosp7,0.0
+WP_036878938.1, formate C-acetyltransferase,Porphyromonas sp,0.0
+WP_102704663.1, MULTISPECIES: formate C-acetyltransferase,Gardnerella piotii,0.0
+tr|S4GXN7|S4GXN7_GARVA, Formate C-acetyltransferase,Gardnerella genomosp3,0.0
+WP_115794214.1, formate C-acetyltransferase,Gardnerella genomosp15,0.0
+WP_004137380.1, formate C-acetyltransferase,Gardnerella genomosp9,0.0
+WP_101896555.1, formate acetyltransferase,Gardnerella genomosp3,0.0
+WP_004132136.1, autonomous glycyl radical cofactor GrcA,Gardnerella genomosp3,0.0
+tr|T2PL53|T2PL53_GARVA, Formate C-acetyltransferase,Gardnerella genomosp3,0.0
+WP_076002910.1, formate C-acetyltransferase,Gardnerella swidsinskii,0.0
+tr|I4M826|I4M826_GARVA, Formate acetyltransferase,Gardnerella genomosp8,0.0
+WP_116689481.1, autonomous glycyl radical cofactor GrcA,Gardnerella genomosp15,0.0
+WP_115761631.1, formate C-acetyltransferase,Gardnerella genomosp15,0.0
+tr|I4M2Z8|I4M2Z8_GARVA, Formate acetyltransferase,Gardnerella genomosp10,0.0
+WP_004108690.1, MULTISPECIES: formate C-acetyltransferase,Gardnerella swidsinskii,0.0
+WP_019261066.1, formate C-acetyltransferase,Gardnerella genomosp8,0.0
+WP_004106337.1, MULTISPECIES: formate C-acetyltransferase,Gardnerella leopoldii,0.0
+WP_102694692.1, autonomous glycyl radical cofactor GrcA,Gardnerella genomosp8,0.0
+tr|S4GVK0|S4GVK0_GARVA, Formate C-acetyltransferase,Gardnerella genomosp3,0.0
+WP_013169681.1, formate C-acetyltransferase,Arcanobacterium haemolyticum,0.0
+WP_048706493.1, MULTISPECIES: formate C-acetyltransferase,Arcanobacterium haemolyticum,0.0
+WP_004013143.1, formate acetyltransferase,Mobiluncus mulieris,0.0
+WP_004010021.1, formate acetyltransferase,Mobiluncus curtisii,0.0
+WP_004008303.1, MULTISPECIES: formate acetyltransferase,Mobiluncus curtisii;Mobiluncus holmesii,0.0
+WP_013188706.1, formate acetyltransferase,Mobiluncus curtisii,0.0
+tr|S4H1R2|S4H1R2_GARVA, Putative formate C-acetyltransferase,Gardnerella vaginalis,0.0
+WP_033127075.1," formate acetyltransferase, partial",Eubacterium sp,0.0
+WP_021907726.1, formate C-acetyltransferase,Eubacterium sp,0.0
+RFT40240.1," formate acetyltransferase, partial",Gardnerella vaginalis,0.0
+RFT28547.1," formate acetyltransferase, partial",Gardnerella vaginalis,0.0
+WP_049508283.1, formate C-acetyltransferase,Streptococcus anginosus,0.0
+WP_000246712.1, MULTISPECIES: formate C-acetyltransferase,Streptococcus agalactiae,0.0
+WP_003027063.1, MULTISPECIES: formate C-acetyltransferase,Streptococcus anginosus,0.0
+WP_000246708.1, MULTISPECIES: formate C-acetyltransferase,Streptococcus agalactiae,0.0
+WP_038405879.1, formate C-acetyltransferase,Streptococcus agalactiae,0.0
+WP_106383887.1, formate C-acetyltransferase,Streptococcus anginosus,0.0
+WP_022526512.1, formate C-acetyltransferase,Streptococcus anginosus,0.0
+WP_073686160.1, formate C-acetyltransferase,Streptococcus salivarius,0.0
+WP_045769046.1, MULTISPECIES: formate C-acetyltransferase,Streptococcus salivarius,0.0
+WP_002888223.1, formate C-acetyltransferase,Streptococcus salivarius,0.0
+WP_106388280.1, formate C-acetyltransferase,Streptococcus anginosus,0.0
+WP_000246707.1, formate C-acetyltransferase,Streptococcus agalactiae,0.0
+WP_049546014.1, formate C-acetyltransferase,Streptococcus salivarius,0.0
+WP_049553862.1, MULTISPECIES: formate C-acetyltransferase,Streptococcus salivarius,0.0
+WP_084871004.1, formate C-acetyltransferase,Streptococcus salivarius,0.0
+WP_106101159.1, formate C-acetyltransferase,Streptococcus anginosus,0.0
+WP_049513782.1, formate C-acetyltransferase,Streptococcus anginosus,0.0
+WP_049517649.1, formate C-acetyltransferase,Streptococcus anginosus,0.0
+WP_002891716.1, MULTISPECIES: formate C-acetyltransferase,Streptococcus salivarius,0.0
+WP_073949687.1, formate C-acetyltransferase,Streptococcus salivarius,0.0
+WP_106083761.1, formate C-acetyltransferase,Streptococcus anginosus,0.0
+WP_022495898.1, MULTISPECIES: formate C-acetyltransferase,Streptococcus salivarius,0.0
+WP_036756974.1, MULTISPECIES: formate acetyltransferase,Peptoniphilus lacrimalis;Streptococcus pseudopneumoniae,0.0
+WP_048674815.1, MULTISPECIES: formate C-acetyltransferase,Streptococcus salivarius,0.0
+WP_004183340.1, MULTISPECIES: formate C-acetyltransferase,Streptococcus salivarius,0.0
+WP_000260629.1, formate C-acetyltransferase,Streptococcus mitis,0.0
+WP_059221247.1, MULTISPECIES: formate C-acetyltransferase,Streptococcus anginosus,0.0
+WP_024051454.1, MULTISPECIES: formate C-acetyltransferase,Streptococcus anginosus,0.0
+WP_154863844.1, formate C-acetyltransferase,Streptococcus salivarius,0.0
+WP_033684342.1, formate C-acetyltransferase,Streptococcus mitis,0.0
+WP_042901652.1, formate C-acetyltransferase,Streptococcus mitis,0.0
+WP_003029425.1, MULTISPECIES: formate C-acetyltransferase,Streptococcus anginosus,0.0
+WP_080611817.1, formate C-acetyltransferase,Streptococcus salivarius,0.0
+WP_014632667.1, formate C-acetyltransferase,Streptococcus salivarius,0.0
+WP_002884352.1, formate C-acetyltransferase,Streptococcus salivarius,0.0
+WP_060627487.1, formate C-acetyltransferase,Streptococcus mitis,0.0
+WP_000260633.1, formate C-acetyltransferase,Streptococcus mitis,0.0
+WP_117645271.1, formate C-acetyltransferase,Streptococcus anginosus,0.0
+WP_064523908.1, MULTISPECIES: formate C-acetyltransferase,Streptococcus salivarius,0.0
+WP_021143676.1, MULTISPECIES: formate C-acetyltransferase,Streptococcus salivarius,0.0
+WP_049536778.1, formate C-acetyltransferase,Streptococcus pseudopneumoniae,0.0
+WP_020901544.1, MULTISPECIES: formate C-acetyltransferase,Streptococcus mitis,0.0
+WP_045763615.1, MULTISPECIES: formate C-acetyltransferase,Streptococcus pseudopneumoniae,0.0
+WP_049527379.1, MULTISPECIES: formate C-acetyltransferase,Streptococcus pseudopneumoniae,0.0
+WP_000260628.1, MULTISPECIES: formate C-acetyltransferase,Streptococcus mitis,0.0
+WP_000260647.1, MULTISPECIES: formate C-acetyltransferase,Streptococcus mitis;Streptococcus pseudopneumoniae,0.0
+WP_020999440.1, formate C-acetyltransferase,Streptococcus anginosus,0.0
+WP_138705103.1, formate C-acetyltransferase,Streptococcus pseudopneumoniae,0.0
+WP_000260632.1, formate C-acetyltransferase,Streptococcus mitis,0.0
+WP_000260627.1, formate C-acetyltransferase,Streptococcus mitis,0.0
+WP_049503040.1, MULTISPECIES: formate C-acetyltransferase,Streptococcus pseudopneumoniae,0.0
+WP_143876456.1, formate C-acetyltransferase,Streptococcus anginosus,0.0
+WP_003032996.1, MULTISPECIES: formate C-acetyltransferase,Streptococcus anginosus,0.0
+WP_008535460.1, MULTISPECIES: formate C-acetyltransferase,Streptococcus salivarius,0.0
+WP_049532477.1, MULTISPECIES: formate C-acetyltransferase,Streptococcus pseudopneumoniae,0.0
+WP_033686339.1, MULTISPECIES: formate C-acetyltransferase,Streptococcus mitis;Streptococcus pseudopneumoniae,0.0
+WP_000260631.1, MULTISPECIES: formate C-acetyltransferase,Streptococcus mitis;Streptococcus pseudopneumoniae,0.0
+WP_000260613.1, MULTISPECIES: formate C-acetyltransferase,Streptococcus mitis,0.0
+WP_000260639.1, formate C-acetyltransferase,Streptococcus mitis,0.0
+WP_119919448.1, formate C-acetyltransferase,Streptococcus pseudopneumoniae,0.0
+WP_054393251.1, formate C-acetyltransferase,Streptococcus pseudopneumoniae,0.0
+WP_049533838.1, MULTISPECIES: formate C-acetyltransferase,Streptococcus pseudopneumoniae,0.0
+WP_049497227.1, formate C-acetyltransferase,Streptococcus pseudopneumoniae,0.0
+WP_033680750.1, MULTISPECIES: formate C-acetyltransferase,Streptococcus mitis,0.0
+WP_003034097.1, formate C-acetyltransferase,Streptococcus anginosus,0.0
+WP_049549018.1, MULTISPECIES: formate C-acetyltransferase,Streptococcus pseudopneumoniae,0.0
+WP_000260634.1, formate C-acetyltransferase,Streptococcus mitis,0.0
+WP_143953039.1, formate C-acetyltransferase,Streptococcus mitis,0.0
+PZP11043.1," formate acetyltransferase, partial",Gardnerella vaginalis,0.0
+WP_000260630.1, MULTISPECIES: formate C-acetyltransferase,Streptococcus mitis;Streptococcus pseudopneumoniae,0.0
+WP_000260649.1, MULTISPECIES: formate C-acetyltransferase,Haemophilus haemolyticus,0.0
+WP_119942623.1, formate C-acetyltransferase,Streptococcus pseudopneumoniae,0.0
+WP_049550549.1, MULTISPECIES: formate C-acetyltransferase,Streptococcus pseudopneumoniae,0.0
+WP_000260626.1, formate C-acetyltransferase,Streptococcus mitis,0.0
+YP_003446915.1, pyruvate formate-lyase,Streptococcus mitis,0.0
+WP_003041688.1, formate C-acetyltransferase,Streptococcus anginosus,0.0
+RFT30935.1," formate acetyltransferase, partial",Gardnerella vaginalis,0.0
+WP_049539224.1, formate C-acetyltransferase,Streptococcus pseudopneumoniae,0.0
+WP_138705418.1, formate C-acetyltransferase,Streptococcus pseudopneumoniae,0.0
+WP_023940892.1, formate C-acetyltransferase,Streptococcus pseudopneumoniae,0.0
+WP_142558167.1, formate C-acetyltransferase,Streptococcus mitis,0.0
+tr|U6S896|U6S896_GARVA, Putative formate C-acetyltransferase,Gardnerella piotii,9.74e-180
+WP_021983178.1, formate acetyltransferase,Eubacterium sp,1.85e-167
+WP_116440031.1," autonomous glycyl radical cofactor GrcA, partial",Gardnerella vaginalis,5.10e-157
+WP_073690537.1," formate acetyltransferase, partial",Streptococcus salivarius,8.96e-139
+WP_116438033.1," autonomous glycyl radical cofactor GrcA, partial",Gardnerella vaginalis,4.85e-124
+RFT24991.1," formate acetyltransferase, partial",Gardnerella vaginalis,1.95e-107
+tr|U6S989|U6S989_GARVA, Glycine radical domain protein,Gardnerella piotii,1.19e-86
+WP_000248299.1, glycyl radical protein,Streptococcus mitis,5.02e-50
+WP_049522223.1, glycyl radical protein,Streptococcus mitis,7.05e-50
+WP_003041221.1, glycyl radical protein,Streptococcus anginosus,9.80e-50
+WP_022526285.1, glycyl radical protein,Streptococcus anginosus,1.15e-49
+WP_003023898.1, glycyl radical protein,Streptococcus anginosus,1.79e-49
+WP_049516580.1, glycyl radical protein,Streptococcus anginosus,1.81e-49
+WP_117644328.1, glycyl radical protein,Streptococcus anginosus,1.83e-49
+WP_003032459.1, MULTISPECIES: glycyl radical protein,Streptococcus anginosus,1.99e-49
+WP_000247405.1, glycyl radical protein,Streptococcus mitis,2.01e-49
+WP_000248305.1, MULTISPECIES: glycyl radical protein,Haemophilus haemolyticus,2.05e-49
+WP_126407445.1, MULTISPECIES: glycyl radical protein,Streptococcus anginosus,3.06e-49
+WP_000247406.1, glycyl radical protein,Streptococcus mitis,3.13e-49
+WP_049524613.1, glycyl radical protein,Streptococcus pseudopneumoniae,3.16e-49
+WP_000248298.1, MULTISPECIES: glycyl radical protein,Streptococcus mitis,3.28e-49
+WP_106384480.1, formate C-acetyltransferase/glycerol dehydratase family glycyl radical enzyme,Streptococcus anginosus,3.40e-49
+WP_024053033.1, MULTISPECIES: glycyl radical protein,Streptococcus anginosus,3.70e-49
+WP_049507929.1, glycyl radical protein,Streptococcus anginosus,4.06e-49
+WP_021001879.1, MULTISPECIES: glycyl radical protein,Streptococcus anginosus,5.19e-49
+WP_106082650.1, formate C-acetyltransferase/glycerol dehydratase family glycyl radical enzyme,Streptococcus anginosus,5.24e-49
+WP_151380159.1, glycyl radical protein,Streptococcus anginosus,5.34e-49
+WP_059220938.1, MULTISPECIES: glycyl radical protein,Streptococcus anginosus,5.54e-49
+WP_138099453.1, glycyl radical protein,Streptococcus anginosus,5.81e-49
+WP_049511423.1, glycyl radical protein,Streptococcus pseudopneumoniae,9.75e-49
+WP_003028990.1, MULTISPECIES: glycyl radical protein,Streptococcus anginosus,1.20e-48
+WP_106100952.1, glycyl radical protein,Streptococcus anginosus,1.35e-48
+WP_002562817.1, MULTISPECIES: glycyl radical protein,Atopobium minutum,2.26e-48
+WP_049533103.1, glycyl radical protein,Streptococcus anginosus,2.27e-48
+WP_003036273.1, glycyl radical protein,Streptococcus anginosus,2.53e-48
+WP_006302615.1, glycyl radical protein,Fannyhessea vaginae,4.66e-48
+WP_000166136.1, MULTISPECIES: glycyl radical protein,Streptococcus agalactiae,6.06e-48
+WP_022089165.1, formate C-acetyltransferase,Eubacterium sp,6.19e-48
+WP_048596930.1, glycyl radical protein,Fannyhessea vaginae,9.67e-48
+WP_000166137.1, MULTISPECIES: glycyl radical protein,Streptococcus agalactiae,9.86e-48
+WP_061102888.1, glycyl radical protein,Fannyhessea vaginae,1.16e-47
+WP_000166134.1, MULTISPECIES: glycyl radical protein,Streptococcus agalactiae,1.33e-47
+WP_117571052.1, glycyl radical protein,Eubacterium sp,1.86e-47
+WP_016480313.1, glycyl radical protein,Streptococcus agalactiae,2.20e-47
+WP_017647120.1, glycyl radical protein,Streptococcus agalactiae,2.24e-47
+WP_118565850.1, formate C-acetyltransferase/glycerol dehydratase family glycyl radical enzyme,Eubacterium sp,5.23e-47
+WP_000166140.1, glycyl radical protein,Streptococcus agalactiae,1.66e-46
+WP_117910704.1, formate C-acetyltransferase/glycerol dehydratase family glycyl radical enzyme,Eubacterium sp,2.45e-46
+WP_065226441.1, formate C-acetyltransferase/glycerol dehydratase family glycyl radical enzyme,Escherichia coli,4.77e-46
+WP_118115979.1, glycyl radical protein,Eubacterium sp,6.81e-46
+NP_415344.1, putative pyruvate formate lyase,Escherichia coli,8.25e-46
+WP_000209363.1, glycyl radical protein,Escherichia coli,1.22e-45
+WP_055150931.1, formate C-acetyltransferase/glycerol dehydratase family glycyl radical enzyme,Eubacterium sp,1.77e-45
+LCVA_1194," glycyl radical enzyme, PFL2/glycerol dehydratase family protein",Lachnocurva vaginae,1.79e-45
+YP_002406825.1, putative glycyl radical cofactor protein,Escherichia coli,1.85e-45
+WP_000209338.1, glycyl radical protein,Escherichia coli,1.96e-45
+YP_006119102.1, putative glycyl radical cofactor protein,Escherichia coli,2.51e-45
+YP_006780120.1, putative pyruvate formate lyase,Escherichia coli,2.56e-45
+WP_000209359.1, MULTISPECIES: glycyl radical protein,Escherichia coli,2.68e-45
+YP_002411764.1, putative glycyl radical cofactor protein,Escherichia coli,2.71e-45
+WP_000209324.1, glycyl radical protein,Escherichia coli,3.02e-45
+WP_000209356.1, glycyl radical protein,Escherichia coli,3.85e-45
+WP_117995388.1, glycyl radical protein,Eubacterium sp,4.09e-45
+WP_050639346.1, MULTISPECIES: formate C-acetyltransferase/glycerol dehydratase family glycyl radical enzyme,Eubacterium sp,5.54e-45
+WP_126347090.1, glycyl radical protein,Escherichia coli,2.05e-44
+WP_000209321.1, glycyl radical protein,Escherichia coli,2.40e-44
+WP_038430852.1, glycyl radical protein,Escherichia coli,2.81e-44
+WP_039102360.1, glycyl radical protein,Escherichia coli,3.23e-44
+WP_117999249.1, formate C-acetyltransferase/glycerol dehydratase family glycyl radical enzyme,Eubacterium sp,6.88e-44
+WP_118021256.1, formate C-acetyltransferase/glycerol dehydratase family glycyl radical enzyme,Megasphaera lornae,7.96e-44
+WP_022165975.1, pyruvate formate-lyase,Eubacterium sp,1.14e-43
+WP_021866668.1, hypothetical protein,Eubacterium sp,9.68e-43
+WP_115716549.1, formate C-acetyltransferase/glycerol dehydratase family glycyl radical enzyme,Eubacterium sp,1.70e-42
+WP_118277967.1, formate C-acetyltransferase/glycerol dehydratase family glycyl radical enzyme,Eubacterium sp,1.74e-42
+WP_117995848.1, formate C-acetyltransferase/glycerol dehydratase family glycyl radical enzyme,Eubacterium sp,3.79e-42
+WP_117996042.1, formate C-acetyltransferase/glycerol dehydratase family glycyl radical enzyme,Eubacterium sp,4.05e-42
+WP_021953523.1, formate C-acetyltransferase,Eubacterium sp,7.09e-42
+WP_118589858.1, formate C-acetyltransferase/glycerol dehydratase family glycyl radical enzyme,Eubacterium sp,7.79e-42
+WP_007391193.1, glycyl radical protein,Megasphaera lornae,2.79e-40
+WP_118021257.1, formate C-acetyltransferase/glycerol dehydratase family glycyl radical enzyme,Megasphaera lornae,6.32e-40
+WP_118116359.1, formate C-acetyltransferase/glycerol dehydratase family glycyl radical enzyme,Eubacterium sp,6.93e-40
+WP_029434774.1, formate C-acetyltransferase/glycerol dehydratase family glycyl radical enzyme,Bilophila wadsworthia,7.26e-40
+WP_117571232.1, formate C-acetyltransferase/glycerol dehydratase family glycyl radical enzyme,Eubacterium sp,1.71e-39
+WP_050640129.1, MULTISPECIES: glycyl radical protein,Eubacterium sp,2.22e-39
+WP_117926494.1, formate C-acetyltransferase/glycerol dehydratase family glycyl radical enzyme,Eubacterium sp,6.16e-39
+WP_005024668.1, formate C-acetyltransferase/glycerol dehydratase family glycyl radical enzyme,Bilophila wadsworthia,9.72e-39
+WP_083486992.1, hypothetical protein,Eubacterium sp,3.51e-38
+WP_082202823.1, MULTISPECIES: hypothetical protein,Eubacterium sp,3.61e-38
+WP_057001858.1, formate C-acetyltransferase/glycerol dehydratase family glycyl radical enzyme,Atopobium minutum,6.10e-38
+WP_008689603.1, MULTISPECIES: formate C-acetyltransferase/glycerol dehydratase family glycyl radical enzyme,Eubacterium sp,1.42e-37
+WP_002563858.1, MULTISPECIES: formate C-acetyltransferase/glycerol dehydratase family glycyl radical enzyme,Atopobium minutum,2.35e-37
+RFT28546.1," hypothetical protein CG405_05930, partial",Gardnerella vaginalis,6.90e-37
+WP_075714457.1, pyruvate formate-lyase,Eubacterium sp,1.64e-35
+WP_008687485.1, formate C-acetyltransferase/glycerol dehydratase family glycyl radical enzyme,Eubacterium sp,1.00e-34
+WP_118277567.1, formate C-acetyltransferase/glycerol dehydratase family glycyl radical enzyme,Eubacterium sp,1.33e-34
+WP_115715995.1, formate C-acetyltransferase/glycerol dehydratase family glycyl radical enzyme,Eubacterium sp,2.46e-34
+WP_000184880.1, formate C-acetyltransferase,Escherichia coli,1.69e-33
+WP_032346322.1, formate C-acetyltransferase/glycerol dehydratase family glycyl radical enzyme,Escherichia coli,1.95e-33
+WP_000184816.1, formate C-acetyltransferase,Escherichia coli,2.37e-33
+YP_002408968.1, putative formate acetyltransferase 2,Escherichia coli,3.60e-33
+YP_006781463.1, putative formate acetyltransferase 2,Escherichia coli,3.80e-33
+WP_000184837.1, formate C-acetyltransferase,Escherichia coli,4.83e-33
+WP_000184799.1, formate C-acetyltransferase,Escherichia coli,5.05e-33
+YP_002415097.1, putative formate acetyltransferase 2,Escherichia coli,5.72e-33
+WP_000184877.1, formate C-acetyltransferase,Escherichia coli,5.77e-33
+WP_065228019.1, formate C-acetyltransferase,Escherichia coli,5.98e-33
+YP_006122291.1, putative formate acetyltransferase 2,Escherichia coli,5.98e-33
+NP_418386.1, putative formate acetyltransferase 2,Escherichia coli,8.09e-33
+WP_000184872.1, formate C-acetyltransferase,Escherichia coli,8.84e-33
+WP_118277428.1, glycyl radical protein,Eubacterium sp,3.54e-32
+WP_000184851.1, formate C-acetyltransferase,Escherichia coli,5.56e-32
+WP_115715612.1, glycyl radical protein,Eubacterium sp,6.02e-32
+WP_005024665.1, formate C-acetyltransferase,Bilophila wadsworthia,1.23e-31
+WP_065360974.1, hypothetical protein,Megasphaera lornae,1.49e-31
+WP_091791381.1, choline trimethylamine-lyase,Peptococcus niger,7.03e-31
+WP_040658539.1, dehydrogenase,Oscillibacter ruminantium,1.66e-30
+WP_154536834.1, formate C-acetyltransferase/glycerol dehydratase family glycyl radical enzyme,Peptostreptococcus anaerobius,1.70e-30
+WP_091792463.1, hypothetical protein,Peptococcus niger,4.06e-30
+WP_049525711.1, choline trimethylamine-lyase,Streptococcus pseudopneumoniae,1.64e-29
+WP_033125453.1, MULTISPECIES: glycyl radical protein,Eubacterium sp,9.22e-29
+WP_002563917.1, MULTISPECIES: choline trimethylamine-lyase,Atopobium minutum,1.45e-28
+WP_005027953.1, glycyl radical protein,Bilophila wadsworthia,4.79e-28
+WP_082202909.1, MULTISPECIES: hypothetical protein,Eubacterium sp,1.02e-27
+WP_075659896.1, choline trimethylamine-lyase,Peptoniphilus grossensis,1.11e-27
+WP_029436929.1, glycyl radical protein,Bilophila wadsworthia,1.29e-27
+WP_129878936.1, hypothetical protein,Eubacterium sp,2.65e-27
+WP_004839422.1, choline trimethylamine-lyase,Anaerococcus vaginalis,3.72e-27
+WP_027869008.1, choline trimethylamine-lyase,Eubacterium sp,5.39e-27
+WP_075660158.1, glycyl radical protein,Peptoniphilus grossensis,9.18e-27
+WP_075660158.1, glycyl radical protein,Peptoniphilus grossensis,3.18e-08
+RFT30936.1," hypothetical protein CG403_01350, partial",Gardnerella vaginalis,1.54e-26
+RFT40065.1," hypothetical protein CG397_03845, partial",Gardnerella vaginalis,1.64e-26
+WP_091791955.1, glycyl radical enzyme,Peptococcus niger,3.20e-26
+WP_118795651.1, autonomous glycyl radical cofactor GrcA,Haemophilus haemolyticus,4.04e-26
+WP_019116775.1, choline trimethylamine-lyase,Anaerococcus vaginalis,4.71e-26
+WP_055153623.1, glycyl radical protein,Eubacterium sp,4.76e-26
+WP_019125629.1, glycyl radical protein,Peptoniphilus grossensis,5.09e-26
+WP_019125629.1, glycyl radical protein,Peptoniphilus grossensis,1.40e-10
+WP_000627805.1, autonomous glycyl radical cofactor GrcA,Escherichia coli,5.41e-26
+YP_002413603.1, pyruvate formate lyase subunit,Escherichia coli,5.41e-26
+WP_000627807.1, MULTISPECIES: autonomous glycyl radical cofactor GrcA,Escherichia coli,5.51e-26
+WP_005628746.1, MULTISPECIES: autonomous glycyl radical cofactor GrcA,Haemophilus haemolyticus,6.76e-26
+WP_050640431.1, MULTISPECIES: glycyl radical protein,Eubacterium sp,9.83e-26
+WP_000627806.1, autonomous glycyl radical cofactor GrcA,Escherichia coli,1.08e-25
+WP_118021514.1, formate C-acetyltransferase/glycerol dehydratase family glycyl radical enzyme,Megasphaera lornae,1.99e-25
+WP_002562875.1, MULTISPECIES: autonomous glycyl radical cofactor GrcA,Atopobium minutum,2.69e-25
+WP_021907234.1, formate C-acetyltransferase,Eubacterium sp,3.64e-25
+WP_021907234.1, formate C-acetyltransferase,Eubacterium sp,5.96e-11
+WP_075712135.1, choline trimethylamine-lyase,Eubacterium sp,5.05e-25
+WP_059076807.1, choline trimethylamine-lyase,Megasphaera lornae,6.26e-25
+WP_118021354.1, choline trimethylamine-lyase,Megasphaera lornae,6.31e-25
+WP_075582489.1, MULTISPECIES: choline trimethylamine-lyase,Megasphaera lornae,6.71e-25
+WP_095629724.1, MULTISPECIES: formate C-acetyltransferase/glycerol dehydratase family glycyl radical enzyme,Megasphaera lornae,7.10e-25
+WP_033126228.1, MULTISPECIES: autonomous glycyl radical cofactor GrcA,Eubacterium sp,7.18e-25
+WP_087478123.1, formate C-acetyltransferase/glycerol dehydratase family glycyl radical enzyme,Megasphaera lornae,7.36e-25

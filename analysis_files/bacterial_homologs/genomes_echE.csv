@@ -1,0 +1,214 @@
+id,protein,taxa,e-value
+WP_005028437.1, MULTISPECIES: NADH dehydrogenase,Bilophila wadsworthia,0.0
+WP_087275971.1, NADH-quinone oxidoreductase subunit D,Eubacterium sp,6.97e-157
+WP_087315328.1, NADH-quinone oxidoreductase subunit D,Eubacterium sp,4.05e-156
+WP_005028008.1, carbon monoxide-induced hydrogenase,Bilophila wadsworthia,3.31e-98
+WP_114892118.1, hydrogenase large subunit,Haemophilus haemolyticus,8.20e-79
+WP_118842899.1, hydrogenase large subunit,Haemophilus haemolyticus,9.12e-79
+WP_118879660.1, hydrogenase large subunit,Haemophilus haemolyticus,1.15e-78
+WP_046942430.1, hydrogenase large subunit,Haemophilus haemolyticus,1.24e-78
+WP_118784797.1, hydrogenase large subunit,Haemophilus haemolyticus,1.27e-78
+WP_046938554.1, hydrogenase large subunit,Haemophilus haemolyticus,1.40e-78
+WP_005634689.1, MULTISPECIES: hydrogenase large subunit,Haemophilus haemolyticus,1.41e-78
+WP_118868534.1, hydrogenase large subunit,Haemophilus haemolyticus,1.43e-78
+WP_118801282.1, hydrogenase large subunit,Haemophilus haemolyticus,1.49e-78
+WP_005636979.1, hydrogenase 3 large subunit,Haemophilus haemolyticus,1.64e-78
+WP_046952910.1, hydrogenase large subunit,Haemophilus haemolyticus,2.14e-78
+WP_134078185.1, hydrogenase large subunit,Haemophilus haemolyticus,4.01e-78
+WP_118793939.1, hydrogenase large subunit,Haemophilus haemolyticus,9.65e-77
+WP_118808931.1, hydrogenase large subunit,Haemophilus haemolyticus,1.23e-76
+WP_118782242.1, hydrogenase large subunit,Haemophilus haemolyticus,4.66e-76
+WP_118790422.1, hydrogenase large subunit,Haemophilus haemolyticus,4.91e-76
+WP_005631956.1, hydrogenase large subunit,Haemophilus haemolyticus,8.72e-76
+WP_005640545.1, MULTISPECIES: hydrogenase large subunit,Haemophilus haemolyticus,8.81e-76
+WP_005626084.1, hydrogenase large subunit,Haemophilus haemolyticus,9.29e-76
+WP_005645455.1, hydrogenase large subunit,Haemophilus haemolyticus,1.01e-75
+WP_118788247.1, hydrogenase large subunit,Haemophilus haemolyticus,1.10e-75
+YP_002408574.1, hydrogenase 4 subunit,Escherichia coli,1.49e-75
+WP_065227391.1, hydrogenase large subunit,Escherichia coli,1.73e-75
+WP_001102329.1, hydrogenase large subunit,Escherichia coli,1.84e-75
+WP_001102327.1, hydrogenase large subunit,Escherichia coli,1.92e-75
+YP_002413505.2, hydrogenase 4 subunit G,Escherichia coli,2.84e-75
+WP_001102326.1, hydrogenase 4 catalytic subunit HyfG,Escherichia coli,1.08e-74
+YP_006778105.1, hydrogenase 4 membrane subunit,Escherichia coli,7.99e-74
+WP_001288139.1, hydrogenase large subunit,Escherichia coli,5.92e-68
+WP_001288147.1, hydrogenase large subunit,Escherichia coli,1.45e-67
+YP_002413734.1, hydrogenase 3 large subunit,Escherichia coli,1.48e-67
+YP_002408842.1," hydrogenase 3, large subunit",Escherichia coli,1.63e-67
+WP_001288134.1, MULTISPECIES: hydrogenase large subunit,Escherichia coli,1.70e-67
+WP_001288141.1, hydrogenase large subunit,Escherichia coli,3.42e-67
+NP_416982.1, hydrogenase 4 catalytic subunit HyfG,Escherichia coli,6.16e-67
+WP_065227490.1, hydrogenase large subunit,Escherichia coli,1.10e-66
+WP_001102289.1, hydrogenase 4 catalytic subunit HyfG,Escherichia coli,2.01e-65
+WP_001102305.1, hydrogenase large subunit,Escherichia coli,2.05e-65
+KXB51875.1," respiratory-chain NADH dehydrogenase, subunit",Eggerthella like,4.18e-64
+WP_066780738.1, hydrogenase large subunit,TM7 H1,3.72e-63
+WP_118322927.1, MULTISPECIES: NADH-quinone oxidoreductase subunit D,Bacteroides stercoris,1.81e-52
+WP_118363963.1, MULTISPECIES: NADH-quinone oxidoreductase subunit D,Bacteroides stercoris,1.90e-52
+WP_129618790.1, NADH-quinone oxidoreductase subunit D,Bacteroides stercoris,2.19e-52
+WP_117906587.1, NADH-quinone oxidoreductase subunit D,Bacteroides stercoris,2.70e-52
+WP_117917334.1, NADH-quinone oxidoreductase subunit D,Bacteroides stercoris,2.94e-52
+WP_117741730.1, NADH-quinone oxidoreductase subunit D,Bacteroides stercoris,3.29e-52
+WP_151870784.1, NADH-quinone oxidoreductase subunit D,Bacteroides stercoris,3.33e-52
+WP_117940858.1, NADH-quinone oxidoreductase subunit D,Bacteroides stercoris,3.50e-52
+WP_118399468.1, NADH-quinone oxidoreductase subunit D,Bacteroides stercoris,3.54e-52
+WP_117985515.1, NADH-quinone oxidoreductase subunit D,Bacteroides stercoris,3.69e-52
+WP_117902840.1, NADH-quinone oxidoreductase subunit D,Bacteroides stercoris,3.73e-52
+WP_117665746.1, NADH-quinone oxidoreductase subunit D,Bacteroides stercoris,3.85e-52
+WP_034535985.1, NADH-quinone oxidoreductase subunit D,Bacteroides stercoris,3.93e-52
+WP_118940026.1, NADH-quinone oxidoreductase subunit D,Bacteroides stercoris,3.97e-52
+WP_117739986.1, NADH-quinone oxidoreductase subunit D,Bacteroides stercoris,3.32e-51
+WP_117955810.1, NADH-quinone oxidoreductase subunit D,Bacteroides stercoris,3.50e-51
+WP_054958801.1," NADH-quinone oxidoreductase subunit D, partial",Bacteroides thetaiotaomicron,5.02e-51
+WP_050335867.1, NADH dehydrogenase (quinone) subunit D,Campylobacter ureolyticus,7.87e-51
+WP_016646392.1, NADH dehydrogenase (quinone) subunit D,Campylobacter ureolyticus,5.37e-50
+WP_048695113.1, MULTISPECIES: NADH-quinone oxidoreductase subunit D,Bacteroides thetaiotaomicron,1.35e-49
+WP_008760950.1, MULTISPECIES: NADH-quinone oxidoreductase subunit D,Bacteroides thetaiotaomicron,1.38e-49
+WP_118307062.1, NADH-quinone oxidoreductase subunit D,Bacteroides thetaiotaomicron,1.41e-49
+WP_129655019.1, NADH-quinone oxidoreductase subunit D,Bacteroides thetaiotaomicron,1.45e-49
+WP_151209910.1, NADH-quinone oxidoreductase subunit D,Bacteroides thetaiotaomicron,1.49e-49
+WP_010536656.1, MULTISPECIES: NADH-quinone oxidoreductase subunit D,Bacteroides faecis;Bacteroides thetaiotaomicron,1.77e-49
+WP_055217485.1, NADH-quinone oxidoreductase subunit D,Bacteroides thetaiotaomicron,1.81e-49
+NP_812976.1, NADH dehydrogenase I subunit D,Bacteroides thetaiotaomicron,1.87e-49
+WP_109115856.1, NADH-quinone oxidoreductase subunit D,Bacteroides faecis,1.94e-49
+WP_101637637.1, NADH dehydrogenase (quinone) subunit D,Campylobacter ureolyticus,4.33e-49
+WP_018713398.1, NADH dehydrogenase (quinone) subunit D,Campylobacter ureolyticus,5.02e-49
+WP_024962340.1, NADH dehydrogenase (quinone) subunit D,Campylobacter ureolyticus,5.23e-49
+KGT65195.1," NADH-ubiquinone oxidoreductase 49 kDa subunit, mitochondrial",Candida albicans,9.86e-49
+WP_118337214.1, NADH-quinone oxidoreductase subunit D,Bacteroides thetaiotaomicron,1.20e-48
+EER31443.1," NADH-ubiquinone oxidoreductase 49 kDa subunit, mitochondrial precursor",Candida tropicalis,2.24e-47
+NP_416789.2, NADH:quinone oxidoreductase subunit CD,Escherichia coli,7.18e-46
+OAG16056.1," NADH dehydrogenase I, D subunit",Alternaria alternata,7.30e-46
+KGK39699.1, hypothetical protein JL09_g1155,Pichia kudriavzevii,7.36e-46
+RYN80169.1, NADH-ubiquinone oxidoreductase subunit,Alternaria alternata,8.53e-46
+YP_006120665.1, bifunctional NADH:ubiquinone oxidoreductase subunit C/D,Escherichia coli,9.26e-46
+YP_002413335.4, NADH-quinone oxidoreductase subunit C/D,Escherichia coli,1.26e-45
+WP_000247872.1, NADH-quinone oxidoreductase subunit C/D,Escherichia coli,1.39e-45
+WP_000247878.1, MULTISPECIES: NADH-quinone oxidoreductase subunit C/D,Escherichia coli,1.39e-45
+WP_091791468.1, NADH-quinone oxidoreductase subunit NuoD,Peptococcus niger,1.54e-45
+WP_008450244.1, hypothetical protein,Prevotella amnii,4.11e-45
+WP_060932905.1, hypothetical protein,Prevotella amnii,5.90e-45
+WP_019035920.1, hypothetical protein,Prevotella amnii,6.95e-45
+WP_036864164.1, NADH dehydrogenase subunit D,Prevotella bivia,7.78e-45
+WP_036867743.1, NADH dehydrogenase subunit D,Prevotella bivia,7.95e-45
+WP_004338696.1, hypothetical protein,Prevotella bivia,8.63e-45
+WP_061450657.1, NADH dehydrogenase subunit D,Prevotella bivia,9.27e-45
+WP_036887640.1, NADH dehydrogenase subunit D,Prevotella bivia,9.86e-45
+WP_061868609.1, NADH-quinone oxidoreductase subunit D,Prevotella intermedia,3.81e-44
+WP_100020061.1, NADH-quinone oxidoreductase subunit D,Prevotella intermedia,5.13e-44
+WP_124139218.1, NADH-quinone oxidoreductase subunit D,Prevotella intermedia,5.46e-44
+WP_088439218.1, NADH-quinone oxidoreductase subunit D,Prevotella intermedia,7.58e-44
+WP_100190456.1, NADH-quinone oxidoreductase subunit D,Prevotella intermedia,9.50e-44
+WP_045166799.1, NADH-quinone oxidoreductase subunit D,Prevotella intermedia,1.01e-43
+WP_096409127.1, NADH-quinone oxidoreductase subunit D,Prevotella intermedia,1.02e-43
+WP_099984752.1, NADH-quinone oxidoreductase subunit NuoD,Prevotella intermedia,1.03e-43
+WP_100328351.1, NADH-quinone oxidoreductase subunit NuoD,Prevotella intermedia,1.17e-43
+WP_097657012.1, NADH-quinone oxidoreductase subunit NuoD,Prevotella intermedia,1.32e-43
+WP_097549942.1, NADH-quinone oxidoreductase subunit D,Prevotella intermedia,1.93e-43
+WP_099977617.1, NADH-quinone oxidoreductase subunit NuoD,Prevotella intermedia,2.16e-43
+WP_004348637.1, NADH-quinone oxidoreductase subunit D,Prevotella buccalis,3.34e-43
+WP_008125569.1, hypothetical protein,Prevotella timonensis,3.44e-43
+WP_103002694.1, NADH-quinone oxidoreductase subunit C,Prevotella timonensis,3.51e-43
+WP_025071548.1, hypothetical protein,Prevotella timonensis,3.70e-43
+WP_102188413.1, NADH-quinone oxidoreductase subunit C,Prevotella timonensis,4.27e-43
+WP_023058762.1, MULTISPECIES: NADH-quinone oxidoreductase subunit D,Prevotella buccalis,5.74e-43
+WP_036872580.1, hypothetical protein,Prevotella buccalis,8.39e-43
+WP_097648451.1, NADH-quinone oxidoreductase subunit NuoD,Prevotella intermedia,9.73e-43
+WP_014708332.1, NADH-quinone oxidoreductase subunit D,Prevotella intermedia,1.09e-42
+WP_092648797.1, NADH-quinone oxidoreductase subunit D,Actinomyces radingae,1.49e-42
+WP_036926815.1, hypothetical protein,Prevotella timonensis,1.57e-42
+WP_076169488.1, NADH-quinone oxidoreductase subunit D,Prevotella intermedia,1.57e-42
+WP_058237195.1, NADH-quinone oxidoreductase subunit D,Actinomyces ihumii,1.59e-42
+WP_007173431.1, NADH dehydrogenase subunit D,Prevotella bergensis,2.32e-42
+WP_100022670.1, NADH-quinone oxidoreductase subunit D,Prevotella intermedia,4.90e-42
+WP_100014906.1, NADH-quinone oxidoreductase subunit NuoD,Prevotella intermedia,6.39e-42
+WP_028906021.1, NADH-quinone oxidoreductase subunit D,Prevotella intermedia,7.15e-42
+WP_102697653.1, NADH-quinone oxidoreductase subunit C,Prevotella buccalis,1.84e-41
+WP_116616258.1, NADH-quinone oxidoreductase subunit C,Prevotella colorans,2.05e-41
+WP_021669370.1, NADH-quinone oxidoreductase subunit D,Prevotella disiens,7.63e-41
+WP_004358072.1, NADH-quinone oxidoreductase subunit D,Prevotella disiens,9.45e-41
+WP_117653298.1, NADH-quinone oxidoreductase subunit D,Prevotella disiens,1.15e-40
+WP_053962459.1, NADH-quinone oxidoreductase subunit D,Lawsonella clevelandensis,8.75e-40
+WP_103758652.1, NADH-quinone oxidoreductase subunit D,Mobiluncus mulieris,5.01e-39
+WP_004015277.1, NADH-quinone oxidoreductase subunit D,Mobiluncus mulieris,3.15e-38
+WP_004011605.1, NADH-quinone oxidoreductase subunit D,Mobiluncus mulieris,4.15e-38
+WP_115325825.1, NADH-quinone oxidoreductase subunit D,Mobiluncus mulieris,4.32e-38
+WP_009744439.1, NADH-quinone oxidoreductase subunit D,Actinomyces hongkongensis,7.15e-38
+WP_004807357.1, MULTISPECIES: NADH-quinone oxidoreductase subunit D,Arcanobacterium haemolyticum,1.01e-36
+WP_154543275.1, NADH-quinone oxidoreductase subunit D,Mobiluncus holmesii,9.08e-36
+WP_004008935.1, NADH-quinone oxidoreductase subunit D,Mobiluncus curtisii,1.78e-34
+WP_004011195.1, NADH-quinone oxidoreductase subunit D,Mobiluncus holmesii,2.07e-34
+WP_004007444.1, NADH-quinone oxidoreductase subunit D,Mobiluncus curtisii,2.12e-34
+WP_013189071.1, NADH-quinone oxidoreductase subunit D,Mobiluncus curtisii,2.16e-34
+WP_013169552.1, NADH-quinone oxidoreductase subunit D,Arcanobacterium haemolyticum,1.09e-31
+WP_118206754.1," NADH-quinone oxidoreductase subunit C, partial",Bacteroides stercoris,1.53e-31
+WP_113722578.1, NADH dehydrogenase subunit D,Arcanobacterium haemolyticum,1.75e-31
+WP_005027591.1, nickel-dependent hydrogenase large subunit,Bilophila wadsworthia,1.96e-09
+WP_029436186.1, nickel-dependent hydrogenase large subunit,Bilophila wadsworthia,1.98e-09
+YP_006121316.1, hydrogenase 2 large subunit,Escherichia coli,1.99e-08
+WP_000083060.1, hydrogenase 2 large subunit,Escherichia coli,2.00e-08
+WP_000083065.1, MULTISPECIES: hydrogenase 2 large subunit,Escherichia coli,2.02e-08
+WP_000083068.1, hydrogenase-2 large chain,Escherichia coli,2.04e-08
+WP_065227679.1, hydrogenase 2 large subunit,Escherichia coli,2.04e-08
+WP_000083072.1, hydrogenase 2 large subunit,Escherichia coli,2.17e-08
+WP_022373965.1, membrane-bound hydrogenase 1 large subunit,Sutterella sp,2.66e-08
+WP_028257253.1, nickel-dependent hydrogenase large subunit,Veillonella montpellierensis,7.12e-08
+WP_038151484.1, nickel-dependent hydrogenase large subunit,Veillonella montpellierensis,7.31e-08
+WP_016474554.1, nickel-dependent hydrogenase large subunit,Sutterella wadsworthensis,8.42e-08
+WP_060807920.1, nickel-dependent hydrogenase large subunit,Veillonella atypica,9.05e-08
+WP_005376164.1, nickel-dependent hydrogenase large subunit,Veillonella atypica,9.30e-08
+WP_005428751.1, nickel-dependent hydrogenase large subunit,Sutterella wadsworthensis,9.37e-08
+WP_005382642.1, nickel-dependent hydrogenase large subunit,Veillonella atypica,1.01e-07
+WP_156931421.1, hydrogenase 1 large subunit,Veillonella atypica,1.04e-07
+WP_009660818.1, MULTISPECIES: nickel-dependent hydrogenase large subunit,Veillonella atypica,1.24e-07
+WP_119982092.1, nickel-dependent hydrogenase large subunit,Veillonella atypica,1.29e-07
+WP_118794002.1, hydrogenase 2 large subunit,Haemophilus haemolyticus,1.86e-07
+WP_005636013.1, hydrogenase 2 large subunit,Haemophilus haemolyticus,1.88e-07
+WP_118776605.1, hydrogenase 2 large subunit,Haemophilus haemolyticus,1.91e-07
+WP_065245729.1, hydrogenase 2 large subunit,Haemophilus haemolyticus,1.93e-07
+WP_118812853.1, hydrogenase 2 large subunit,Haemophilus haemolyticus,1.95e-07
+WP_114909173.1, hydrogenase 2 large subunit,Haemophilus haemolyticus,1.95e-07
+WP_118816957.1, hydrogenase 2 large subunit,Haemophilus haemolyticus,1.95e-07
+WP_005629303.1, hydrogenase 2 large subunit,Haemophilus haemolyticus,1.95e-07
+WP_118782298.1, hydrogenase 2 large subunit,Haemophilus haemolyticus,1.96e-07
+WP_118861144.1, hydrogenase 2 large subunit,Haemophilus haemolyticus,1.96e-07
+WP_118790472.1, hydrogenase 2 large subunit,Haemophilus haemolyticus,1.96e-07
+WP_118776007.1, hydrogenase 2 large subunit,Haemophilus haemolyticus,1.97e-07
+WP_118806302.1, hydrogenase 2 large subunit,Haemophilus haemolyticus,1.98e-07
+WP_134078294.1, hydrogenase 2 large subunit,Haemophilus haemolyticus,1.98e-07
+WP_005645350.1, hydrogenase 2 large subunit,Haemophilus haemolyticus,1.98e-07
+WP_118808890.1, hydrogenase 2 large subunit,Haemophilus haemolyticus,2.00e-07
+WP_118803550.1, hydrogenase 2 large subunit,Haemophilus haemolyticus,2.02e-07
+WP_118800495.1, hydrogenase 2 large subunit,Haemophilus haemolyticus,2.03e-07
+WP_046939474.1, hydrogenase 2 large subunit,Haemophilus haemolyticus,2.03e-07
+WP_118879142.1, hydrogenase 2 large subunit,Haemophilus haemolyticus,2.05e-07
+WP_118788299.1, hydrogenase 2 large subunit,Haemophilus haemolyticus,2.05e-07
+WP_118845383.1, hydrogenase 2 large subunit,Haemophilus haemolyticus,2.07e-07
+WP_118784732.1, hydrogenase 2 large subunit,Haemophilus haemolyticus,2.07e-07
+WP_118795261.1, hydrogenase 2 large subunit,Haemophilus haemolyticus,2.09e-07
+WP_005638557.1, hydrogenase 2 large subunit,Haemophilus haemolyticus,2.09e-07
+WP_111407380.1, hydrogenase 2 large subunit,Haemophilus haemolyticus,2.11e-07
+WP_009500326.1, MULTISPECIES: hydrogenase 2 large subunit,Haemophilus haemolyticus,2.13e-07
+WP_046952855.1, hydrogenase 2 large subunit,Haemophilus haemolyticus,2.13e-07
+WP_111696900.1, hydrogenase 2 large subunit,Haemophilus haemolyticus,2.13e-07
+WP_046942001.1, hydrogenase 2 large subunit,Haemophilus haemolyticus,2.15e-07
+WP_118855089.1, hydrogenase 2 large subunit,Haemophilus haemolyticus,2.18e-07
+WP_118842031.1, hydrogenase 2 large subunit,Haemophilus haemolyticus,2.18e-07
+WP_046949272.1, hydrogenase 2 large subunit,Haemophilus haemolyticus,2.18e-07
+WP_005641818.1, MULTISPECIES: hydrogenase 2 large subunit,Haemophilus haemolyticus,2.20e-07
+WP_118842857.1, hydrogenase 2 large subunit,Haemophilus haemolyticus,2.39e-07
+WP_118879772.1, hydrogenase 2 large subunit,Haemophilus haemolyticus,3.09e-07
+WP_005436806.1, nickel-dependent hydrogenase large subunit,Sutterella wadsworthensis,3.52e-07
+WP_118275375.1, nickel-dependent hydrogenase large subunit,Sutterella sp,3.63e-07
+WP_062332113.1, nickel-dependent hydrogenase large subunit,Sutterella sp,5.69e-07
+WP_133498738.1, hydrogenase 2 large subunit,Haemophilus haemolyticus,7.50e-07
+WP_005026843.1, hydrogenase 2 large subunit,Bilophila wadsworthia,1.12e-06
+WP_022472928.1, membrane-bound hydrogenase 1 large subunit,Sutterella sp,1.26e-06
+WP_139689078.1, nickel-dependent hydrogenase large subunit,Sutterella sp,1.56e-06
+YP_006119246.1, hydrogenase 1 large subunit,Escherichia coli,1.62e-06
+YP_002411916.1, hydrogenase 1 large subunit,Escherichia coli,1.67e-06
+WP_029435627.1, hydrogenase,Bilophila wadsworthia,1.69e-06
+WP_000107368.1, hydrogenase 2 large subunit,Escherichia coli,1.72e-06
+WP_000107384.1, MULTISPECIES: Ni/Fe-hydrogenase large subunit,Escherichia coli,1.72e-06
+WP_000107391.1, MULTISPECIES: hydrogenase 1 large subunit,Escherichia coli,1.74e-06
+WP_022443385.1, membrane-bound hydrogenase 1 large subunit,Sutterella sp,1.77e-05

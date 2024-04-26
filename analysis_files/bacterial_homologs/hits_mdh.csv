@@ -1,0 +1,15 @@
+ID,Protein,Taxa,BV- Count,BV+ Count,Total Count
+EGG32666.1, L-lactate dehydrogenase,Lactobacillus iners;,145,37,182
+CBL49721.1, L-lactate dehydrogenase,Lactobacillus iners;Lactobacillus crispatus;,7,0,7
+WP_004107125.1, MULTISPECIES: L-lactate dehydrogenase,Gardnerella genomosp8;Gardnerella swidsinskii;Gardnerella genomosp11;Gardnerella vaginalis;Gardnerella genomosp2;Gardnerella genomosp13;Gardnerella genomosp14;Gardnerella genomosp3;Terrabacteria group;Gardnerella leopoldii;Gardnerella genomosp9;Gardnerella genomosp12;Gardnerella genomosp15;Gardnerella genomosp17;Gardnerella piotii;Gardnerella genomosp16;Gardnerella genomosp7;Gardnerella genomosp10;,0,32,32
+WP_004335870.1, malate dehydrogenase,Prevotella disiens;Prevotella buccalis;Prevotella amnii;Alloprevotella rava;Prevotella bivia;Bacteroidales;Prevotella;Prevotella timonensis;Prevotella colorans;,0,5,5
+WP_025071447.1, malate dehydrogenase,Prevotella disiens;Prevotella buccalis;Prevotella amnii;Prevotella bivia;Bacteroidales;Prevotella;Prevotella timonensis;Prevotella bergensis;,0,17,17
+WP_004356035.1, malate dehydrogenase,Prevotella disiens;,0,2,2
+WP_075523440.1, L-lactate dehydrogenase,Gardnerella genomosp12;,0,2,2
+tr|S4ILS5|S4ILS5_GARVA, L-lactate dehydrogenase,Gardnerella genomosp8;Gardnerella swidsinskii;Gardnerella genomosp11;Gardnerella vaginalis;Gardnerella genomosp2;Gardnerella genomosp13;Gardnerella genomosp14;Gardnerella genomosp3;Terrabacteria group;Gardnerella leopoldii;Gardnerella genomosp9;Gardnerella genomosp15;Gardnerella genomosp17;Gardnerella genomosp12;Gardnerella piotii;Gardnerella genomosp16;Gardnerella genomosp7;Gardnerella genomosp10;,0,15,15
+WP_008122447.1, malate dehydrogenase,Prevotella timonensis;,0,2,2
+WP_023057893.1, MULTISPECIES: malate dehydrogenase,Prevotella amnii;Prevotella buccalis;Bacteroidales;Prevotella;Prevotella timonensis;Prevotella bergensis;Unknown;,0,9,9
+WP_008447115.1, malate dehydrogenase,Prevotella amnii;Prevotella buccalis;Prevotella disiens;Prevotella bivia;Bacteroidales;Prevotella;Prevotellaceae;Prevotella timonensis;Prevotella intermedia;Prevotella bergensis;Unknown;,0,3,3
+gene_3098df7f_331aa,L-malate dehydrogenase activity,Bacteroidales;,0,2,2
+EFO72098.1, L-lactate dehydrogenase,Lactobacillus iners;,4,0,4
+WP_007174533.1, hypothetical protein,Prevotella bergensis;,0,1,1

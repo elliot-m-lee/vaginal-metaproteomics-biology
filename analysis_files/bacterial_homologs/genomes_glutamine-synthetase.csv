@@ -1,0 +1,361 @@
+id,protein,taxa,e-value
+WP_019261314.1, type I glutamate--ammonia ligase,Gardnerella genomosp16;Gardnerella genomosp2;Gardnerella vaginalis,0.0
+WP_013399476.1, type I glutamate--ammonia ligase,Gardnerella vaginalis,0.0
+WP_004112221.1, type I glutamate--ammonia ligase,Gardnerella genomosp14;Gardnerella genomosp15;Gardnerella genomosp2;Gardnerella genomosp3;Gardnerella vaginalis,0.0
+WP_080560296.1, type I glutamate--ammonia ligase,Gardnerella vaginalis,0.0
+WP_004130018.1, type I glutamate--ammonia ligase,Gardnerella genomosp3,0.0
+WP_075038499.1, type I glutamate--ammonia ligase,Gardnerella vaginalis,0.0
+WP_102990829.1, type I glutamate--ammonia ligase,Gardnerella vaginalis,0.0
+WP_016636403.1, type I glutamate--ammonia ligase,Gardnerella genomosp17;Gardnerella genomosp3;Gardnerella piotii,0.0
+WP_016819218.1, type I glutamate--ammonia ligase,Gardnerella genomosp15;Gardnerella genomosp2;Gardnerella piotii,0.0
+tr|I4LTR5|I4LTR5_GARVA, Glutamine synthetase,Gardnerella genomosp2,0.0
+WP_060787177.1, type I glutamate--ammonia ligase,Gardnerella genomosp11,0.0
+tr|I4MA41|I4MA41_GARVA, Glutamine synthetase,Gardnerella genomosp3;Gardnerella piotii,0.0
+WP_101887897.1, type I glutamate--ammonia ligase,Gardnerella vaginalis,0.0
+WP_016637736.1, type I glutamate--ammonia ligase,Gardnerella genomosp7,0.0
+tr|I4M2G2|I4M2G2_GARVA, Glutamine synthetase,Gardnerella genomosp10;Gardnerella genomosp8;Gardnerella genomosp9,0.0
+WP_004109385.1, MULTISPECIES: type I glutamate--ammonia ligase,Gardnerella swidsinskii,0.0
+WP_012914420.1, type I glutamate--ammonia ligase,Gardnerella swidsinskii,0.0
+WP_116794235.1, type I glutamate--ammonia ligase,Gardnerella genomosp9,0.0
+WP_102694544.1, type I glutamate--ammonia ligase,Gardnerella genomosp8,0.0
+WP_004107300.1, MULTISPECIES: type I glutamate--ammonia ligase,Gardnerella leopoldii;Gardnerella swidsinskii,0.0
+WP_103084846.1, type I glutamate--ammonia ligase,Gardnerella genomosp13,0.0
+WP_075523568.1, type I glutamate--ammonia ligase,Gardnerella genomosp12,0.0
+WP_003839859.1, MULTISPECIES: type I glutamate--ammonia ligase,Bifidobacterium dentium,0.0
+RFT37878.1," type I glutamate--ammonia ligase, partial",Gardnerella vaginalis,0.0
+RFT29742.1," type I glutamate--ammonia ligase, partial",Gardnerella vaginalis,0.0
+WP_048707391.1, MULTISPECIES: type I glutamate--ammonia ligase,Arcanobacterium haemolyticum,0.0
+WP_053962486.1, type I glutamate--ammonia ligase,Lawsonella clevelandensis,0.0
+WP_009399697.1, type I glutamate--ammonia ligase,Actinomyces hongkongensis,0.0
+WP_113722742.1, type I glutamate--ammonia ligase,Arcanobacterium haemolyticum,0.0
+WP_013169962.1, type I glutamate--ammonia ligase,Arcanobacterium haemolyticum,0.0
+WP_058236663.1, type I glutamate--ammonia ligase,Actinomyces ihumii,0.0
+WP_070727148.1, MULTISPECIES: type I glutamate--ammonia ligase,Actinomyces radingae,0.0
+WP_004012314.1, type I glutamate--ammonia ligase,Mobiluncus mulieris,0.0
+WP_114990592.1, type I glutamate--ammonia ligase,Mobiluncus mulieris,0.0
+WP_004006868.1, MULTISPECIES: type I glutamate--ammonia ligase,Mobiluncus curtisii;Mobiluncus holmesii,0.0
+WP_036368053.1, type I glutamate--ammonia ligase,Mobiluncus curtisii,0.0
+WP_154545966.1, type I glutamate--ammonia ligase,Mobiluncus holmesii,0.0
+WP_005436222.1, type I glutamate--ammonia ligase,Sutterella wadsworthensis,1.68e-176
+WP_062331745.1, type I glutamate--ammonia ligase,Sutterella sp,1.95e-176
+WP_118274776.1, type I glutamate--ammonia ligase,Sutterella sp,2.04e-175
+WP_022443828.1, glutamine synthetase,Sutterella sp,2.12e-172
+WP_005431748.1, type I glutamate--ammonia ligase,Sutterella wadsworthensis,2.25e-169
+WP_139688624.1, type I glutamate--ammonia ligase,Sutterella sp,1.96e-167
+WP_001271717.1, MULTISPECIES: glutamate--ammonia ligase,Escherichia coli,2.78e-167
+WP_001450751.1, MULTISPECIES: glutamate--ammonia ligase,Escherichia coli,4.20e-167
+WP_022473648.1, glutamine synthetase,Sutterella sp,4.73e-166
+WP_022373278.1, glutamine synthetase,Sutterella sp,1.12e-163
+WP_111407961.1, glutamate--ammonia ligase,Haemophilus haemolyticus,2.17e-163
+WP_118785408.1, glutamate--ammonia ligase,Haemophilus haemolyticus,2.54e-162
+WP_118781697.1, glutamate--ammonia ligase,Haemophilus haemolyticus,4.29e-162
+WP_118805822.1, glutamate--ammonia ligase,Haemophilus haemolyticus,8.07e-162
+WP_118802764.1, glutamate--ammonia ligase,Haemophilus haemolyticus,8.25e-162
+WP_111696376.1, glutamate--ammonia ligase,Haemophilus haemolyticus,2.27e-161
+WP_005638917.1, glutamine synthetase,Haemophilus haemolyticus,3.15e-161
+WP_005639699.1, MULTISPECIES: type I glutamate--ammonia ligase,Haemophilus haemolyticus,3.70e-161
+WP_118861701.1, glutamate--ammonia ligase,Haemophilus haemolyticus,6.54e-161
+WP_118776994.1, glutamate--ammonia ligase,Haemophilus haemolyticus,6.98e-161
+WP_046949911.1, glutamate--ammonia ligase,Haemophilus haemolyticus,7.61e-161
+WP_118800767.1, glutamate--ammonia ligase,Haemophilus haemolyticus,9.26e-161
+WP_046938973.1, glutamate--ammonia ligase,Haemophilus haemolyticus,9.47e-161
+WP_118775533.1, glutamate--ammonia ligase,Haemophilus haemolyticus,1.06e-160
+WP_118868069.1, glutamate--ammonia ligase,Haemophilus haemolyticus,1.30e-160
+WP_118843056.1, glutamate--ammonia ligase,Haemophilus haemolyticus,1.42e-160
+WP_065245910.1, glutamate--ammonia ligase,Haemophilus haemolyticus,1.82e-160
+WP_118795856.1, glutamate--ammonia ligase,Haemophilus haemolyticus,2.18e-160
+WP_118878480.1, glutamate--ammonia ligase,Haemophilus haemolyticus,2.19e-160
+WP_005645646.1, glutamate--ammonia ligase,Haemophilus haemolyticus,2.34e-160
+WP_118817280.1, glutamate--ammonia ligase,Haemophilus haemolyticus,2.72e-160
+WP_118859452.1, glutamate--ammonia ligase,Haemophilus haemolyticus,3.69e-160
+WP_114891091.1, glutamate--ammonia ligase,Haemophilus haemolyticus,4.59e-160
+WP_114909496.1, type I glutamate--ammonia ligase,Haemophilus haemolyticus,5.41e-160
+WP_118845844.1, glutamate--ammonia ligase,Haemophilus haemolyticus,5.77e-160
+WP_005634378.1, glutamate--ammonia ligase,Haemophilus haemolyticus,5.95e-160
+WP_046942280.1, glutamate--ammonia ligase,Haemophilus haemolyticus,5.97e-160
+WP_118815836.1, glutamate--ammonia ligase,Haemophilus haemolyticus,8.36e-160
+WP_046952650.1, type I glutamate--ammonia ligase,Haemophilus haemolyticus,8.64e-160
+WP_118813257.1, glutamate--ammonia ligase,Haemophilus haemolyticus,9.53e-160
+WP_005631090.1, glutamate--ammonia ligase,Haemophilus haemolyticus,9.53e-160
+WP_134079039.1, glutamate--ammonia ligase,Haemophilus haemolyticus,1.20e-159
+WP_118808736.1, type I glutamate--ammonia ligase,Haemophilus haemolyticus,1.37e-159
+WP_114892376.1, type I glutamate--ammonia ligase,Haemophilus haemolyticus,1.54e-159
+WP_133498376.1, type I glutamate--ammonia ligase,Haemophilus haemolyticus,2.38e-159
+WP_005626791.1, type I glutamate--ammonia ligase,Haemophilus haemolyticus,2.41e-159
+WP_118855412.1, type I glutamate--ammonia ligase,Haemophilus haemolyticus,4.67e-159
+WP_118790584.1, glutamate--ammonia ligase,Haemophilus haemolyticus,7.38e-159
+WP_050333831.1, type I glutamate--ammonia ligase,Campylobacter ureolyticus,3.95e-134
+WP_018712372.1, type I glutamate--ammonia ligase,Campylobacter ureolyticus,6.51e-134
+WP_016645962.1, type I glutamate--ammonia ligase,Campylobacter ureolyticus,9.01e-134
+WP_024961602.1, type I glutamate--ammonia ligase,Campylobacter ureolyticus,2.34e-133
+WP_101636475.1, type I glutamate--ammonia ligase,Campylobacter ureolyticus,3.46e-133
+WP_087315358.1, type I glutamate--ammonia ligase,Eubacterium sp,2.82e-129
+WP_050638714.1, MULTISPECIES: type I glutamate--ammonia ligase,Eubacterium sp,3.08e-129
+WP_087275998.1, type I glutamate--ammonia ligase,Eubacterium sp,3.99e-129
+WP_022248690.1, glutamine synthetase,Eubacterium sp,8.33e-96
+WP_021983529.1, glutamine synthetase type I,Eubacterium sp,1.70e-93
+WP_022260337.1, glutamine synthetase,Eubacterium sp,2.94e-93
+WP_066128880.1, type I glutamate--ammonia ligase,Gemella asaccharolytica,2.06e-91
+WP_021972974.1, glutamine synthetase,Eubacterium sp,1.95e-90
+WP_022501329.1, glutamine synthetase,Eubacterium sp,5.48e-90
+WP_060913691.1, type I glutamate--ammonia ligase,Gemella haemolysans,1.17e-88
+WP_022431460.1, glutamine synthetase,Eubacterium sp,5.47e-88
+WP_004264335.1, type I glutamate--ammonia ligase,Gemella haemolysans,9.12e-88
+WP_003146881.1, type I glutamate--ammonia ligase,Gemella haemolysans,4.71e-87
+WP_087316285.1, type I glutamate--ammonia ligase,Eubacterium sp,5.28e-87
+WP_022204468.1, glutamine synthetase,Eubacterium sp,5.33e-87
+WP_022206252.1, glutamine synthetase,Eubacterium sp,1.40e-86
+WP_102169474.1, type I glutamate--ammonia ligase,Gardnerella genomosp18,3.55e-86
+WP_003717310.1, MULTISPECIES: type I glutamate--ammonia ligase,Lactobacillus vaginalis,9.51e-86
+WP_016213748.1, type I glutamate--ammonia ligase,Eubacterium sp,1.01e-85
+WP_087282577.1, type I glutamate--ammonia ligase,Eubacterium sp,1.27e-85
+WP_117915799.1, MULTISPECIES: type I glutamate--ammonia ligase,Eubacterium sp,2.87e-85
+WP_000156225.1, MULTISPECIES: type I glutamate--ammonia ligase,Streptococcus agalactiae,5.37e-85
+WP_000156219.1, type I glutamate--ammonia ligase,Streptococcus agalactiae,6.88e-85
+WP_000156227.1, MULTISPECIES: type I glutamate--ammonia ligase,Streptococcus agalactiae,7.65e-85
+WP_129544843.1, type I glutamate--ammonia ligase,Streptococcus agalactiae,1.03e-84
+WP_119212572.1, type I glutamate--ammonia ligase,Eubacterium sp,1.43e-84
+WP_044929210.1, type I glutamate--ammonia ligase ,Clostridium leptum,1.86e-84
+WP_000156223.1, MULTISPECIES: type I glutamate--ammonia ligase,Streptococcus agalactiae,2.43e-84
+WP_021907380.1, glutamine synthetase type I,Eubacterium sp,8.32e-84
+WP_153710316.1, type I glutamate--ammonia ligase,Lactobacillus reuteri,9.83e-84
+WP_060776448.1, type I glutamate--ammonia ligase,Aerococcus christensenii,1.25e-83
+WP_022089733.1, glutamine synthetase type I,Eubacterium sp,1.55e-83
+WP_003094158.1, type I glutamate--ammonia ligase,Streptococcus salivarius,2.31e-83
+WP_002889319.1, MULTISPECIES: type I glutamate--ammonia ligase,Streptococcus salivarius,2.52e-83
+WP_101659425.1, type I glutamate--ammonia ligase,Aerococcus christensenii,2.80e-83
+WP_060933691.1, type I glutamate--ammonia ligase,Streptococcus salivarius,3.44e-83
+WP_060936506.1, type I glutamate--ammonia ligase,Aerococcus christensenii,3.54e-83
+WP_117908717.1, MULTISPECIES: glutamine synthetase,Eubacterium sp,4.68e-83
+WP_049494147.1, type I glutamate--ammonia ligase,Streptococcus pseudopneumoniae,5.79e-83
+WP_049513221.1, type I glutamate--ammonia ligase,Streptococcus anginosus,8.60e-83
+WP_073950973.1, type I glutamate--ammonia ligase,Streptococcus salivarius,8.72e-83
+WP_049508282.1, type I glutamate--ammonia ligase,Streptococcus pseudopneumoniae,9.88e-83
+WP_021867083.1, glutamine synthetase,Eubacterium sp,1.03e-82
+WP_078352874.1, type I glutamate--ammonia ligase,Streptococcus mitis,1.21e-82
+WP_119005815.1, type I glutamate--ammonia ligase,Streptococcus anginosus,1.26e-82
+WP_049545347.1, type I glutamate--ammonia ligase,Streptococcus salivarius,1.34e-82
+WP_049517019.1, type I glutamate--ammonia ligase,Streptococcus anginosus,1.38e-82
+WP_045763630.1, MULTISPECIES: type I glutamate--ammonia ligase,Streptococcus pseudopneumoniae,1.56e-82
+WP_003039195.1, type I glutamate--ammonia ligase,Streptococcus anginosus,1.60e-82
+WP_117645224.1, type I glutamate--ammonia ligase,Streptococcus anginosus,1.69e-82
+WP_003027006.1, MULTISPECIES: type I glutamate--ammonia ligase,Streptococcus anginosus,1.72e-82
+WP_022525292.1, MULTISPECIES: type I glutamate--ammonia ligase,Streptococcus anginosus,1.80e-82
+WP_025272015.1, type I glutamate--ammonia ligase,Streptococcus anginosus,2.00e-82
+WP_049531738.1, type I glutamate--ammonia ligase,Streptococcus pseudopneumoniae,2.20e-82
+WP_024053132.1, MULTISPECIES: type I glutamate--ammonia ligase,Streptococcus anginosus,2.32e-82
+WP_003033463.1, type I glutamate--ammonia ligase,Streptococcus anginosus,2.35e-82
+WP_002884322.1, MULTISPECIES: type I glutamate--ammonia ligase,Streptococcus salivarius,2.95e-82
+WP_106079126.1, MULTISPECIES: type I glutamate--ammonia ligase,Streptococcus anginosus,3.07e-82
+WP_001122890.1, MULTISPECIES: type I glutamate--ammonia ligase,Streptococcus mitis,3.80e-82
+WP_049515973.1, MULTISPECIES: type I glutamate--ammonia ligase,Streptococcus mitis,4.42e-82
+YP_003445488.1, glutamine synthetase type 1,Streptococcus mitis,4.92e-82
+WP_037602734.1, type I glutamate--ammonia ligase,Streptococcus salivarius,4.94e-82
+WP_042900350.1, type I glutamate--ammonia ligase,Streptococcus mitis,5.19e-82
+WP_049548707.1, type I glutamate--ammonia ligase,Streptococcus pseudopneumoniae,5.36e-82
+WP_106083507.1, type I glutamate--ammonia ligase,Streptococcus anginosus,5.65e-82
+WP_033681329.1, MULTISPECIES: type I glutamate--ammonia ligase,Streptococcus mitis;Streptococcus pseudopneumoniae,7.38e-82
+WP_079252958.1, type I glutamate--ammonia ligase,Streptococcus pseudopneumoniae,7.62e-82
+WP_004255939.1, MULTISPECIES: type I glutamate--ammonia ligase,Streptococcus mitis;Streptococcus pseudopneumoniae,1.36e-81
+WP_001122889.1, type I glutamate--ammonia ligase,Streptococcus mitis,1.49e-81
+WP_049551955.1, MULTISPECIES: type I glutamate--ammonia ligase,Streptococcus pseudopneumoniae,1.89e-81
+WP_033688143.1, type I glutamate--ammonia ligase,Streptococcus mitis,1.97e-81
+WP_001122881.1, type I glutamate--ammonia ligase,Streptococcus mitis,1.97e-81
+WP_001122887.1, type I glutamate--ammonia ligase,Streptococcus mitis,2.08e-81
+WP_001122886.1, MULTISPECIES: type I glutamate--ammonia ligase,Streptococcus mitis;Streptococcus pseudopneumoniae,2.27e-81
+WP_003032299.1, MULTISPECIES: type I glutamate--ammonia ligase,Streptococcus anginosus,2.58e-81
+WP_001122885.1, MULTISPECIES: type I glutamate--ammonia ligase,Streptococcus mitis;Streptococcus pseudopneumoniae,2.61e-81
+WP_049530140.1, type I glutamate--ammonia ligase,Streptococcus pseudopneumoniae,2.63e-81
+WP_049501990.1, type I glutamate--ammonia ligase,Streptococcus mitis,2.69e-81
+WP_001122904.1, MULTISPECIES: type I glutamate--ammonia ligase,Haemophilus haemolyticus,2.72e-81
+WP_001122877.1, type I glutamate--ammonia ligase,Streptococcus mitis,2.75e-81
+WP_153703948.1, type I glutamate--ammonia ligase,Lactobacillus reuteri,2.76e-81
+WP_001122897.1, MULTISPECIES: type I glutamate--ammonia ligase,Streptococcus pseudopneumoniae,2.90e-81
+WP_134989198.1, type I glutamate--ammonia ligase,Lactobacillus reuteri,2.94e-81
+WP_001122884.1, MULTISPECIES: type I glutamate--ammonia ligase,Streptococcus mitis,3.00e-81
+WP_033676218.1, MULTISPECIES: type I glutamate--ammonia ligase,Streptococcus mitis;Streptococcus pseudopneumoniae,3.30e-81
+WP_003664037.1, type I glutamate--ammonia ligase,Lactobacillus reuteri,3.31e-81
+WP_036754804.1, type I glutamate--ammonia ligase,Peptoniphilus lacrimalis,3.44e-81
+WP_119947192.1, type I glutamate--ammonia ligase,Streptococcus pseudopneumoniae,4.64e-81
+WP_001122891.1, type I glutamate--ammonia ligase,Streptococcus pseudopneumoniae,4.79e-81
+WP_049540996.1, type I glutamate--ammonia ligase,Streptococcus pseudopneumoniae,5.39e-81
+WP_122481776.1, type I glutamate--ammonia ligase,Lactobacillus reuteri,5.42e-81
+WP_019252486.1, type I glutamate--ammonia ligase,Lactobacillus reuteri,5.47e-81
+WP_153702953.1, type I glutamate--ammonia ligase,Lactobacillus reuteri,5.65e-81
+WP_050261078.1, type I glutamate--ammonia ligase,Streptococcus pseudopneumoniae,6.54e-81
+WP_019253075.1, type I glutamate--ammonia ligase,Lactobacillus reuteri,7.23e-81
+WP_023937101.1, type I glutamate--ammonia ligase,Streptococcus pseudopneumoniae,7.35e-81
+WP_138702890.1, type I glutamate--ammonia ligase,Streptococcus pseudopneumoniae,7.67e-81
+WP_023940866.1, type I glutamate--ammonia ligase,Streptococcus pseudopneumoniae,7.84e-81
+WP_054393253.1, type I glutamate--ammonia ligase,Streptococcus pseudopneumoniae,8.01e-81
+WP_006916597.1, type I glutamate--ammonia ligase,Lactobacillus coleohominis,8.07e-81
+WP_138707598.1, type I glutamate--ammonia ligase,Streptococcus pseudopneumoniae,9.50e-81
+WP_001122878.1, MULTISPECIES: type I glutamate--ammonia ligase,Streptococcus mitis,9.50e-81
+WP_022165746.1, glutamine synthetase type I,Eubacterium sp,9.60e-81
+WP_001122892.1, type I glutamate--ammonia ligase,Streptococcus pseudopneumoniae,9.92e-81
+WP_142558397.1, type I glutamate--ammonia ligase,Streptococcus mitis,9.92e-81
+WP_035169282.1, type I glutamate--ammonia ligase,Lactobacillus reuteri,1.07e-80
+WP_003672486.1, type I glutamate--ammonia ligase,Lactobacillus reuteri,1.89e-80
+WP_153705977.1, type I glutamate--ammonia ligase,Lactobacillus reuteri,2.02e-80
+WP_003668435.1, MULTISPECIES: type I glutamate--ammonia ligase,Lactobacillus reuteri,2.17e-80
+WP_003675693.1, type I glutamate--ammonia ligase,Lactobacillus reuteri,2.29e-80
+WP_152743084.1, type I glutamate--ammonia ligase,Lactobacillus reuteri,2.37e-80
+WP_085678808.1, type I glutamate--ammonia ligase,Lactobacillus reuteri,2.78e-80
+WP_006587159.1, MULTISPECIES: type I glutamate--ammonia ligase,Lactobacillus jensenii,6.73e-80
+WP_048595839.1, type I glutamate--ammonia ligase,Lactobacillus jensenii,1.01e-79
+WP_144226754.1, type I glutamate--ammonia ligase,Lactobacillus reuteri,1.20e-79
+WP_119948148.1, type I glutamate--ammonia ligase,Streptococcus pseudopneumoniae,1.89e-79
+WP_006584466.1, type I glutamate--ammonia ligase,Lactobacillus jensenii,2.37e-79
+WP_151143463.1, type I glutamate--ammonia ligase,Lactobacillus jensenii,3.00e-79
+WP_021952475.1, glutamine synthetase type I,Eubacterium sp,6.90e-79
+WP_050641673.1, MULTISPECIES: glutamine synthetase,Eubacterium sp,2.43e-78
+WP_315567982.1,type I glutamate--ammonia ligase,Amygdalobacter indicium,1.21e-75
+WP_006916598.1, type I glutamate--ammonia ligase,Lactobacillus coleohominis,2.95e-75
+EGG33004.1," glutamine synthetase, type I",Lactobacillus iners,3.55e-75
+KWU04044.1, glutamine synthetase,Lactobacillus crispatus,5.09e-75
+KAA8780967.1, type I glutamate--ammonia ligase,Lactobacillus crispatus,1.68e-74
+CBL50898.1, Glutamine synthetase,Lactobacillus crispatus,1.77e-74
+KAA8796410.1," type I glutamate--ammonia ligase, partial",Lactobacillus crispatus,4.33e-74
+EFQ44615.1," glutamine synthetase, type I, partial",Lactobacillus crispatus,1.61e-73
+WP_315573572.1,type I glutamate--ammonia ligase,Amygdalobacter nucleatus,3.38e-73
+WP_103084777.1, type I glutamate--ammonia ligase,Gardnerella genomosp13,1.46e-69
+tr|I4M2D7|I4M2D7_GARVA, Glutamine synthetase,Gardnerella genomosp10;Gardnerella genomosp8;Gardnerella genomosp9,1.77e-69
+WP_004107357.1, MULTISPECIES: type I glutamate--ammonia ligase,Gardnerella leopoldii;Gardnerella swidsinskii,1.95e-69
+WP_032814736.1, type I glutamate--ammonia ligase,Gardnerella genomosp7,2.14e-69
+WP_075523085.1, type I glutamate--ammonia ligase,Gardnerella genomosp12,2.16e-69
+WP_116794216.1, type I glutamate--ammonia ligase,Gardnerella genomosp9,3.68e-69
+WP_060787322.1, type I glutamate--ammonia ligase,Gardnerella genomosp11,7.25e-69
+WP_004130324.1, type I glutamate--ammonia ligase,Gardnerella genomosp15;Gardnerella genomosp17;Gardnerella genomosp3;Gardnerella piotii,1.96e-68
+WP_004112411.1, type I glutamate--ammonia ligase,Gardnerella genomosp14;Gardnerella genomosp16;Gardnerella genomosp2;Gardnerella vaginalis,2.64e-68
+tr|F5LUS3|F5LUS3_GARVA," Glutamine synthetase, type I",Gardnerella vaginalis,2.71e-68
+tr|S4I2W5|S4I2W5_GARVA," Glutamine synthetase, type I",Gardnerella genomosp2,3.10e-68
+WP_003839401.1, MULTISPECIES: type I glutamate--ammonia ligase,Bifidobacterium dentium,3.10e-68
+tr|S4GUR8|S4GUR8_GARVA," Glutamine synthetase, type I",Gardnerella genomosp3;Gardnerella piotii,3.33e-68
+tr|S4H834|S4H834_GARVA," Glutamine synthetase, type I",Gardnerella vaginalis,3.71e-68
+WP_006303738.1, glutamine synthetase,Fannyhessea vaginae,3.33e-64
+WP_090413920.1, MULTISPECIES: type I glutamate--ammonia ligase,Eubacterium sp,1.39e-63
+WP_006303093.1, glutamine synthetase,Fannyhessea vaginae,1.65e-63
+WP_118517175.1, glutamine synthetase,Eubacterium sp,6.76e-62
+WP_053962473.1, type I glutamate--ammonia ligase,Lawsonella clevelandensis,5.91e-61
+WP_009400048.1, glutamine synthetase,Actinomyces hongkongensis,6.40e-61
+WP_117755858.1, glutamine synthetase ,Clostridium leptum,2.35e-60
+WP_003528609.1, glutamine synthetase ,Clostridium leptum,6.31e-60
+WP_117819209.1, glutamine synthetase ,Clostridium leptum,6.79e-60
+WP_154542718.1, glutamine synthetase,Mobiluncus holmesii,3.69e-59
+WP_004010727.1, glutamine synthetase,Mobiluncus holmesii,1.35e-58
+WP_058236604.1, glutamine synthetase,Actinomyces ihumii,1.86e-58
+WP_004009474.1, glutamine synthetase,Mobiluncus curtisii,1.87e-58
+WP_004805449.1, MULTISPECIES: glutamine synthetase,Arcanobacterium haemolyticum,3.27e-58
+WP_070726621.1, MULTISPECIES: glutamine synthetase,Actinomyces radingae,3.75e-58
+WP_013189490.1, glutamine synthetase,Mobiluncus curtisii,4.03e-58
+WP_004006909.1, glutamine synthetase,Mobiluncus curtisii,4.34e-58
+KXB53862.1," glutamine synthetase, beta-grasp domain protein",Eggerthella like,2.39e-57
+WP_066779473.1, glutamine synthetase,TM7 H1,4.22e-57
+WP_013169959.1, glutamine synthetase,Arcanobacterium haemolyticum,4.43e-57
+WP_004012529.1, glutamine synthetase,Mobiluncus mulieris,2.09e-56
+WP_022416991.1, glutamate--ammonia ligase,Eubacterium sp,2.93e-54
+WP_002564055.1, MULTISPECIES: glutamine synthetase,Atopobium minutum,4.99e-54
+RFT30808.1," glutamine synthetase, partial",Gardnerella vaginalis,5.84e-54
+WP_033125597.1, glutamine synthetase,Eubacterium sp,7.34e-51
+WP_117992679.1, glutamine synthetase,Eubacterium sp,1.04e-48
+WP_118114259.1, glutamine synthetase,Eubacterium sp,1.70e-48
+WP_117923636.1, glutamine synthetase,Eubacterium sp,1.60e-47
+WP_117571920.1, glutamine synthetase,Eubacterium sp,7.28e-47
+WP_016216339.1, glutamine synthetase,Eubacterium sp,4.66e-46
+WP_036856447.1, glutamine synthetase,Prevotella amnii,3.48e-36
+WP_008451126.1, glutamine synthetase,Prevotella amnii,3.62e-36
+WP_009743348.1, glutamine synthetase,Actinomyces hongkongensis,3.71e-36
+WP_019036300.1, glutamine synthetase,Prevotella amnii,4.78e-36
+WP_060385748.1, glutamine synthetase,Bacteroides stercoris,5.10e-35
+WP_117740682.1, glutamine synthetase,Bacteroides stercoris,5.63e-35
+WP_060932657.1, glutamine synthetase,Prevotella amnii,6.42e-35
+WP_151878311.1, glutamine synthetase,Bacteroides stercoris,6.79e-35
+WP_005654398.1, glutamine synthetase,Bacteroides stercoris,7.50e-35
+WP_117666512.1, glutamine synthetase,Bacteroides stercoris,7.80e-35
+WP_117907378.1, glutamine synthetase,Bacteroides stercoris,8.78e-35
+WP_151870972.1, glutamine synthetase,Bacteroides stercoris,1.08e-34
+WP_117956031.1, glutamine synthetase,Bacteroides stercoris,1.09e-34
+WP_036885954.1, glutamine synthetase,Prevotella bivia,1.50e-34
+WP_036861801.1, glutamine synthetase,Prevotella bivia,1.57e-34
+WP_004338783.1, glutamine synthetase,Prevotella bivia,1.70e-34
+WP_117903728.1, glutamine synthetase,Bacteroides stercoris,2.86e-34
+WP_048696432.1, glutamine synthetase,Bacteroides thetaiotaomicron,4.16e-34
+WP_008765644.1, glutamine synthetase,Bacteroides thetaiotaomicron,5.92e-34
+WP_117917521.1, glutamine synthetase,Bacteroides stercoris,8.77e-34
+WP_113748490.1, glutamine synthetase,Bacteroides thetaiotaomicron,1.71e-33
+WP_132060411.1, glutamine synthetase,Bacteroides thetaiotaomicron,1.83e-33
+WP_151209192.1, glutamine synthetase,Bacteroides thetaiotaomicron,2.00e-33
+WP_090614063.1, glutamine synthetase,Bacteroides thetaiotaomicron,2.23e-33
+WP_143919683.1, glutamine synthetase,Bacteroides thetaiotaomicron,2.29e-33
+WP_055217978.1, MULTISPECIES: glutamine synthetase,Bacteroides thetaiotaomicron,2.76e-33
+WP_004290130.1, MULTISPECIES: glutamine synthetase,Bacteroides stercoris,3.20e-33
+WP_055298416.1, glutamine synthetase,Bacteroides thetaiotaomicron,4.33e-33
+WP_010538104.1, glutamine synthetase,Bacteroides faecis,5.02e-33
+WP_072067723.1, glutamine synthetase,Bacteroides thetaiotaomicron,5.54e-33
+WP_055268757.1, MULTISPECIES: glutamine synthetase,Bacteroides faecis;Bacteroides thetaiotaomicron,6.67e-33
+WP_070750803.1, MULTISPECIES: glutamine synthetase,Bacteroides faecis,6.80e-33
+WP_074855600.1, glutamine synthetase,Bacteroides thetaiotaomicron,1.64e-32
+WP_009121258.1, MULTISPECIES: glutamine synthetase,Bacteroides stercoris,1.74e-32
+WP_036884358.1, glutamine synthetase,Prevotella disiens,2.78e-32
+WP_117654208.1, glutamine synthetase,Prevotella disiens,3.09e-32
+WP_118323543.1, MULTISPECIES: glutamine synthetase,Bacteroides stercoris,3.31e-32
+WP_004358368.1, glutamine synthetase,Prevotella disiens,3.99e-32
+WP_021669951.1, glutamine synthetase,Prevotella disiens,4.52e-32
+WP_044115583.1, glutamine synthetase,Porphyromonas sp,5.38e-32
+WP_008121894.1, glutamine synthetase,Prevotella timonensis,1.77e-31
+WP_036927001.1, glutamine synthetase,Prevotella timonensis,2.51e-31
+WP_102696952.1, glutamine synthetase,Prevotella buccalis,2.51e-31
+WP_025072319.1, glutamine synthetase,Prevotella timonensis,2.60e-31
+WP_102188157.1, glutamine synthetase,Prevotella timonensis,5.39e-31
+WP_004348273.1, glutamine synthetase,Prevotella buccalis,6.94e-31
+WP_103003400.1, glutamine synthetase,Prevotella timonensis,2.03e-30
+WP_021668027.1, glutamine synthetase,Porphyromonas sp,2.05e-30
+WP_009433690.1, glutamine synthetase,Porphyromonas sp,2.30e-30
+WP_054960484.1," glutamine synthetase, partial",Bacteroides thetaiotaomicron,4.72e-30
+WP_075713936.1, glutamine synthetase,Eubacterium sp,1.80e-23
+WP_095630163.1, MULTISPECIES: glutamine synthetase,Megasphaera lornae,2.95e-22
+WP_101912080.1, glutamine synthetase,Megasphaera lornae,4.09e-22
+WP_023053003.1, glutamine synthetase catalytic domain protein,Megasphaera lornae,4.17e-22
+WP_087477088.1, glutamine synthetase,Megasphaera lornae,4.78e-22
+WP_006941591.1, glutamine synthetase,Megasphaera micronuciformis,8.85e-22
+OWY45091.1, glutamine synthetase/guanido kinase,Alternaria alternata,1.04e-21
+RYN63977.1, hypothetical protein AA0117_g12580,Alternaria alternata,1.89e-21
+OAG25106.1, glutamine synthetase/guanido kinase,Alternaria alternata,4.17e-21
+WP_068720037.1, glutamine synthetase,Dialister sp,4.49e-21
+WP_027869522.1, glutamine synthetase,Eubacterium sp,5.57e-21
+WP_062412324.1, MULTISPECIES: glutamine synthetase,Megasphaera lornae,6.17e-20
+WP_020310698.1, MULTISPECIES: glutamine synthetase,Megasphaera lornae,6.57e-20
+WP_044503976.1, MULTISPECIES: glutamine synthetase,Megasphaera lornae,7.80e-20
+WP_001401304.1, glutamine synthetase,Escherichia coli,2.49e-19
+WP_001397123.1, glutamine synthetase,Escherichia coli,3.18e-19
+WP_001298814.1, MULTISPECIES: glutamine synthetase,Escherichia coli,3.27e-19
+WP_007390669.1, MULTISPECIES: glutamine synthetase,Megasphaera lornae,3.50e-19
+WP_001369541.1, glutamine synthetase,Escherichia coli,3.86e-19
+WP_065226707.1, glutamine synthetase,Escherichia coli,5.36e-19
+WP_118022145.1, glutamine synthetase,Megasphaera lornae,5.48e-19
+WP_001296746.1, MULTISPECIES: glutamine synthetase,Escherichia coli,5.93e-19
+WP_059077467.1, glutamine synthetase,Megasphaera lornae,8.43e-19
+WP_154537275.1, glutamine synthetase,Peptostreptococcus anaerobius,1.16e-18
+WP_001310275.1, glutamine synthetase,Escherichia coli,2.03e-18
+YP_002407648.1, gamma-Glu-putrescine synthase,Escherichia coli,3.01e-18
+WP_007788163.1, glutamine synthetase,Peptostreptococcus stomatis,7.91e-18
+WP_156931219.1, glutamine synthetase,Veillonella atypica,2.08e-17
+WP_005378861.1, MULTISPECIES: glutamine synthetase,Veillonella atypica,2.15e-17
+WP_016475559.1, MULTISPECIES: hypothetical protein,Veillonella atypica,3.28e-17
+WP_005379768.1, glutamine synthetase,Veillonella atypica,3.81e-17
+WP_007554259.1, glutamine synthetase,Dialister micraerophilus,7.54e-17
+WP_007556423.1, glutamine synthetase,Dialister micraerophilus,8.62e-17
+WP_105084329.1, MULTISPECIES: glutamine synthetase,Veillonella atypica,1.07e-16
+WP_060916865.1, glutamine synthetase,Peptostreptococcus anaerobius,1.95e-16
+WP_007392188.1, glutamine synthetase,Megasphaera hutchinsoni,2.37e-16
+WP_038151565.1, glutamine synthetase,Veillonella montpellierensis,3.41e-16
+WP_028257672.1, glutamine synthetase,Veillonella montpellierensis,3.51e-16
+WP_002844093.1, glutamine synthetase,Peptostreptococcus anaerobius,5.23e-16
+WP_002846060.1, glutamate--ammonia ligase catalytic domain protein,Peptostreptococcus anaerobius,5.47e-16
+WP_021935282.1, glutamate--ammonia ligase,Peptostreptococcus anaerobius,5.77e-16
+WP_065467121.1, glutamine synthetase,Bifidobacterium dentium,3.72e-15
+RYN84200.1, hypothetical protein AA0117_g912,Alternaria alternata,1.01e-08
+OWY58144.1, hypothetical protein AALT_g5295,Alternaria alternata,1.38e-08
+RFT30807.1," glutamine synthetase, partial",Gardnerella vaginalis,2.38e-06
+OAG24206.1, hypothetical protein CC77DRAFT_505636,Alternaria alternata,2.94e-06
+OAG17675.1, protein fluG,Alternaria alternata,3.78e-06
