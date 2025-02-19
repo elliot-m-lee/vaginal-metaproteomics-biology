@@ -1,0 +1,258 @@
+﻿Sample,ID,Taxon,Reads,Abundance
+1284,BV-_1,Lactobacillus iners,19366,83.34480978
+1284,BV-_1,Lactobacillus jensenii,3687,15.86761921
+1289,BV-_2,Lactobacillus crispatus,20712,99.23817738
+1290,BV-_3,Lactobacillus crispatus,15166,99.84200132
+1292,BV+_1,Gardnerella,11158,31.26716359
+1292,BV+_1,Prevotella bivia,5030,14.09516337
+1292,BV+_1,Fannyhessea vaginae,2653,7.434287956
+1292,BV+_1,Megasphaera lornae,2644,7.409067982
+1292,BV+_1,Lactobacillus iners,2240,6.276971361
+1292,BV+_1,Lachnocurva,2201,6.167684806
+1292,BV+_1,Prevotella,1096,3.071232416
+1292,BV+_1,Parvimonas micra,1084,3.037605784
+1292,BV+_1,Dialister propionicifaciens,818,2.292215435
+1292,BV+_1,Dialister,784,2.196939976
+1292,BV+_1,Coriobacteriales bacterium DNF00809,734,2.056829009
+1292,BV+_1,Peptostreptococcus anaerobius,716,2.00638906
+1292,BV+_1,Sneathia amnii,666,1.866278092
+1292,BV+_1,Prevotella disiens,555,1.555231744
+1292,BV+_1,Mycoplasma hominis,545,1.52720955
+1292,BV+_1,Dialister micraerophilus,417,1.168525472
+1292,BV+_1,Amygdalobacter,405,1.13489884
+1294,BV+_2,Prevotella timonensis,7934,29.4200534
+1294,BV+_2,Sneathia amnii,3170,11.7546722
+1294,BV+_2,Gardnerella,2935,10.88326906
+1294,BV+_2,Dialister,2430,9.010679324
+1294,BV+_2,Megasphaera lornae,1877,6.96010086
+1294,BV+_2,Amygdalobacter,1699,6.30005933
+1294,BV+_2,Fannyhessea vaginae,1517,5.625185405
+1294,BV+_2,Prevotella disiens,1510,5.599228716
+1294,BV+_2,Porphyromonas uenonis,1188,4.405221003
+1294,BV+_2,Prevotella buccalis,446,1.653811925
+1294,BV+_2,Coriobacteriales bacterium DNF00809,330,1.223672501
+1294,BV+_2,Arcanobacterium,300,1.112429546
+1294,BV+_2,Peptostreptococcus anaerobius,286,1.060516167
+1296,BV+_3,Gardnerella,9362,40.5544726
+1296,BV+_3,Megasphaera lornae,3660,15.85445094
+1296,BV+_3,Fannyhessea vaginae,2767,11.98613818
+1296,BV+_3,Prevotella bivia,1809,7.83625731
+1296,BV+_3,Coriobacteriales bacterium DNF00809,939,4.067576348
+1296,BV+_3,Lactobacillus iners,660,2.85899935
+1296,BV+_3,Prevotella disiens,637,2.759367555
+1296,BV+_3,Prevotella timonensis,566,2.451808534
+1296,BV+_3,Dialister micraerophilus,366,1.585445094
+1296,BV+_3,Porphyromonas,311,1.347195148
+1296,BV+_3,Porphyromonas uenonis,291,1.260558804
+1299,BV+_4,Gardnerella,7069,30.87843446
+1299,BV+_4,Prevotella timonensis,5122,22.37365133
+1299,BV+_4,Fannyhessea vaginae,2418,10.56218058
+1299,BV+_4,Amygdalobacter,2372,10.3612458
+1299,BV+_4,Sneathia amnii,1571,6.862359673
+1299,BV+_4,Coriobacteriales bacterium DNF00809,888,3.878914952
+1299,BV+_4,Megasphaera lornae,701,3.062071376
+1299,BV+_4,Sneathia sanguinegens,633,2.765037348
+1299,BV+_4,Dialister,335,1.463329402
+1299,BV+_4,Porphyromonas uenonis,328,1.43275237
+1299,BV+_4,Parvimonas micra,257,1.122613899
+1303,BV+_5,Gardnerella,10712,34.20506434
+1303,BV+_5,Prevotella timonensis,6630,21.17061021
+1303,BV+_5,Fannyhessea vaginae,4340,13.85828783
+1303,BV+_5,Megasphaera lornae,2713,8.663026471
+1303,BV+_5,Dialister,1709,5.457099978
+1303,BV+_5,Lachnospiraceae,887,2.83232749
+1303,BV+_5,Coriobacteriales bacterium DNF00809,816,2.605613565
+1303,BV+_5,Mobiluncus curtisii,486,1.551872785
+1303,BV+_5,Porphyromonas uenonis,481,1.535907015
+1303,BV+_5,Prevotella disiens,463,1.478430246
+1303,BV+_5,Prevotella buccalis,317,1.012229779
+1304,BV+_6,Lachnocurva,16764,72.26796569
+1304,BV+_6,Gardnerella,1578,6.802603785
+1304,BV+_6,Megasphaera lornae,1095,4.720437988
+1304,BV+_6,Prevotella,1045,4.504892874
+1304,BV+_6,Fannyhessea vaginae,544,2.345130836
+1304,BV+_6,Prevotella,357,1.538992111
+1306,BV+_7,Gardnerella,4973,38.48773315
+1306,BV+_7,Lactobacillus iners,3187,24.66527359
+1306,BV+_7,Fannyhessea vaginae,1571,12.15850166
+1306,BV+_7,Prevotella bivia,1334,10.32427831
+1306,BV+_7,Anaerococcus,464,3.591053324
+1306,BV+_7,Dialister,374,2.894512809
+1306,BV+_7,Coriobacteriales bacterium DNF00809,346,2.677811315
+1306,BV+_7,Aerococcus christensenii,180,1.393081031
+1310,BV+_8,Gardnerella,12213,40.7480315
+1310,BV+_8,Lactobacillus iners,10095,33.68143601
+1310,BV+_8,Veillonella montpellierensis,4887,16.3052182
+1310,BV+_8,Streptococcus pseudopneumoniae,1006,3.356466035
+1310,BV+_8,Aerococcus christensenii,690,2.302148672
+1314,BV-_4,Lactobacillus iners,12499,81.77833028
+1314,BV-_4,Gardnerella,1932,12.64066998
+1314,BV-_4,Aerococcus christensenii,300,1.962836954
+1314,BV-_4,Fannyhessea vaginae,293,1.917037425
+1316,BV-_5,Lactobacillus iners,49867,94.9757166
+1316,BV-_5,Lactobacillus jensenii,1458,2.776878393
+1318,BV+_9,Gardnerella,12472,52.68226747
+1318,BV+_9,Fannyhessea vaginae,2281,9.635042663
+1318,BV+_9,Megasphaera lornae,1519,6.416321703
+1318,BV+_9,Coriobacteriales bacterium DNF00809,1343,5.67289009
+1318,BV+_9,Amygdalobacter,904,3.818535102
+1318,BV+_9,Dialister,650,2.745628115
+1318,BV+_9,Lactobacillus iners,644,2.720283856
+1318,BV+_9,Prevotella,529,2.234518881
+1318,BV+_9,Prevotella timonensis,514,2.171158233
+1318,BV+_9,Sneathia sanguinegens,477,2.014868632
+1318,BV+_9,Mageeibacillus indolicus,462,1.951507983
+1318,BV+_9,Sneathia amnii,457,1.930387767
+1318,BV+_9,Megasphaera hutchinsoni,386,1.630480696
+1318,BV+_9,Prevotella amnii,341,1.44039875
+1320,BV+_10,Lactobacillus iners,11591,51.64869441
+1320,BV+_10,Prevotella bivia,4407,19.63728723
+1320,BV+_10,Bifidobacterium dentium,1948,8.680153284
+1320,BV+_10,Megasphaera micronuciformis,1265,5.636752518
+1320,BV+_10,Streptococcus agalactiae,609,2.713661884
+1320,BV+_10,Fenollaria,448,1.996257018
+1320,BV+_10,Fenollaria,423,1.884858747
+1320,BV+_10,Lactobacillus jensenii,377,1.679885928
+1320,BV+_10,Anaerococcus vaginalis,350,1.559575795
+1322,BV+_11,Gardnerella,3810,18.16707992
+1322,BV+_11,Lachnocurva,2720,12.96967385
+1322,BV+_11,Megasphaera hutchinsoni,2252,10.73812703
+1322,BV+_11,Prevotella amnii,1514,7.219149342
+1322,BV+_11,Sneathia amnii,1289,6.146290292
+1322,BV+_11,Fannyhessea vaginae,1237,5.898340645
+1322,BV+_11,Megasphaera lornae,825,3.933816517
+1322,BV+_11,Porphyromonas,602,2.870493992
+1322,BV+_11,Coriobacteriales bacterium DNF00809,553,2.636849132
+1322,BV+_11,Lactobacillus iners,550,2.622544345
+1322,BV+_11,Amygdalobacter,547,2.608239558
+1322,BV+_11,Porphyromonas uenonis,513,2.446118634
+1322,BV+_11,Prevotella,462,2.20293725
+1322,BV+_11,Mobiluncus mulieris,440,2.098035476
+1322,BV+_11,Sneathia sanguinegens,433,2.064657639
+1322,BV+_11,Parvimonas micra,419,1.997901965
+1322,BV+_11,Dialister,408,1.945451078
+1322,BV+_11,Peptostreptococcus anaerobius,254,1.211138661
+1322,BV+_11,Mageeibacillus indolicus,244,1.163456037
+1322,BV+_11,Peptoniphilus lacrimalis,221,1.053786
+1324,BV+_12,Gardnerella,12984,32.73084777
+1324,BV+_12,Prevotella timonensis,6500,16.38559076
+1324,BV+_12,Sneathia amnii,5989,15.09743124
+1324,BV+_12,Megasphaera lornae,4357,10.98338753
+1324,BV+_12,Fannyhessea vaginae,3568,8.994428899
+1324,BV+_12,Coriobacteriales bacterium DNF00809,2562,6.458443621
+1324,BV+_12,Sneathia sanguinegens,1672,4.214878116
+1326,BV-_6,Lactobacillus iners,51275,99.83450156
+1328,BV+_13,Gardnerella,23079,56.00203829
+1328,BV+_13,Megasphaera lornae,5362,13.01108927
+1328,BV+_13,Fannyhessea vaginae,3016,7.318434399
+1328,BV+_13,Prevotella,2555,6.199801024
+1328,BV+_13,Prevotella timonensis,2183,5.297129407
+1328,BV+_13,Amygdalobacter,1501,3.642231443
+1328,BV+_13,Coriobacteriales bacterium DNF00809,781,1.895125088
+1328,BV+_13,Dialister,742,1.80049016
+1328,BV+_13,Lactobacillus iners,650,1.577248793
+1328,BV+_13,Sneathia amnii,425,1.031278057
+1334,BV-_7,Lactobacillus iners,28908,96.60150376
+1334,BV-_7,Gardnerella,881,2.944026734
+1336,BV+_14,Gardnerella,19313,54.44883
+1336,BV+_14,Sneathia amnii,2506,7.065125458
+1336,BV+_14,Prevotella,2261,6.374400902
+1336,BV+_14,Lactobacillus iners,1833,5.167747392
+1336,BV+_14,Prevotella amnii,1802,5.080349591
+1336,BV+_14,Megasphaera lornae,1785,5.032421765
+1336,BV+_14,Sneathia sanguinegens,1423,4.011840992
+1336,BV+_14,Amygdalobacter,824,2.323089935
+1336,BV+_14,Dialister,720,2.029884409
+1336,BV+_14,Coriobacteriales bacterium DNF00809,672,1.894558782
+1336,BV+_14,Fannyhessea vaginae,596,1.680293206
+1336,BV+_14,Prevotella,474,1.336340569
+1338,BV-_8,Lactobacillus crispatus,27602,93.05508732
+1338,BV-_8,Lactobacillus jensenii,1396,4.706358304
+1340,BV-_9,Lactobacillus iners,23458,100
+1342,BV+_15,Gardnerella,30165,58.52281546
+1342,BV+_15,Megasphaera lornae,7873,15.27432873
+1342,BV+_15,Prevotella bivia,3949,7.66141549
+1342,BV+_15,Coriobacteriales bacterium DNF00809,2837,5.504035387
+1342,BV+_15,Amygdalobacter,2622,5.086916033
+1342,BV+_15,Lactobacillus iners,1733,3.362176005
+1342,BV+_15,Fannyhessea vaginae,830,1.610274717
+1346,BV+_16,Gardnerella,7651,29.7785389
+1346,BV+_16,Fannyhessea vaginae,2513,9.780874168
+1346,BV+_16,Sneathia amnii,2116,8.235706223
+1346,BV+_16,Dialister,1891,7.359981318
+1346,BV+_16,Amygdalobacter,1563,6.083369011
+1346,BV+_16,Prevotella timonensis,1399,5.445062858
+1346,BV+_16,Lachnocurva,1232,4.795080372
+1346,BV+_16,Megasphaera lornae,1045,4.067255673
+1346,BV+_16,Sneathia sanguinegens,1005,3.911571245
+1346,BV+_16,Parvimonas micra,721,2.806211809
+1346,BV+_16,Prevotella amnii,717,2.790643366
+1346,BV+_16,Prevotella,572,2.226287316
+1346,BV+_16,Coriobacteriales bacterium DNF00809,555,2.160121434
+1346,BV+_16,Dialister micraerophilus,461,1.794263029
+1346,BV+_16,Megasphaera hutchinsoni,349,1.358346631
+1346,BV+_16,Gemella asaccharolytica,326,1.268828085
+1346,BV+_16,Prevotella,291,1.132604211
+1348,BV+_17,Lachnocurva,6191,25.77006327
+1348,BV+_17,Gardnerella,5362,22.31934732
+1348,BV+_17,Megasphaera hutchinsoni,2162,8.999333999
+1348,BV+_17,Sneathia amnii,1034,4.304029304
+1348,BV+_17,TM7,951,3.958541459
+1348,BV+_17,Fannyhessea vaginae,927,3.858641359
+1348,BV+_17,Coriobacteriales bacterium DNF00809,900,3.746253746
+1348,BV+_17,Dialister,861,3.583916084
+1348,BV+_17,Prevotella,790,3.288378288
+1348,BV+_17,Megasphaera lornae,668,2.780552781
+1348,BV+_17,Sneathia sanguinegens,623,2.593240093
+1348,BV+_17,Prevotella timonensis,609,2.534965035
+1348,BV+_17,Prevotella amnii,498,2.072927073
+1348,BV+_17,Parvimonas micra,336,1.398601399
+1348,BV+_17,Lactobacillus iners,307,1.277888778
+1348,BV+_17,Dialister micraerophilus,287,1.194638695
+1348,BV+_17,Prevotella,274,1.140526141
+1348,BV+_17,Mageeibacillus indolicus,266,1.107226107
+1350,BV+_18,Gardnerella,3911,19.43160928
+1350,BV+_18,Lactobacillus iners,3097,15.3872907
+1350,BV+_18,Fannyhessea vaginae,2619,13.01237144
+1350,BV+_18,Prevotella timonensis,1815,9.017737368
+1350,BV+_18,Parvimonas micra,1700,8.446365579
+1350,BV+_18,Sneathia amnii,1148,5.703780991
+1350,BV+_18,Coriobacteriales bacterium DNF00809,1008,5.008197943
+1350,BV+_18,Mycoplasma hominis,663,3.294082576
+1350,BV+_18,Prevotella bivia,555,2.757489939
+1350,BV+_18,Megasphaera lornae,506,2.514035872
+1350,BV+_18,Megasphaera hutchinsoni,397,1.972474785
+1350,BV+_18,Sneathia sanguinegens,339,1.684304665
+1350,BV+_18,Dialister micraerophilus,324,1.60977791
+1350,BV+_18,Gemella asaccharolytica,316,1.570030308
+1350,BV+_18,Peptoniphilus lacrimalis,277,1.376260744
+1356,BV+_19,Gardnerella,15463,47.40052725
+1356,BV+_19,Sneathia amnii,2942,9.018453804
+1356,BV+_19,Megasphaera hutchinsoni,2142,6.566121023
+1356,BV+_19,Prevotella amnii,1994,6.112439458
+1356,BV+_19,Fannyhessea vaginae,1921,5.888664092
+1356,BV+_19,Amygdalobacter,1055,3.234013856
+1356,BV+_19,Prevotella timonensis,837,2.565753173
+1356,BV+_19,Parvimonas micra,782,2.397155294
+1356,BV+_19,Prevotella disiens,648,1.986389553
+1356,BV+_19,Coriobacteriales bacterium DNF00809,621,1.903623322
+1356,BV+_19,Prevotella,515,1.578689228
+1356,BV+_19,Mageeibacillus indolicus,459,1.407025933
+1356,BV+_19,Anaerococcus,444,1.361044694
+1356,BV+_19,Lachnocurva,429,1.315063454
+1358,BV+_20,Gardnerella,4698,19.64375314
+1358,BV+_20,Megasphaera lornae,3742,15.64642917
+1358,BV+_20,Lachnocurva,3089,12.91603947
+1358,BV+_20,Sneathia sanguinegens,2942,12.30138819
+1358,BV+_20,Prevotella amnii,1591,6.652450243
+1358,BV+_20,Prevotella timonensis,1415,5.916541228
+1358,BV+_20,Lactobacillus iners,1399,5.849640408
+1358,BV+_20,Coriobacteriales bacterium DNF00809,718,3.002174277
+1358,BV+_20,Prevotella bivia,587,2.454423817
+1358,BV+_20,Parvimonas micra,569,2.379160395
+1358,BV+_20,Fannyhessea vaginae,365,1.526174946
+1358,BV+_20,Dialister,362,1.513631042
+1358,BV+_20,Sneathia amnii,307,1.283659475
+1358,BV+_20,Prevotella disiens,277,1.158220438
+1358,BV+_20,Prevotella,251,1.049506606
+1358,BV+_20,Dialister micraerophilus,243,1.016056197
