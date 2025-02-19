@@ -1,0 +1,145 @@
+﻿Species,Pyruvate,Formate (mmol)
+L. crispatus,0 mmol,-0.022759
+L. crispatus,0 mmol,0.091036
+L. crispatus,0 mmol,-0.091036
+L. crispatus,10 mmol,-0.3444885
+L. crispatus,10 mmol,0.0229659
+L. crispatus,10 mmol,-0.1837272
+L. crispatus,100 mmol,-0.273108
+L. crispatus,100 mmol,-0.12414
+L. crispatus,100 mmol,2.80E-15
+L. iners,0 mmol,-0.204831
+L. iners,0 mmol,-0.295867
+L. iners,0 mmol,-0.250349
+L. iners,10 mmol,-0.4133862
+L. iners,10 mmol,-0.0688977
+L. iners,10 mmol,-0.1837272
+L. iners,100 mmol,-0.24828
+L. iners,100 mmol,-0.074484
+L. iners,100 mmol,0.173796
+L. gasseri,0 mmol,-0.2327798
+L. gasseri,0 mmol,-0.211618
+L. gasseri,0 mmol,-0.3809124
+L. gasseri,10 mmol,-0.12812508
+L. gasseri,10 mmol,-0.12812508
+L. gasseri,10 mmol,-0.08541672
+L. gasseri,100 mmol,-0.7387392
+L. gasseri,100 mmol,-0.5540544
+L. gasseri,100 mmol,-0.4155408
+L. jensenii,0 mmol,-0.2539416
+L. jensenii,0 mmol,-0.211618
+L. jensenii,0 mmol,-0.211618
+L. jensenii,10 mmol,-0.1067709
+L. jensenii,10 mmol,-0.34166688
+L. jensenii,10 mmol,-0.25625016
+L. jensenii,100 mmol,-0.2770272
+L. jensenii,100 mmol,-0.2539416
+L. jensenii,100 mmol,-0.3001128
+G. vaginalis ATCC14018,0 mmol,-0.045518
+G. vaginalis ATCC14018,0 mmol,-0.341385
+G. vaginalis ATCC14018,0 mmol,-0.364144
+G. vaginalis ATCC14018,10 mmol,-0.2526249
+G. vaginalis ATCC14018,10 mmol,-0.4133862
+G. vaginalis ATCC14018,10 mmol,-0.1148295
+G. vaginalis ATCC14018,100 mmol,-0.12414
+G. vaginalis ATCC14018,100 mmol,-0.37242
+G. vaginalis ATCC14018,100 mmol,-0.24828
+G. vaginalis 315-A,0 mmol,13.9131135
+G. vaginalis 315-A,0 mmol,13.3898853
+G. vaginalis 315-A,0 mmol,13.1758374
+G. vaginalis 315-A,10 mmol,16.5595239
+G. vaginalis 315-A,10 mmol,16.82351631
+G. vaginalis 315-A,10 mmol,16.91951355
+G. vaginalis 315-A,100 mmol,16.8124896
+G. vaginalis 315-A,100 mmol,17.2795032
+G. vaginalis 315-A,100 mmol,19.1735028
+G. piotii,0 mmol,7.3219828
+G. piotii,0 mmol,7.7875424
+G. piotii,0 mmol,7.0045558
+G. piotii,10 mmol,6.7265667
+G. piotii,10 mmol,6.6197958
+G. piotii,10 mmol,5.93646204
+G. piotii,100 mmol,3.001128
+G. piotii,100 mmol,2.8395288
+G. piotii,100 mmol,3.2550696
+G. swidsinskii,0 mmol,2.8780048
+G. swidsinskii,0 mmol,3.7456386
+G. swidsinskii,0 mmol,2.962652
+G. swidsinskii,10 mmol,2.7760434
+G. swidsinskii,10 mmol,2.32760562
+G. swidsinskii,10 mmol,2.51979324
+G. swidsinskii,100 mmol,1.6852488
+G. swidsinskii,100 mmol,1.2466224
+G. swidsinskii,100 mmol,1.385136
+G. leopoldii,0 mmol,2.9414902
+G. leopoldii,0 mmol,2.7721958
+G. leopoldii,0 mmol,2.7087104
+G. leopoldii,10 mmol,3.65156478
+G. leopoldii,10 mmol,4.24948182
+G. leopoldii,10 mmol,4.76198214
+G. leopoldii,100 mmol,4.270836
+G. leopoldii,100 mmol,4.0168944
+G. leopoldii,100 mmol,3.7860384
+F. vaginae,0 mmol,2.093828
+F. vaginae,0 mmol,1.797961
+F. vaginae,0 mmol,2.389695
+F. vaginae,10 mmol,2.8018398
+F. vaginae,10 mmol,1.8143061
+F. vaginae,10 mmol,2.2047264
+F. vaginae,100 mmol,4.518696
+F. vaginae,100 mmol,4.816632
+F. vaginae,100 mmol,2.383488
+A. indicium,0 mmol,0.7195012
+A. indicium,0 mmol,0.7618248
+A. indicium,0 mmol,0.740663
+A. indicium,10 mmol,0.81145884
+A. indicium,10 mmol,0.5338545
+A. indicium,10 mmol,0.6406254
+A. indicium,100 mmol,0.8541672
+A. indicium,100 mmol,0.6463968
+A. indicium,100 mmol,0.7618248
+A. nucleatus,0 mmol,4.8037286
+A. nucleatus,0 mmol,4.9306994
+A. nucleatus,0 mmol,4.973023
+A. nucleatus,10 mmol,4.24948182
+A. nucleatus,10 mmol,4.5911487
+A. nucleatus,10 mmol,4.6979196
+A. nucleatus,100 mmol,0.4386264
+A. nucleatus,100 mmol,0.4155408
+A. nucleatus,100 mmol,0.5540544
+M. lornae,0 mmol,0.6983394
+M. lornae,0 mmol,0.2751034
+M. lornae,0 mmol,0.3385888
+M. lornae,10 mmol,-0.27760434
+M. lornae,10 mmol,0.17083344
+M. lornae,10 mmol,0.29895852
+M. lornae,100 mmol,5.4712872
+M. lornae,100 mmol,5.5174584
+M. lornae,100 mmol,6.2561976
+M. vaginalis,0 mmol,0.2962652
+M. vaginalis,0 mmol,0.5925304
+M. vaginalis,0 mmol,0.529045
+M. vaginalis,10 mmol,0.12812508
+M. vaginalis,10 mmol,-0.08541672
+M. vaginalis,10 mmol,0.3203127
+M. vaginalis,100 mmol,1.8699336
+M. vaginalis,100 mmol,2.3778168
+M. vaginalis,100 mmol,1.385136
+S. vaginalis,0 mmol,14.247134
+S. vaginalis,0 mmol,14.429206
+S. vaginalis,0 mmol,13.382292
+S. vaginalis,10 mmol,14.6522442
+S. vaginalis,10 mmol,18.0511974
+S. vaginalis,10 mmol,17.8445043
+S. vaginalis,100 mmol,21.47622
+S. vaginalis,100 mmol,23.065212
+S. vaginalis,100 mmol,21.22794
+P. bivia,0 mmol,-0.6183606
+P. bivia,0 mmol,-0.7372761
+P. bivia,0 mmol,-0.9988902
+P. bivia,10 mmol,-0.35998965
+P. bivia,10 mmol,-0.28799172
+P. bivia,10 mmol,-0.16799517
+P. bivia,100 mmol,-0.2853972
+P. bivia,100 mmol,0
+P. bivia,100 mmol,0.0259452

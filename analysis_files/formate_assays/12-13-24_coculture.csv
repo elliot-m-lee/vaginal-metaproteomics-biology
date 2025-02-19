@@ -1,0 +1,19 @@
+﻿Sample,Treatment,Formate (mM)
+G. vaginalis,Glucose,28.961
+G. vaginalis,Glucose,33.9391
+G. vaginalis,Glucose,33.2704
+G. vaginalis,Vehicle,-2.988
+G. vaginalis,Vehicle,-1.9478
+G. vaginalis,Vehicle,-2.1707
+ELVB,Glucose,-8.7091
+ELVB,Glucose,-9.0063
+ELVB,Glucose,-9.7493
+ELVB,Vehicle,-9.2292
+ELVB,Vehicle,-8.5605
+ELVB,Vehicle,-7.446
+G. vaginalis + ELVB,Glucose,37.5798
+G. vaginalis + ELVB,Glucose,33.0475
+G. vaginalis + ELVB,Glucose,29.704
+G. vaginalis + ELVB,Vehicle,-0.6104
+G. vaginalis + ELVB,Vehicle,2.8817
+G. vaginalis + ELVB,Vehicle,1.6186
