@@ -1,0 +1,25 @@
+Treatment,Replicate,Hours,CFUs/mL
+Vehicle,1,0,3800
+Vehicle,2,0,3800
+Vehicle,3,0,3800
+20mM Formate,1,0,3800
+20mM Formate,2,0,3800
+20mM Formate,3,0,3800
+Vehicle,1,24,14200
+Vehicle,2,24,32000
+Vehicle,3,24,37400
+20mM Formate,1,24,104000
+20mM Formate,2,24,146000
+20mM Formate,3,24,154000
+Vehicle,1,48,1120000
+Vehicle,2,48,1280000
+Vehicle,3,48,1520000
+20mM Formate,1,48,5220000
+20mM Formate,2,48,7640000
+20mM Formate,3,48,5540000
+Vehicle,1,72,3360000
+Vehicle,2,72,3080000
+Vehicle,3,72,3500000
+20mM Formate,1,72,6860000
+20mM Formate,2,72,11400000
+20mM Formate,3,72,8020000
